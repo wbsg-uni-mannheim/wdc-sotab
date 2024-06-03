@@ -1,0 +1,125 @@
+property,expected_types
+Book.abridged,Boolean
+Book.bookEdition,Text
+Book.bookFormat,BookFormatType
+Book.illustrator,Person
+Book.isbn,Text
+Book.numberOfPages,Integer
+Book.about,Thing
+Book.abstract,Text
+Book.accessMode,Text
+Book.accessModeSufficient,ItemList
+Book.accessibilityAPI,Text
+Book.accessibilityControl,Text
+Book.accessibilityFeature,Text
+Book.accessibilityHazard,Text
+Book.accessibilitySummary,Text
+Book.accountablePerson,Person
+Book.acquireLicensePage,"['CreativeWork', 'URL']"
+Book.aggregateRating,AggregateRating
+Book.alternativeHeadline,Text
+Book.archivedAt,"['URL', 'WebPage']"
+Book.assesses,"['DefinedTerm', 'Text']"
+Book.associatedMedia,MediaObject
+Book.audience,Audience
+Book.audio,"['AudioObject', 'Clip', 'MusicRecording']"
+Book.author,"['Organization', 'Person']"
+Book.award,Text
+Book.character,Person
+Book.citation,"['CreativeWork', 'Text']"
+Book.comment,Comment
+Book.commentCount,Integer
+Book.conditionsOfAccess,Text
+Book.contentLocation,Place
+Book.contentRating,"['Rating', 'Text']"
+Book.contentReferenceTime,DateTime
+Book.contributor,"['Organization', 'Person']"
+Book.copyrightHolder,"['Organization', 'Person']"
+Book.copyrightNotice,Text
+Book.copyrightYear,Number
+Book.correction,"['CorrectionComment', 'Text', 'URL']"
+Book.countryOfOrigin,Country
+Book.creativeWorkStatus,"['DefinedTerm', 'Text']"
+Book.creator,"['Organization', 'Person']"
+Book.creditText,Text
+Book.dateCreated,"['Date', 'DateTime']"
+Book.dateModified,"['Date', 'DateTime']"
+Book.datePublished,"['Date', 'DateTime']"
+Book.discussionUrl,URL
+Book.editEIDR,"['Text', 'URL']"
+Book.editor,Person
+Book.educationalAlignment,AlignmentObject
+Book.educationalLevel,"['DefinedTerm', 'Text', 'URL']"
+Book.educationalUse,"['DefinedTerm', 'Text']"
+Book.encoding,MediaObject
+Book.encodingFormat,"['Text', 'URL']"
+Book.exampleOfWork,CreativeWork
+Book.expires,Date
+Book.funder,"['Organization', 'Person']"
+Book.genre,"['Text', 'URL']"
+Book.hasPart,CreativeWork
+Book.headline,Text
+Book.inLanguage,"['Language', 'Text']"
+Book.interactionStatistic,InteractionCounter
+Book.interactivityType,Text
+Book.interpretedAsClaim,Claim
+Book.isAccessibleForFree,Boolean
+Book.isBasedOn,"['CreativeWork', 'Product', 'URL']"
+Book.isFamilyFriendly,Boolean
+Book.isPartOf,"['CreativeWork', 'URL']"
+Book.keywords,"['DefinedTerm', 'Text', 'URL']"
+Book.learningResourceType,"['DefinedTerm', 'Text']"
+Book.license,"['CreativeWork', 'URL']"
+Book.locationCreated,Place
+Book.mainEntity,Thing
+Book.maintainer,"['Organization', 'Person']"
+Book.material,"['Product', 'Text', 'URL']"
+Book.materialExtent,"['QuantitativeValue', 'Text']"
+Book.mentions,Thing
+Book.offers,"['Demand', 'Offer']"
+Book.pattern,"['DefinedTerm', 'Text']"
+Book.position,"['Integer', 'Text']"
+Book.producer,"['Organization', 'Person']"
+Book.provider,"['Organization', 'Person']"
+Book.publication,PublicationEvent
+Book.publisher,"['Organization', 'Person']"
+Book.publisherImprint,Organization
+Book.publishingPrinciples,"['CreativeWork', 'URL']"
+Book.recordedAt,Event
+Book.releasedEvent,PublicationEvent
+Book.review,Review
+Book.schemaVersion,"['Text', 'URL']"
+Book.sdDatePublished,Date
+Book.sdLicense,"['CreativeWork', 'URL']"
+Book.sdPublisher,"['Organization', 'Person']"
+Book.size,"['DefinedTerm', 'QuantitativeValue', 'SizeSpecification', 'Text']"
+Book.sourceOrganization,Organization
+Book.spatial,Place
+Book.spatialCoverage,Place
+Book.sponsor,"['Organization', 'Person']"
+Book.teaches,"['DefinedTerm', 'Text']"
+Book.temporal,"['DateTime', 'Text']"
+Book.temporalCoverage,"['DateTime', 'Text', 'URL']"
+Book.text,Text
+Book.thumbnailUrl,URL
+Book.timeRequired,Duration
+Book.translationOfWork,CreativeWork
+Book.translator,"['Organization', 'Person']"
+Book.typicalAgeRange,Text
+Book.usageInfo,"['CreativeWork', 'URL']"
+Book.version,"['Number', 'Text']"
+Book.video,"['Clip', 'VideoObject']"
+Book.workExample,CreativeWork
+Book.workTranslation,CreativeWork
+Book.additionalType,URL
+Book.alternateName,Text
+Book.description,Text
+Book.disambiguatingDescription,Text
+Book.identifier,"['PropertyValue', 'Text', 'URL']"
+Book.image,"['ImageObject', 'URL']"
+Book.mainEntityOfPage,"['CreativeWork', 'URL']"
+Book.name,Text
+Book.potentialAction,Action
+Book.sameAs,URL
+Book.subjectOf,"['CreativeWork', 'Event']"
+Book.url,URL

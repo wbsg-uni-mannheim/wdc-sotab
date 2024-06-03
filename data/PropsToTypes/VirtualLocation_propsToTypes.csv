@@ -1,0 +1,13 @@
+property,expected_types
+VirtualLocation.additionalType,URL
+VirtualLocation.alternateName,Text
+VirtualLocation.description,Text
+VirtualLocation.disambiguatingDescription,Text
+VirtualLocation.identifier,"['PropertyValue', 'Text', 'URL']"
+VirtualLocation.image,"['ImageObject', 'URL']"
+VirtualLocation.mainEntityOfPage,"['CreativeWork', 'URL']"
+VirtualLocation.name,Text
+VirtualLocation.potentialAction,Action
+VirtualLocation.sameAs,URL
+VirtualLocation.subjectOf,"['CreativeWork', 'Event']"
+VirtualLocation.url,URL

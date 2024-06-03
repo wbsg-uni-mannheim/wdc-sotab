@@ -1,0 +1,36 @@
+property,expected_types
+Boolean.abridged,Book
+Boolean.acceptsReservations,FoodEstablishment
+Boolean.cashBack,PaymentCard
+Boolean.contactlessPayment,PaymentCard
+Boolean.directApply,JobPosting
+Boolean.doesNotShip,"['OfferShippingDetails', 'ShippingRateSettings']"
+Boolean.domiciledMortgage,MortgageLoan
+Boolean.experienceInPlaceOfEducation,JobPosting
+Boolean.free,PublicationEvent
+Boolean.hasDriveThroughService,Place
+Boolean.healthPlanCostSharing,"['HealthPlanFormulary', 'HealthPlanNetwork']"
+Boolean.inStoreReturnsOffered,MerchantReturnPolicy
+Boolean.isAcceptingNewPatients,MedicalOrganization
+Boolean.isAccessibleForFree,"['CreativeWork', 'Event', 'Place']"
+Boolean.isAvailableGenerically,Drug
+Boolean.isFamilyFriendly,"['CreativeWork', 'Offer', 'Product']"
+Boolean.isGift,Order
+Boolean.isLiveBroadcast,BroadcastEvent
+Boolean.isProprietary,"['DietarySupplement', 'Drug']"
+Boolean.isResizable,3DModel
+Boolean.isUnlabelledFallback,"['DeliveryTimeSettings', 'ShippingRateSettings']"
+Boolean.jobImmediateStart,JobPosting
+Boolean.multipleValues,PropertyValueSpecification
+Boolean.offersPrescriptionByMail,HealthPlanFormulary
+Boolean.petsAllowed,"['Accommodation', 'ApartmentComplex', 'FloorPlan', 'LodgingBusiness']"
+Boolean.publicAccess,Place
+Boolean.readonlyValue,PropertyValueSpecification
+Boolean.recourseLoan,LoanOrCredit
+Boolean.renegotiableLoan,LoanOrCredit
+Boolean.representativeOfPage,ImageObject
+Boolean.requiresSubscription,"['ActionAccessSpecification', 'MediaObject']"
+Boolean.smokingAllowed,Place
+Boolean.value,"['MonetaryAmount', 'PropertyValue', 'QuantitativeValue']"
+Boolean.valueAddedTaxIncluded,PriceSpecification
+Boolean.valueRequired,PropertyValueSpecification

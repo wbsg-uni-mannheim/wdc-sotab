@@ -1,0 +1,2 @@
+property,expected_types
+PhysicalActivityCategory.category,"['ActionAccessSpecification', 'Invoice', 'Offer', 'PhysicalActivity', 'Product', 'Recommendation', 'Service', 'SpecialAnnouncement']"

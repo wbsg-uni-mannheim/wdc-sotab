@@ -1,0 +1,108 @@
+property,expected_types
+School.alumni,Person
+School.openingHours,Text
+School.additionalProperty,PropertyValue
+School.address,"['PostalAddress', 'Text']"
+School.aggregateRating,AggregateRating
+School.amenityFeature,LocationFeatureSpecification
+School.branchCode,Text
+School.containedInPlace,Place
+School.containsPlace,Place
+School.event,Event
+School.faxNumber,Text
+School.geo,"['GeoCoordinates', 'GeoShape']"
+School.geoContains,"['GeospatialGeometry', 'Place']"
+School.geoCoveredBy,"['GeospatialGeometry', 'Place']"
+School.geoCovers,"['GeospatialGeometry', 'Place']"
+School.geoCrosses,"['GeospatialGeometry', 'Place']"
+School.geoDisjoint,"['GeospatialGeometry', 'Place']"
+School.geoEquals,"['GeospatialGeometry', 'Place']"
+School.geoIntersects,"['GeospatialGeometry', 'Place']"
+School.geoOverlaps,"['GeospatialGeometry', 'Place']"
+School.geoTouches,"['GeospatialGeometry', 'Place']"
+School.geoWithin,"['GeospatialGeometry', 'Place']"
+School.globalLocationNumber,Text
+School.hasDriveThroughService,Boolean
+School.hasMap,"['Map', 'URL']"
+School.isAccessibleForFree,Boolean
+School.isicV4,Text
+School.latitude,"['Number', 'Text']"
+School.logo,"['ImageObject', 'URL']"
+School.longitude,"['Number', 'Text']"
+School.maximumAttendeeCapacity,Integer
+School.openingHoursSpecification,OpeningHoursSpecification
+School.photo,"['ImageObject', 'Photograph']"
+School.publicAccess,Boolean
+School.review,Review
+School.slogan,Text
+School.smokingAllowed,Boolean
+School.specialOpeningHoursSpecification,OpeningHoursSpecification
+School.telephone,Text
+School.tourBookingPage,URL
+School.actionableFeedbackPolicy,"['CreativeWork', 'URL']"
+School.address,"['PostalAddress', 'Text']"
+School.aggregateRating,AggregateRating
+School.alumni,Person
+School.areaServed,"['AdministrativeArea', 'GeoShape', 'Place', 'Text']"
+School.award,Text
+School.brand,"['Brand', 'Organization']"
+School.contactPoint,ContactPoint
+School.correctionsPolicy,"['CreativeWork', 'URL']"
+School.department,Organization
+School.dissolutionDate,Date
+School.diversityPolicy,"['CreativeWork', 'URL']"
+School.diversityStaffingReport,"['Article', 'URL']"
+School.duns,Text
+School.email,Text
+School.employee,Person
+School.ethicsPolicy,"['CreativeWork', 'URL']"
+School.event,Event
+School.faxNumber,Text
+School.founder,Person
+School.foundingDate,Date
+School.foundingLocation,Place
+School.funder,"['Organization', 'Person']"
+School.globalLocationNumber,Text
+School.hasCredential,EducationalOccupationalCredential
+School.hasMerchantReturnPolicy,MerchantReturnPolicy
+School.hasOfferCatalog,OfferCatalog
+School.hasPOS,Place
+School.interactionStatistic,InteractionCounter
+School.isicV4,Text
+School.knowsAbout,"['Text', 'Thing', 'URL']"
+School.knowsLanguage,"['Language', 'Text']"
+School.legalName,Text
+School.leiCode,Text
+School.location,"['Place', 'PostalAddress', 'Text', 'VirtualLocation']"
+School.logo,"['ImageObject', 'URL']"
+School.makesOffer,Offer
+School.member,"['Organization', 'Person']"
+School.memberOf,"['Organization', 'ProgramMembership']"
+School.naics,Text
+School.nonprofitStatus,NonprofitType
+School.numberOfEmployees,QuantitativeValue
+School.ownershipFundingInfo,"['AboutPage', 'CreativeWork', 'Text', 'URL']"
+School.owns,"['OwnershipInfo', 'Product']"
+School.parentOrganization,Organization
+School.publishingPrinciples,"['CreativeWork', 'URL']"
+School.review,Review
+School.seeks,Demand
+School.slogan,Text
+School.sponsor,"['Organization', 'Person']"
+School.subOrganization,Organization
+School.taxID,Text
+School.telephone,Text
+School.unnamedSourcesPolicy,"['CreativeWork', 'URL']"
+School.vatID,Text
+School.additionalType,URL
+School.alternateName,Text
+School.description,Text
+School.disambiguatingDescription,Text
+School.identifier,"['PropertyValue', 'Text', 'URL']"
+School.image,"['ImageObject', 'URL']"
+School.mainEntityOfPage,"['CreativeWork', 'URL']"
+School.name,Text
+School.potentialAction,Action
+School.sameAs,URL
+School.subjectOf,"['CreativeWork', 'Event']"
+School.url,URL

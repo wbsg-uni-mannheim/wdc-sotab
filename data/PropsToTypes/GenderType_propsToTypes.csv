@@ -1,0 +1,3 @@
+property,expected_types
+GenderType.gender,"['Person', 'SportsTeam']"
+GenderType.suggestedGender,"['PeopleAudience', 'SizeSpecification']"

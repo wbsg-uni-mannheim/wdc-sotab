@@ -1,0 +1,52 @@
+property,expected_types
+Museum.openingHours,Text
+Museum.additionalProperty,PropertyValue
+Museum.address,"['PostalAddress', 'Text']"
+Museum.aggregateRating,AggregateRating
+Museum.amenityFeature,LocationFeatureSpecification
+Museum.branchCode,Text
+Museum.containedInPlace,Place
+Museum.containsPlace,Place
+Museum.event,Event
+Museum.faxNumber,Text
+Museum.geo,"['GeoCoordinates', 'GeoShape']"
+Museum.geoContains,"['GeospatialGeometry', 'Place']"
+Museum.geoCoveredBy,"['GeospatialGeometry', 'Place']"
+Museum.geoCovers,"['GeospatialGeometry', 'Place']"
+Museum.geoCrosses,"['GeospatialGeometry', 'Place']"
+Museum.geoDisjoint,"['GeospatialGeometry', 'Place']"
+Museum.geoEquals,"['GeospatialGeometry', 'Place']"
+Museum.geoIntersects,"['GeospatialGeometry', 'Place']"
+Museum.geoOverlaps,"['GeospatialGeometry', 'Place']"
+Museum.geoTouches,"['GeospatialGeometry', 'Place']"
+Museum.geoWithin,"['GeospatialGeometry', 'Place']"
+Museum.globalLocationNumber,Text
+Museum.hasDriveThroughService,Boolean
+Museum.hasMap,"['Map', 'URL']"
+Museum.isAccessibleForFree,Boolean
+Museum.isicV4,Text
+Museum.latitude,"['Number', 'Text']"
+Museum.logo,"['ImageObject', 'URL']"
+Museum.longitude,"['Number', 'Text']"
+Museum.maximumAttendeeCapacity,Integer
+Museum.openingHoursSpecification,OpeningHoursSpecification
+Museum.photo,"['ImageObject', 'Photograph']"
+Museum.publicAccess,Boolean
+Museum.review,Review
+Museum.slogan,Text
+Museum.smokingAllowed,Boolean
+Museum.specialOpeningHoursSpecification,OpeningHoursSpecification
+Museum.telephone,Text
+Museum.tourBookingPage,URL
+Museum.additionalType,URL
+Museum.alternateName,Text
+Museum.description,Text
+Museum.disambiguatingDescription,Text
+Museum.identifier,"['PropertyValue', 'Text', 'URL']"
+Museum.image,"['ImageObject', 'URL']"
+Museum.mainEntityOfPage,"['CreativeWork', 'URL']"
+Museum.name,Text
+Museum.potentialAction,Action
+Museum.sameAs,URL
+Museum.subjectOf,"['CreativeWork', 'Event']"
+Museum.url,URL

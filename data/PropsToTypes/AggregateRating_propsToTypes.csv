@@ -1,0 +1,22 @@
+property,expected_types
+AggregateRating.itemReviewed,Thing
+AggregateRating.ratingCount,Integer
+AggregateRating.reviewCount,Integer
+AggregateRating.author,"['Organization', 'Person']"
+AggregateRating.bestRating,"['Number', 'Text']"
+AggregateRating.ratingExplanation,Text
+AggregateRating.ratingValue,"['Number', 'Text']"
+AggregateRating.reviewAspect,Text
+AggregateRating.worstRating,"['Number', 'Text']"
+AggregateRating.additionalType,URL
+AggregateRating.alternateName,Text
+AggregateRating.description,Text
+AggregateRating.disambiguatingDescription,Text
+AggregateRating.identifier,"['PropertyValue', 'Text', 'URL']"
+AggregateRating.image,"['ImageObject', 'URL']"
+AggregateRating.mainEntityOfPage,"['CreativeWork', 'URL']"
+AggregateRating.name,Text
+AggregateRating.potentialAction,Action
+AggregateRating.sameAs,URL
+AggregateRating.subjectOf,"['CreativeWork', 'Event']"
+AggregateRating.url,URL

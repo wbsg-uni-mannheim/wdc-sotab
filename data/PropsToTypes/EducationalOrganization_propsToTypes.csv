@@ -1,0 +1,108 @@
+property,expected_types
+EducationalOrganization.alumni,Person
+EducationalOrganization.openingHours,Text
+EducationalOrganization.additionalProperty,PropertyValue
+EducationalOrganization.address,"['PostalAddress', 'Text']"
+EducationalOrganization.aggregateRating,AggregateRating
+EducationalOrganization.amenityFeature,LocationFeatureSpecification
+EducationalOrganization.branchCode,Text
+EducationalOrganization.containedInPlace,Place
+EducationalOrganization.containsPlace,Place
+EducationalOrganization.event,Event
+EducationalOrganization.faxNumber,Text
+EducationalOrganization.geo,"['GeoCoordinates', 'GeoShape']"
+EducationalOrganization.geoContains,"['GeospatialGeometry', 'Place']"
+EducationalOrganization.geoCoveredBy,"['GeospatialGeometry', 'Place']"
+EducationalOrganization.geoCovers,"['GeospatialGeometry', 'Place']"
+EducationalOrganization.geoCrosses,"['GeospatialGeometry', 'Place']"
+EducationalOrganization.geoDisjoint,"['GeospatialGeometry', 'Place']"
+EducationalOrganization.geoEquals,"['GeospatialGeometry', 'Place']"
+EducationalOrganization.geoIntersects,"['GeospatialGeometry', 'Place']"
+EducationalOrganization.geoOverlaps,"['GeospatialGeometry', 'Place']"
+EducationalOrganization.geoTouches,"['GeospatialGeometry', 'Place']"
+EducationalOrganization.geoWithin,"['GeospatialGeometry', 'Place']"
+EducationalOrganization.globalLocationNumber,Text
+EducationalOrganization.hasDriveThroughService,Boolean
+EducationalOrganization.hasMap,"['Map', 'URL']"
+EducationalOrganization.isAccessibleForFree,Boolean
+EducationalOrganization.isicV4,Text
+EducationalOrganization.latitude,"['Number', 'Text']"
+EducationalOrganization.logo,"['ImageObject', 'URL']"
+EducationalOrganization.longitude,"['Number', 'Text']"
+EducationalOrganization.maximumAttendeeCapacity,Integer
+EducationalOrganization.openingHoursSpecification,OpeningHoursSpecification
+EducationalOrganization.photo,"['ImageObject', 'Photograph']"
+EducationalOrganization.publicAccess,Boolean
+EducationalOrganization.review,Review
+EducationalOrganization.slogan,Text
+EducationalOrganization.smokingAllowed,Boolean
+EducationalOrganization.specialOpeningHoursSpecification,OpeningHoursSpecification
+EducationalOrganization.telephone,Text
+EducationalOrganization.tourBookingPage,URL
+EducationalOrganization.actionableFeedbackPolicy,"['CreativeWork', 'URL']"
+EducationalOrganization.address,"['PostalAddress', 'Text']"
+EducationalOrganization.aggregateRating,AggregateRating
+EducationalOrganization.alumni,Person
+EducationalOrganization.areaServed,"['AdministrativeArea', 'GeoShape', 'Place', 'Text']"
+EducationalOrganization.award,Text
+EducationalOrganization.brand,"['Brand', 'Organization']"
+EducationalOrganization.contactPoint,ContactPoint
+EducationalOrganization.correctionsPolicy,"['CreativeWork', 'URL']"
+EducationalOrganization.department,Organization
+EducationalOrganization.dissolutionDate,Date
+EducationalOrganization.diversityPolicy,"['CreativeWork', 'URL']"
+EducationalOrganization.diversityStaffingReport,"['Article', 'URL']"
+EducationalOrganization.duns,Text
+EducationalOrganization.email,Text
+EducationalOrganization.employee,Person
+EducationalOrganization.ethicsPolicy,"['CreativeWork', 'URL']"
+EducationalOrganization.event,Event
+EducationalOrganization.faxNumber,Text
+EducationalOrganization.founder,Person
+EducationalOrganization.foundingDate,Date
+EducationalOrganization.foundingLocation,Place
+EducationalOrganization.funder,"['Organization', 'Person']"
+EducationalOrganization.globalLocationNumber,Text
+EducationalOrganization.hasCredential,EducationalOccupationalCredential
+EducationalOrganization.hasMerchantReturnPolicy,MerchantReturnPolicy
+EducationalOrganization.hasOfferCatalog,OfferCatalog
+EducationalOrganization.hasPOS,Place
+EducationalOrganization.interactionStatistic,InteractionCounter
+EducationalOrganization.isicV4,Text
+EducationalOrganization.knowsAbout,"['Text', 'Thing', 'URL']"
+EducationalOrganization.knowsLanguage,"['Language', 'Text']"
+EducationalOrganization.legalName,Text
+EducationalOrganization.leiCode,Text
+EducationalOrganization.location,"['Place', 'PostalAddress', 'Text', 'VirtualLocation']"
+EducationalOrganization.logo,"['ImageObject', 'URL']"
+EducationalOrganization.makesOffer,Offer
+EducationalOrganization.member,"['Organization', 'Person']"
+EducationalOrganization.memberOf,"['Organization', 'ProgramMembership']"
+EducationalOrganization.naics,Text
+EducationalOrganization.nonprofitStatus,NonprofitType
+EducationalOrganization.numberOfEmployees,QuantitativeValue
+EducationalOrganization.ownershipFundingInfo,"['AboutPage', 'CreativeWork', 'Text', 'URL']"
+EducationalOrganization.owns,"['OwnershipInfo', 'Product']"
+EducationalOrganization.parentOrganization,Organization
+EducationalOrganization.publishingPrinciples,"['CreativeWork', 'URL']"
+EducationalOrganization.review,Review
+EducationalOrganization.seeks,Demand
+EducationalOrganization.slogan,Text
+EducationalOrganization.sponsor,"['Organization', 'Person']"
+EducationalOrganization.subOrganization,Organization
+EducationalOrganization.taxID,Text
+EducationalOrganization.telephone,Text
+EducationalOrganization.unnamedSourcesPolicy,"['CreativeWork', 'URL']"
+EducationalOrganization.vatID,Text
+EducationalOrganization.additionalType,URL
+EducationalOrganization.alternateName,Text
+EducationalOrganization.description,Text
+EducationalOrganization.disambiguatingDescription,Text
+EducationalOrganization.identifier,"['PropertyValue', 'Text', 'URL']"
+EducationalOrganization.image,"['ImageObject', 'URL']"
+EducationalOrganization.mainEntityOfPage,"['CreativeWork', 'URL']"
+EducationalOrganization.name,Text
+EducationalOrganization.potentialAction,Action
+EducationalOrganization.sameAs,URL
+EducationalOrganization.subjectOf,"['CreativeWork', 'Event']"
+EducationalOrganization.url,URL

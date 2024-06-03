@@ -1,0 +1,28 @@
+property,expected_types
+SizeSpecification.hasMeasurement,QuantitativeValue
+SizeSpecification.sizeGroup,"['SizeGroupEnumeration', 'Text']"
+SizeSpecification.sizeSystem,"['SizeSystemEnumeration', 'Text']"
+SizeSpecification.suggestedAge,QuantitativeValue
+SizeSpecification.suggestedGender,"['GenderType', 'Text']"
+SizeSpecification.suggestedMeasurement,QuantitativeValue
+SizeSpecification.additionalProperty,PropertyValue
+SizeSpecification.equal,QualitativeValue
+SizeSpecification.greater,QualitativeValue
+SizeSpecification.greaterOrEqual,QualitativeValue
+SizeSpecification.lesser,QualitativeValue
+SizeSpecification.lesserOrEqual,QualitativeValue
+SizeSpecification.nonEqual,QualitativeValue
+SizeSpecification.valueReference,"['DefinedTerm', 'Enumeration', 'MeasurementTypeEnumeration', 'PropertyValue', 'QualitativeValue', 'QuantitativeValue', 'StructuredValue', 'Text']"
+SizeSpecification.supersededBy,"['Class', 'Enumeration', 'Property']"
+SizeSpecification.additionalType,URL
+SizeSpecification.alternateName,Text
+SizeSpecification.description,Text
+SizeSpecification.disambiguatingDescription,Text
+SizeSpecification.identifier,"['PropertyValue', 'Text', 'URL']"
+SizeSpecification.image,"['ImageObject', 'URL']"
+SizeSpecification.mainEntityOfPage,"['CreativeWork', 'URL']"
+SizeSpecification.name,Text
+SizeSpecification.potentialAction,Action
+SizeSpecification.sameAs,URL
+SizeSpecification.subjectOf,"['CreativeWork', 'Event']"
+SizeSpecification.url,URL

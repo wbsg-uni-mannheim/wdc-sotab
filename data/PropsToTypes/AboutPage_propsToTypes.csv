@@ -1,0 +1,129 @@
+property,expected_types
+AboutPage.breadcrumb,"['BreadcrumbList', 'Text']"
+AboutPage.lastReviewed,Date
+AboutPage.mainContentOfPage,WebPageElement
+AboutPage.primaryImageOfPage,ImageObject
+AboutPage.relatedLink,URL
+AboutPage.reviewedBy,"['Organization', 'Person']"
+AboutPage.significantLink,URL
+AboutPage.speakable,"['SpeakableSpecification', 'URL']"
+AboutPage.specialty,Specialty
+AboutPage.about,Thing
+AboutPage.abstract,Text
+AboutPage.accessMode,Text
+AboutPage.accessModeSufficient,ItemList
+AboutPage.accessibilityAPI,Text
+AboutPage.accessibilityControl,Text
+AboutPage.accessibilityFeature,Text
+AboutPage.accessibilityHazard,Text
+AboutPage.accessibilitySummary,Text
+AboutPage.accountablePerson,Person
+AboutPage.acquireLicensePage,"['CreativeWork', 'URL']"
+AboutPage.aggregateRating,AggregateRating
+AboutPage.alternativeHeadline,Text
+AboutPage.archivedAt,"['URL', 'WebPage']"
+AboutPage.assesses,"['DefinedTerm', 'Text']"
+AboutPage.associatedMedia,MediaObject
+AboutPage.audience,Audience
+AboutPage.audio,"['AudioObject', 'Clip', 'MusicRecording']"
+AboutPage.author,"['Organization', 'Person']"
+AboutPage.award,Text
+AboutPage.character,Person
+AboutPage.citation,"['CreativeWork', 'Text']"
+AboutPage.comment,Comment
+AboutPage.commentCount,Integer
+AboutPage.conditionsOfAccess,Text
+AboutPage.contentLocation,Place
+AboutPage.contentRating,"['Rating', 'Text']"
+AboutPage.contentReferenceTime,DateTime
+AboutPage.contributor,"['Organization', 'Person']"
+AboutPage.copyrightHolder,"['Organization', 'Person']"
+AboutPage.copyrightNotice,Text
+AboutPage.copyrightYear,Number
+AboutPage.correction,"['CorrectionComment', 'Text', 'URL']"
+AboutPage.countryOfOrigin,Country
+AboutPage.creativeWorkStatus,"['DefinedTerm', 'Text']"
+AboutPage.creator,"['Organization', 'Person']"
+AboutPage.creditText,Text
+AboutPage.dateCreated,"['Date', 'DateTime']"
+AboutPage.dateModified,"['Date', 'DateTime']"
+AboutPage.datePublished,"['Date', 'DateTime']"
+AboutPage.discussionUrl,URL
+AboutPage.editEIDR,"['Text', 'URL']"
+AboutPage.editor,Person
+AboutPage.educationalAlignment,AlignmentObject
+AboutPage.educationalLevel,"['DefinedTerm', 'Text', 'URL']"
+AboutPage.educationalUse,"['DefinedTerm', 'Text']"
+AboutPage.encoding,MediaObject
+AboutPage.encodingFormat,"['Text', 'URL']"
+AboutPage.exampleOfWork,CreativeWork
+AboutPage.expires,Date
+AboutPage.funder,"['Organization', 'Person']"
+AboutPage.funding,Grant
+AboutPage.genre,"['Text', 'URL']"
+AboutPage.hasPart,CreativeWork
+AboutPage.headline,Text
+AboutPage.inLanguage,"['Language', 'Text']"
+AboutPage.interactionStatistic,InteractionCounter
+AboutPage.interactivityType,Text
+AboutPage.interpretedAsClaim,Claim
+AboutPage.isAccessibleForFree,Boolean
+AboutPage.isBasedOn,"['CreativeWork', 'Product', 'URL']"
+AboutPage.isFamilyFriendly,Boolean
+AboutPage.isPartOf,"['CreativeWork', 'URL']"
+AboutPage.keywords,"['DefinedTerm', 'Text', 'URL']"
+AboutPage.learningResourceType,"['DefinedTerm', 'Text']"
+AboutPage.license,"['CreativeWork', 'URL']"
+AboutPage.locationCreated,Place
+AboutPage.mainEntity,Thing
+AboutPage.maintainer,"['Organization', 'Person']"
+AboutPage.material,"['Product', 'Text', 'URL']"
+AboutPage.materialExtent,"['QuantitativeValue', 'Text']"
+AboutPage.mentions,Thing
+AboutPage.offers,"['Demand', 'Offer']"
+AboutPage.pattern,"['DefinedTerm', 'Text']"
+AboutPage.position,"['Integer', 'Text']"
+AboutPage.producer,"['Organization', 'Person']"
+AboutPage.provider,"['Organization', 'Person']"
+AboutPage.publication,PublicationEvent
+AboutPage.publisher,"['Organization', 'Person']"
+AboutPage.publisherImprint,Organization
+AboutPage.publishingPrinciples,"['CreativeWork', 'URL']"
+AboutPage.recordedAt,Event
+AboutPage.releasedEvent,PublicationEvent
+AboutPage.review,Review
+AboutPage.schemaVersion,"['Text', 'URL']"
+AboutPage.sdDatePublished,Date
+AboutPage.sdLicense,"['CreativeWork', 'URL']"
+AboutPage.sdPublisher,"['Organization', 'Person']"
+AboutPage.size,"['DefinedTerm', 'QuantitativeValue', 'SizeSpecification', 'Text']"
+AboutPage.sourceOrganization,Organization
+AboutPage.spatial,Place
+AboutPage.spatialCoverage,Place
+AboutPage.sponsor,"['Organization', 'Person']"
+AboutPage.teaches,"['DefinedTerm', 'Text']"
+AboutPage.temporal,"['DateTime', 'Text']"
+AboutPage.temporalCoverage,"['DateTime', 'Text', 'URL']"
+AboutPage.text,Text
+AboutPage.thumbnailUrl,URL
+AboutPage.timeRequired,Duration
+AboutPage.translationOfWork,CreativeWork
+AboutPage.translator,"['Organization', 'Person']"
+AboutPage.typicalAgeRange,Text
+AboutPage.usageInfo,"['CreativeWork', 'URL']"
+AboutPage.version,"['Number', 'Text']"
+AboutPage.video,"['Clip', 'VideoObject']"
+AboutPage.workExample,CreativeWork
+AboutPage.workTranslation,CreativeWork
+AboutPage.additionalType,URL
+AboutPage.alternateName,Text
+AboutPage.description,Text
+AboutPage.disambiguatingDescription,Text
+AboutPage.identifier,"['PropertyValue', 'Text', 'URL']"
+AboutPage.image,"['ImageObject', 'URL']"
+AboutPage.mainEntityOfPage,"['CreativeWork', 'URL']"
+AboutPage.name,Text
+AboutPage.potentialAction,Action
+AboutPage.sameAs,URL
+AboutPage.subjectOf,"['CreativeWork', 'Event']"
+AboutPage.url,URL

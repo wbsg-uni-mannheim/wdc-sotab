@@ -1,0 +1,48 @@
+property,expected_types
+JobPosting.applicantLocationRequirements,AdministrativeArea
+JobPosting.applicationContact,ContactPoint
+JobPosting.baseSalary,"['MonetaryAmount', 'Number', 'PriceSpecification']"
+JobPosting.datePosted,"['Date', 'DateTime']"
+JobPosting.directApply,Boolean
+JobPosting.educationRequirements,"['EducationalOccupationalCredential', 'Text']"
+JobPosting.eligibilityToWorkRequirement,Text
+JobPosting.employerOverview,Text
+JobPosting.employmentType,Text
+JobPosting.employmentUnit,Organization
+JobPosting.estimatedSalary,"['MonetaryAmount', 'MonetaryAmountDistribution', 'Number']"
+JobPosting.experienceInPlaceOfEducation,Boolean
+JobPosting.experienceRequirements,"['OccupationalExperienceRequirements', 'Text']"
+JobPosting.hiringOrganization,Organization
+JobPosting.incentiveCompensation,Text
+JobPosting.industry,"['DefinedTerm', 'Text']"
+JobPosting.jobBenefits,Text
+JobPosting.jobImmediateStart,Boolean
+JobPosting.jobLocation,Place
+JobPosting.jobLocationType,Text
+JobPosting.jobStartDate,"['Date', 'Text']"
+JobPosting.occupationalCategory,"['CategoryCode', 'Text']"
+JobPosting.physicalRequirement,"['DefinedTerm', 'Text', 'URL']"
+JobPosting.qualifications,"['EducationalOccupationalCredential', 'Text']"
+JobPosting.relevantOccupation,Occupation
+JobPosting.responsibilities,Text
+JobPosting.salaryCurrency,Text
+JobPosting.securityClearanceRequirement,"['Text', 'URL']"
+JobPosting.sensoryRequirement,"['DefinedTerm', 'Text', 'URL']"
+JobPosting.skills,"['DefinedTerm', 'Text']"
+JobPosting.specialCommitments,Text
+JobPosting.title,Text
+JobPosting.totalJobOpenings,Integer
+JobPosting.validThrough,"['Date', 'DateTime']"
+JobPosting.workHours,Text
+JobPosting.additionalType,URL
+JobPosting.alternateName,Text
+JobPosting.description,Text
+JobPosting.disambiguatingDescription,Text
+JobPosting.identifier,"['PropertyValue', 'Text', 'URL']"
+JobPosting.image,"['ImageObject', 'URL']"
+JobPosting.mainEntityOfPage,"['CreativeWork', 'URL']"
+JobPosting.name,Text
+JobPosting.potentialAction,Action
+JobPosting.sameAs,URL
+JobPosting.subjectOf,"['CreativeWork', 'Event']"
+JobPosting.url,URL

@@ -1,0 +1,28 @@
+property,expected_types
+PostalAddress.addressCountry,"['Country', 'Text']"
+PostalAddress.addressLocality,Text
+PostalAddress.addressRegion,Text
+PostalAddress.postOfficeBoxNumber,Text
+PostalAddress.postalCode,Text
+PostalAddress.streetAddress,Text
+PostalAddress.areaServed,"['AdministrativeArea', 'GeoShape', 'Place', 'Text']"
+PostalAddress.availableLanguage,"['Language', 'Text']"
+PostalAddress.contactOption,ContactPointOption
+PostalAddress.contactType,Text
+PostalAddress.email,Text
+PostalAddress.faxNumber,Text
+PostalAddress.hoursAvailable,OpeningHoursSpecification
+PostalAddress.productSupported,"['Product', 'Text']"
+PostalAddress.telephone,Text
+PostalAddress.additionalType,URL
+PostalAddress.alternateName,Text
+PostalAddress.description,Text
+PostalAddress.disambiguatingDescription,Text
+PostalAddress.identifier,"['PropertyValue', 'Text', 'URL']"
+PostalAddress.image,"['ImageObject', 'URL']"
+PostalAddress.mainEntityOfPage,"['CreativeWork', 'URL']"
+PostalAddress.name,Text
+PostalAddress.potentialAction,Action
+PostalAddress.sameAs,URL
+PostalAddress.subjectOf,"['CreativeWork', 'Event']"
+PostalAddress.url,URL

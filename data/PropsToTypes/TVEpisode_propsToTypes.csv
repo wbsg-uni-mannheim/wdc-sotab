@@ -1,0 +1,131 @@
+property,expected_types
+TVEpisode.countryOfOrigin,Country
+TVEpisode.subtitleLanguage,"['Language', 'Text']"
+TVEpisode.titleEIDR,"['Text', 'URL']"
+TVEpisode.actor,Person
+TVEpisode.director,Person
+TVEpisode.duration,Duration
+TVEpisode.episodeNumber,"['Integer', 'Text']"
+TVEpisode.musicBy,"['MusicGroup', 'Person']"
+TVEpisode.partOfSeason,CreativeWorkSeason
+TVEpisode.partOfSeries,CreativeWorkSeries
+TVEpisode.productionCompany,Organization
+TVEpisode.trailer,VideoObject
+TVEpisode.about,Thing
+TVEpisode.abstract,Text
+TVEpisode.accessMode,Text
+TVEpisode.accessModeSufficient,ItemList
+TVEpisode.accessibilityAPI,Text
+TVEpisode.accessibilityControl,Text
+TVEpisode.accessibilityFeature,Text
+TVEpisode.accessibilityHazard,Text
+TVEpisode.accessibilitySummary,Text
+TVEpisode.accountablePerson,Person
+TVEpisode.acquireLicensePage,"['CreativeWork', 'URL']"
+TVEpisode.aggregateRating,AggregateRating
+TVEpisode.alternativeHeadline,Text
+TVEpisode.archivedAt,"['URL', 'WebPage']"
+TVEpisode.assesses,"['DefinedTerm', 'Text']"
+TVEpisode.associatedMedia,MediaObject
+TVEpisode.audience,Audience
+TVEpisode.audio,"['AudioObject', 'Clip', 'MusicRecording']"
+TVEpisode.author,"['Organization', 'Person']"
+TVEpisode.award,Text
+TVEpisode.character,Person
+TVEpisode.citation,"['CreativeWork', 'Text']"
+TVEpisode.comment,Comment
+TVEpisode.commentCount,Integer
+TVEpisode.conditionsOfAccess,Text
+TVEpisode.contentLocation,Place
+TVEpisode.contentRating,"['Rating', 'Text']"
+TVEpisode.contentReferenceTime,DateTime
+TVEpisode.contributor,"['Organization', 'Person']"
+TVEpisode.copyrightHolder,"['Organization', 'Person']"
+TVEpisode.copyrightNotice,Text
+TVEpisode.copyrightYear,Number
+TVEpisode.correction,"['CorrectionComment', 'Text', 'URL']"
+TVEpisode.countryOfOrigin,Country
+TVEpisode.creativeWorkStatus,"['DefinedTerm', 'Text']"
+TVEpisode.creator,"['Organization', 'Person']"
+TVEpisode.creditText,Text
+TVEpisode.dateCreated,"['Date', 'DateTime']"
+TVEpisode.dateModified,"['Date', 'DateTime']"
+TVEpisode.datePublished,"['Date', 'DateTime']"
+TVEpisode.discussionUrl,URL
+TVEpisode.editEIDR,"['Text', 'URL']"
+TVEpisode.editor,Person
+TVEpisode.educationalAlignment,AlignmentObject
+TVEpisode.educationalLevel,"['DefinedTerm', 'Text', 'URL']"
+TVEpisode.educationalUse,"['DefinedTerm', 'Text']"
+TVEpisode.encoding,MediaObject
+TVEpisode.encodingFormat,"['Text', 'URL']"
+TVEpisode.exampleOfWork,CreativeWork
+TVEpisode.expires,Date
+TVEpisode.funder,"['Organization', 'Person']"
+TVEpisode.genre,"['Text', 'URL']"
+TVEpisode.hasPart,CreativeWork
+TVEpisode.headline,Text
+TVEpisode.inLanguage,"['Language', 'Text']"
+TVEpisode.interactionStatistic,InteractionCounter
+TVEpisode.interactivityType,Text
+TVEpisode.interpretedAsClaim,Claim
+TVEpisode.isAccessibleForFree,Boolean
+TVEpisode.isBasedOn,"['CreativeWork', 'Product', 'URL']"
+TVEpisode.isFamilyFriendly,Boolean
+TVEpisode.isPartOf,"['CreativeWork', 'URL']"
+TVEpisode.keywords,"['DefinedTerm', 'Text', 'URL']"
+TVEpisode.learningResourceType,"['DefinedTerm', 'Text']"
+TVEpisode.license,"['CreativeWork', 'URL']"
+TVEpisode.locationCreated,Place
+TVEpisode.mainEntity,Thing
+TVEpisode.maintainer,"['Organization', 'Person']"
+TVEpisode.material,"['Product', 'Text', 'URL']"
+TVEpisode.materialExtent,"['QuantitativeValue', 'Text']"
+TVEpisode.mentions,Thing
+TVEpisode.offers,"['Demand', 'Offer']"
+TVEpisode.pattern,"['DefinedTerm', 'Text']"
+TVEpisode.position,"['Integer', 'Text']"
+TVEpisode.producer,"['Organization', 'Person']"
+TVEpisode.provider,"['Organization', 'Person']"
+TVEpisode.publication,PublicationEvent
+TVEpisode.publisher,"['Organization', 'Person']"
+TVEpisode.publisherImprint,Organization
+TVEpisode.publishingPrinciples,"['CreativeWork', 'URL']"
+TVEpisode.recordedAt,Event
+TVEpisode.releasedEvent,PublicationEvent
+TVEpisode.review,Review
+TVEpisode.schemaVersion,"['Text', 'URL']"
+TVEpisode.sdDatePublished,Date
+TVEpisode.sdLicense,"['CreativeWork', 'URL']"
+TVEpisode.sdPublisher,"['Organization', 'Person']"
+TVEpisode.size,"['DefinedTerm', 'QuantitativeValue', 'SizeSpecification', 'Text']"
+TVEpisode.sourceOrganization,Organization
+TVEpisode.spatial,Place
+TVEpisode.spatialCoverage,Place
+TVEpisode.sponsor,"['Organization', 'Person']"
+TVEpisode.teaches,"['DefinedTerm', 'Text']"
+TVEpisode.temporal,"['DateTime', 'Text']"
+TVEpisode.temporalCoverage,"['DateTime', 'Text', 'URL']"
+TVEpisode.text,Text
+TVEpisode.thumbnailUrl,URL
+TVEpisode.timeRequired,Duration
+TVEpisode.translationOfWork,CreativeWork
+TVEpisode.translator,"['Organization', 'Person']"
+TVEpisode.typicalAgeRange,Text
+TVEpisode.usageInfo,"['CreativeWork', 'URL']"
+TVEpisode.version,"['Number', 'Text']"
+TVEpisode.video,"['Clip', 'VideoObject']"
+TVEpisode.workExample,CreativeWork
+TVEpisode.workTranslation,CreativeWork
+TVEpisode.additionalType,URL
+TVEpisode.alternateName,Text
+TVEpisode.description,Text
+TVEpisode.disambiguatingDescription,Text
+TVEpisode.identifier,"['PropertyValue', 'Text', 'URL']"
+TVEpisode.image,"['ImageObject', 'URL']"
+TVEpisode.mainEntityOfPage,"['CreativeWork', 'URL']"
+TVEpisode.name,Text
+TVEpisode.potentialAction,Action
+TVEpisode.sameAs,URL
+TVEpisode.subjectOf,"['CreativeWork', 'Event']"
+TVEpisode.url,URL

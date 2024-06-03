@@ -1,0 +1,13 @@
+property,expected_types
+Thing.additionalType,URL
+Thing.alternateName,Text
+Thing.description,Text
+Thing.disambiguatingDescription,Text
+Thing.identifier,"['PropertyValue', 'Text', 'URL']"
+Thing.image,"['ImageObject', 'URL']"
+Thing.mainEntityOfPage,"['CreativeWork', 'URL']"
+Thing.name,Text
+Thing.potentialAction,Action
+Thing.sameAs,URL
+Thing.subjectOf,"['CreativeWork', 'Event']"
+Thing.url,URL

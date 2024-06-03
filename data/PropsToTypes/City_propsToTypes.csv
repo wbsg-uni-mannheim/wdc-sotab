@@ -1,0 +1,51 @@
+property,expected_types
+City.additionalProperty,PropertyValue
+City.address,"['PostalAddress', 'Text']"
+City.aggregateRating,AggregateRating
+City.amenityFeature,LocationFeatureSpecification
+City.branchCode,Text
+City.containedInPlace,Place
+City.containsPlace,Place
+City.event,Event
+City.faxNumber,Text
+City.geo,"['GeoCoordinates', 'GeoShape']"
+City.geoContains,"['GeospatialGeometry', 'Place']"
+City.geoCoveredBy,"['GeospatialGeometry', 'Place']"
+City.geoCovers,"['GeospatialGeometry', 'Place']"
+City.geoCrosses,"['GeospatialGeometry', 'Place']"
+City.geoDisjoint,"['GeospatialGeometry', 'Place']"
+City.geoEquals,"['GeospatialGeometry', 'Place']"
+City.geoIntersects,"['GeospatialGeometry', 'Place']"
+City.geoOverlaps,"['GeospatialGeometry', 'Place']"
+City.geoTouches,"['GeospatialGeometry', 'Place']"
+City.geoWithin,"['GeospatialGeometry', 'Place']"
+City.globalLocationNumber,Text
+City.hasDriveThroughService,Boolean
+City.hasMap,"['Map', 'URL']"
+City.isAccessibleForFree,Boolean
+City.isicV4,Text
+City.latitude,"['Number', 'Text']"
+City.logo,"['ImageObject', 'URL']"
+City.longitude,"['Number', 'Text']"
+City.maximumAttendeeCapacity,Integer
+City.openingHoursSpecification,OpeningHoursSpecification
+City.photo,"['ImageObject', 'Photograph']"
+City.publicAccess,Boolean
+City.review,Review
+City.slogan,Text
+City.smokingAllowed,Boolean
+City.specialOpeningHoursSpecification,OpeningHoursSpecification
+City.telephone,Text
+City.tourBookingPage,URL
+City.additionalType,URL
+City.alternateName,Text
+City.description,Text
+City.disambiguatingDescription,Text
+City.identifier,"['PropertyValue', 'Text', 'URL']"
+City.image,"['ImageObject', 'URL']"
+City.mainEntityOfPage,"['CreativeWork', 'URL']"
+City.name,Text
+City.potentialAction,Action
+City.sameAs,URL
+City.subjectOf,"['CreativeWork', 'Event']"
+City.url,URL

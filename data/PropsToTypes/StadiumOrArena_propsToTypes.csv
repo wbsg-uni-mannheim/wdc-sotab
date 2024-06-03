@@ -1,0 +1,111 @@
+property,expected_types
+StadiumOrArena.openingHours,Text
+StadiumOrArena.currenciesAccepted,Text
+StadiumOrArena.openingHours,Text
+StadiumOrArena.paymentAccepted,Text
+StadiumOrArena.priceRange,Text
+StadiumOrArena.actionableFeedbackPolicy,"['CreativeWork', 'URL']"
+StadiumOrArena.address,"['PostalAddress', 'Text']"
+StadiumOrArena.aggregateRating,AggregateRating
+StadiumOrArena.alumni,Person
+StadiumOrArena.areaServed,"['AdministrativeArea', 'GeoShape', 'Place', 'Text']"
+StadiumOrArena.award,Text
+StadiumOrArena.brand,"['Brand', 'Organization']"
+StadiumOrArena.contactPoint,ContactPoint
+StadiumOrArena.correctionsPolicy,"['CreativeWork', 'URL']"
+StadiumOrArena.department,Organization
+StadiumOrArena.dissolutionDate,Date
+StadiumOrArena.diversityPolicy,"['CreativeWork', 'URL']"
+StadiumOrArena.diversityStaffingReport,"['Article', 'URL']"
+StadiumOrArena.duns,Text
+StadiumOrArena.email,Text
+StadiumOrArena.employee,Person
+StadiumOrArena.ethicsPolicy,"['CreativeWork', 'URL']"
+StadiumOrArena.event,Event
+StadiumOrArena.faxNumber,Text
+StadiumOrArena.founder,Person
+StadiumOrArena.foundingDate,Date
+StadiumOrArena.foundingLocation,Place
+StadiumOrArena.funder,"['Organization', 'Person']"
+StadiumOrArena.globalLocationNumber,Text
+StadiumOrArena.hasCredential,EducationalOccupationalCredential
+StadiumOrArena.hasMerchantReturnPolicy,MerchantReturnPolicy
+StadiumOrArena.hasOfferCatalog,OfferCatalog
+StadiumOrArena.hasPOS,Place
+StadiumOrArena.interactionStatistic,InteractionCounter
+StadiumOrArena.isicV4,Text
+StadiumOrArena.knowsAbout,"['Text', 'Thing', 'URL']"
+StadiumOrArena.knowsLanguage,"['Language', 'Text']"
+StadiumOrArena.legalName,Text
+StadiumOrArena.leiCode,Text
+StadiumOrArena.location,"['Place', 'PostalAddress', 'Text', 'VirtualLocation']"
+StadiumOrArena.logo,"['ImageObject', 'URL']"
+StadiumOrArena.makesOffer,Offer
+StadiumOrArena.member,"['Organization', 'Person']"
+StadiumOrArena.memberOf,"['Organization', 'ProgramMembership']"
+StadiumOrArena.naics,Text
+StadiumOrArena.nonprofitStatus,NonprofitType
+StadiumOrArena.numberOfEmployees,QuantitativeValue
+StadiumOrArena.ownershipFundingInfo,"['AboutPage', 'CreativeWork', 'Text', 'URL']"
+StadiumOrArena.owns,"['OwnershipInfo', 'Product']"
+StadiumOrArena.parentOrganization,Organization
+StadiumOrArena.publishingPrinciples,"['CreativeWork', 'URL']"
+StadiumOrArena.review,Review
+StadiumOrArena.seeks,Demand
+StadiumOrArena.slogan,Text
+StadiumOrArena.sponsor,"['Organization', 'Person']"
+StadiumOrArena.subOrganization,Organization
+StadiumOrArena.taxID,Text
+StadiumOrArena.telephone,Text
+StadiumOrArena.unnamedSourcesPolicy,"['CreativeWork', 'URL']"
+StadiumOrArena.vatID,Text
+StadiumOrArena.additionalProperty,PropertyValue
+StadiumOrArena.address,"['PostalAddress', 'Text']"
+StadiumOrArena.aggregateRating,AggregateRating
+StadiumOrArena.amenityFeature,LocationFeatureSpecification
+StadiumOrArena.branchCode,Text
+StadiumOrArena.containedInPlace,Place
+StadiumOrArena.containsPlace,Place
+StadiumOrArena.event,Event
+StadiumOrArena.faxNumber,Text
+StadiumOrArena.geo,"['GeoCoordinates', 'GeoShape']"
+StadiumOrArena.geoContains,"['GeospatialGeometry', 'Place']"
+StadiumOrArena.geoCoveredBy,"['GeospatialGeometry', 'Place']"
+StadiumOrArena.geoCovers,"['GeospatialGeometry', 'Place']"
+StadiumOrArena.geoCrosses,"['GeospatialGeometry', 'Place']"
+StadiumOrArena.geoDisjoint,"['GeospatialGeometry', 'Place']"
+StadiumOrArena.geoEquals,"['GeospatialGeometry', 'Place']"
+StadiumOrArena.geoIntersects,"['GeospatialGeometry', 'Place']"
+StadiumOrArena.geoOverlaps,"['GeospatialGeometry', 'Place']"
+StadiumOrArena.geoTouches,"['GeospatialGeometry', 'Place']"
+StadiumOrArena.geoWithin,"['GeospatialGeometry', 'Place']"
+StadiumOrArena.globalLocationNumber,Text
+StadiumOrArena.hasDriveThroughService,Boolean
+StadiumOrArena.hasMap,"['Map', 'URL']"
+StadiumOrArena.isAccessibleForFree,Boolean
+StadiumOrArena.isicV4,Text
+StadiumOrArena.latitude,"['Number', 'Text']"
+StadiumOrArena.logo,"['ImageObject', 'URL']"
+StadiumOrArena.longitude,"['Number', 'Text']"
+StadiumOrArena.maximumAttendeeCapacity,Integer
+StadiumOrArena.openingHoursSpecification,OpeningHoursSpecification
+StadiumOrArena.photo,"['ImageObject', 'Photograph']"
+StadiumOrArena.publicAccess,Boolean
+StadiumOrArena.review,Review
+StadiumOrArena.slogan,Text
+StadiumOrArena.smokingAllowed,Boolean
+StadiumOrArena.specialOpeningHoursSpecification,OpeningHoursSpecification
+StadiumOrArena.telephone,Text
+StadiumOrArena.tourBookingPage,URL
+StadiumOrArena.additionalType,URL
+StadiumOrArena.alternateName,Text
+StadiumOrArena.description,Text
+StadiumOrArena.disambiguatingDescription,Text
+StadiumOrArena.identifier,"['PropertyValue', 'Text', 'URL']"
+StadiumOrArena.image,"['ImageObject', 'URL']"
+StadiumOrArena.mainEntityOfPage,"['CreativeWork', 'URL']"
+StadiumOrArena.name,Text
+StadiumOrArena.potentialAction,Action
+StadiumOrArena.sameAs,URL
+StadiumOrArena.subjectOf,"['CreativeWork', 'Event']"
+StadiumOrArena.url,URL

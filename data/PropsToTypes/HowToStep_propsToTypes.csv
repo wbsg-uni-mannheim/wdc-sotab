@@ -1,0 +1,127 @@
+property,expected_types
+HowToStep.about,Thing
+HowToStep.abstract,Text
+HowToStep.accessMode,Text
+HowToStep.accessModeSufficient,ItemList
+HowToStep.accessibilityAPI,Text
+HowToStep.accessibilityControl,Text
+HowToStep.accessibilityFeature,Text
+HowToStep.accessibilityHazard,Text
+HowToStep.accessibilitySummary,Text
+HowToStep.accountablePerson,Person
+HowToStep.acquireLicensePage,"['CreativeWork', 'URL']"
+HowToStep.aggregateRating,AggregateRating
+HowToStep.alternativeHeadline,Text
+HowToStep.archivedAt,"['URL', 'WebPage']"
+HowToStep.assesses,"['DefinedTerm', 'Text']"
+HowToStep.associatedMedia,MediaObject
+HowToStep.audience,Audience
+HowToStep.audio,"['AudioObject', 'Clip', 'MusicRecording']"
+HowToStep.author,"['Organization', 'Person']"
+HowToStep.award,Text
+HowToStep.character,Person
+HowToStep.citation,"['CreativeWork', 'Text']"
+HowToStep.comment,Comment
+HowToStep.commentCount,Integer
+HowToStep.conditionsOfAccess,Text
+HowToStep.contentLocation,Place
+HowToStep.contentRating,"['Rating', 'Text']"
+HowToStep.contentReferenceTime,DateTime
+HowToStep.contributor,"['Organization', 'Person']"
+HowToStep.copyrightHolder,"['Organization', 'Person']"
+HowToStep.copyrightNotice,Text
+HowToStep.copyrightYear,Number
+HowToStep.correction,"['CorrectionComment', 'Text', 'URL']"
+HowToStep.countryOfOrigin,Country
+HowToStep.creativeWorkStatus,"['DefinedTerm', 'Text']"
+HowToStep.creator,"['Organization', 'Person']"
+HowToStep.creditText,Text
+HowToStep.dateCreated,"['Date', 'DateTime']"
+HowToStep.dateModified,"['Date', 'DateTime']"
+HowToStep.datePublished,"['Date', 'DateTime']"
+HowToStep.discussionUrl,URL
+HowToStep.editEIDR,"['Text', 'URL']"
+HowToStep.editor,Person
+HowToStep.educationalAlignment,AlignmentObject
+HowToStep.educationalLevel,"['DefinedTerm', 'Text', 'URL']"
+HowToStep.educationalUse,"['DefinedTerm', 'Text']"
+HowToStep.encoding,MediaObject
+HowToStep.encodingFormat,"['Text', 'URL']"
+HowToStep.exampleOfWork,CreativeWork
+HowToStep.expires,Date
+HowToStep.funder,"['Organization', 'Person']"
+HowToStep.funding,Grant
+HowToStep.genre,"['Text', 'URL']"
+HowToStep.hasPart,CreativeWork
+HowToStep.headline,Text
+HowToStep.inLanguage,"['Language', 'Text']"
+HowToStep.interactionStatistic,InteractionCounter
+HowToStep.interactivityType,Text
+HowToStep.interpretedAsClaim,Claim
+HowToStep.isAccessibleForFree,Boolean
+HowToStep.isBasedOn,"['CreativeWork', 'Product', 'URL']"
+HowToStep.isFamilyFriendly,Boolean
+HowToStep.isPartOf,"['CreativeWork', 'URL']"
+HowToStep.keywords,"['DefinedTerm', 'Text', 'URL']"
+HowToStep.learningResourceType,"['DefinedTerm', 'Text']"
+HowToStep.license,"['CreativeWork', 'URL']"
+HowToStep.locationCreated,Place
+HowToStep.mainEntity,Thing
+HowToStep.maintainer,"['Organization', 'Person']"
+HowToStep.material,"['Product', 'Text', 'URL']"
+HowToStep.materialExtent,"['QuantitativeValue', 'Text']"
+HowToStep.mentions,Thing
+HowToStep.offers,"['Demand', 'Offer']"
+HowToStep.pattern,"['DefinedTerm', 'Text']"
+HowToStep.position,"['Integer', 'Text']"
+HowToStep.producer,"['Organization', 'Person']"
+HowToStep.provider,"['Organization', 'Person']"
+HowToStep.publication,PublicationEvent
+HowToStep.publisher,"['Organization', 'Person']"
+HowToStep.publisherImprint,Organization
+HowToStep.publishingPrinciples,"['CreativeWork', 'URL']"
+HowToStep.recordedAt,Event
+HowToStep.releasedEvent,PublicationEvent
+HowToStep.review,Review
+HowToStep.schemaVersion,"['Text', 'URL']"
+HowToStep.sdDatePublished,Date
+HowToStep.sdLicense,"['CreativeWork', 'URL']"
+HowToStep.sdPublisher,"['Organization', 'Person']"
+HowToStep.size,"['DefinedTerm', 'QuantitativeValue', 'SizeSpecification', 'Text']"
+HowToStep.sourceOrganization,Organization
+HowToStep.spatial,Place
+HowToStep.spatialCoverage,Place
+HowToStep.sponsor,"['Organization', 'Person']"
+HowToStep.teaches,"['DefinedTerm', 'Text']"
+HowToStep.temporal,"['DateTime', 'Text']"
+HowToStep.temporalCoverage,"['DateTime', 'Text', 'URL']"
+HowToStep.text,Text
+HowToStep.thumbnailUrl,URL
+HowToStep.timeRequired,Duration
+HowToStep.translationOfWork,CreativeWork
+HowToStep.translator,"['Organization', 'Person']"
+HowToStep.typicalAgeRange,Text
+HowToStep.usageInfo,"['CreativeWork', 'URL']"
+HowToStep.version,"['Number', 'Text']"
+HowToStep.video,"['Clip', 'VideoObject']"
+HowToStep.workExample,CreativeWork
+HowToStep.workTranslation,CreativeWork
+HowToStep.itemListElement,"['ListItem', 'Text', 'Thing']"
+HowToStep.itemListOrder,"['ItemListOrderType', 'Text']"
+HowToStep.numberOfItems,Integer
+HowToStep.item,Thing
+HowToStep.nextItem,ListItem
+HowToStep.position,"['Integer', 'Text']"
+HowToStep.previousItem,ListItem
+HowToStep.additionalType,URL
+HowToStep.alternateName,Text
+HowToStep.description,Text
+HowToStep.disambiguatingDescription,Text
+HowToStep.identifier,"['PropertyValue', 'Text', 'URL']"
+HowToStep.image,"['ImageObject', 'URL']"
+HowToStep.mainEntityOfPage,"['CreativeWork', 'URL']"
+HowToStep.name,Text
+HowToStep.potentialAction,Action
+HowToStep.sameAs,URL
+HowToStep.subjectOf,"['CreativeWork', 'Event']"
+HowToStep.url,URL

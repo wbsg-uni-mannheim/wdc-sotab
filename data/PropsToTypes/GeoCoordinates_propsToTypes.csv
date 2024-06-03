@@ -1,0 +1,19 @@
+property,expected_types
+GeoCoordinates.address,"['PostalAddress', 'Text']"
+GeoCoordinates.addressCountry,"['Country', 'Text']"
+GeoCoordinates.elevation,"['Number', 'Text']"
+GeoCoordinates.latitude,"['Number', 'Text']"
+GeoCoordinates.longitude,"['Number', 'Text']"
+GeoCoordinates.postalCode,Text
+GeoCoordinates.additionalType,URL
+GeoCoordinates.alternateName,Text
+GeoCoordinates.description,Text
+GeoCoordinates.disambiguatingDescription,Text
+GeoCoordinates.identifier,"['PropertyValue', 'Text', 'URL']"
+GeoCoordinates.image,"['ImageObject', 'URL']"
+GeoCoordinates.mainEntityOfPage,"['CreativeWork', 'URL']"
+GeoCoordinates.name,Text
+GeoCoordinates.potentialAction,Action
+GeoCoordinates.sameAs,URL
+GeoCoordinates.subjectOf,"['CreativeWork', 'Event']"
+GeoCoordinates.url,URL

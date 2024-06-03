@@ -1,0 +1,125 @@
+property,expected_types
+MusicRecording.byArtist,"['MusicGroup', 'Person']"
+MusicRecording.duration,Duration
+MusicRecording.inAlbum,MusicAlbum
+MusicRecording.inPlaylist,MusicPlaylist
+MusicRecording.isrcCode,Text
+MusicRecording.recordingOf,MusicComposition
+MusicRecording.about,Thing
+MusicRecording.abstract,Text
+MusicRecording.accessMode,Text
+MusicRecording.accessModeSufficient,ItemList
+MusicRecording.accessibilityAPI,Text
+MusicRecording.accessibilityControl,Text
+MusicRecording.accessibilityFeature,Text
+MusicRecording.accessibilityHazard,Text
+MusicRecording.accessibilitySummary,Text
+MusicRecording.accountablePerson,Person
+MusicRecording.acquireLicensePage,"['CreativeWork', 'URL']"
+MusicRecording.aggregateRating,AggregateRating
+MusicRecording.alternativeHeadline,Text
+MusicRecording.archivedAt,"['URL', 'WebPage']"
+MusicRecording.assesses,"['DefinedTerm', 'Text']"
+MusicRecording.associatedMedia,MediaObject
+MusicRecording.audience,Audience
+MusicRecording.audio,"['AudioObject', 'Clip', 'MusicRecording']"
+MusicRecording.author,"['Organization', 'Person']"
+MusicRecording.award,Text
+MusicRecording.character,Person
+MusicRecording.citation,"['CreativeWork', 'Text']"
+MusicRecording.comment,Comment
+MusicRecording.commentCount,Integer
+MusicRecording.conditionsOfAccess,Text
+MusicRecording.contentLocation,Place
+MusicRecording.contentRating,"['Rating', 'Text']"
+MusicRecording.contentReferenceTime,DateTime
+MusicRecording.contributor,"['Organization', 'Person']"
+MusicRecording.copyrightHolder,"['Organization', 'Person']"
+MusicRecording.copyrightNotice,Text
+MusicRecording.copyrightYear,Number
+MusicRecording.correction,"['CorrectionComment', 'Text', 'URL']"
+MusicRecording.countryOfOrigin,Country
+MusicRecording.creativeWorkStatus,"['DefinedTerm', 'Text']"
+MusicRecording.creator,"['Organization', 'Person']"
+MusicRecording.creditText,Text
+MusicRecording.dateCreated,"['Date', 'DateTime']"
+MusicRecording.dateModified,"['Date', 'DateTime']"
+MusicRecording.datePublished,"['Date', 'DateTime']"
+MusicRecording.discussionUrl,URL
+MusicRecording.editEIDR,"['Text', 'URL']"
+MusicRecording.editor,Person
+MusicRecording.educationalAlignment,AlignmentObject
+MusicRecording.educationalLevel,"['DefinedTerm', 'Text', 'URL']"
+MusicRecording.educationalUse,"['DefinedTerm', 'Text']"
+MusicRecording.encoding,MediaObject
+MusicRecording.encodingFormat,"['Text', 'URL']"
+MusicRecording.exampleOfWork,CreativeWork
+MusicRecording.expires,Date
+MusicRecording.funder,"['Organization', 'Person']"
+MusicRecording.genre,"['Text', 'URL']"
+MusicRecording.hasPart,CreativeWork
+MusicRecording.headline,Text
+MusicRecording.inLanguage,"['Language', 'Text']"
+MusicRecording.interactionStatistic,InteractionCounter
+MusicRecording.interactivityType,Text
+MusicRecording.interpretedAsClaim,Claim
+MusicRecording.isAccessibleForFree,Boolean
+MusicRecording.isBasedOn,"['CreativeWork', 'Product', 'URL']"
+MusicRecording.isFamilyFriendly,Boolean
+MusicRecording.isPartOf,"['CreativeWork', 'URL']"
+MusicRecording.keywords,"['DefinedTerm', 'Text', 'URL']"
+MusicRecording.learningResourceType,"['DefinedTerm', 'Text']"
+MusicRecording.license,"['CreativeWork', 'URL']"
+MusicRecording.locationCreated,Place
+MusicRecording.mainEntity,Thing
+MusicRecording.maintainer,"['Organization', 'Person']"
+MusicRecording.material,"['Product', 'Text', 'URL']"
+MusicRecording.materialExtent,"['QuantitativeValue', 'Text']"
+MusicRecording.mentions,Thing
+MusicRecording.offers,"['Demand', 'Offer']"
+MusicRecording.pattern,"['DefinedTerm', 'Text']"
+MusicRecording.position,"['Integer', 'Text']"
+MusicRecording.producer,"['Organization', 'Person']"
+MusicRecording.provider,"['Organization', 'Person']"
+MusicRecording.publication,PublicationEvent
+MusicRecording.publisher,"['Organization', 'Person']"
+MusicRecording.publisherImprint,Organization
+MusicRecording.publishingPrinciples,"['CreativeWork', 'URL']"
+MusicRecording.recordedAt,Event
+MusicRecording.releasedEvent,PublicationEvent
+MusicRecording.review,Review
+MusicRecording.schemaVersion,"['Text', 'URL']"
+MusicRecording.sdDatePublished,Date
+MusicRecording.sdLicense,"['CreativeWork', 'URL']"
+MusicRecording.sdPublisher,"['Organization', 'Person']"
+MusicRecording.size,"['DefinedTerm', 'QuantitativeValue', 'SizeSpecification', 'Text']"
+MusicRecording.sourceOrganization,Organization
+MusicRecording.spatial,Place
+MusicRecording.spatialCoverage,Place
+MusicRecording.sponsor,"['Organization', 'Person']"
+MusicRecording.teaches,"['DefinedTerm', 'Text']"
+MusicRecording.temporal,"['DateTime', 'Text']"
+MusicRecording.temporalCoverage,"['DateTime', 'Text', 'URL']"
+MusicRecording.text,Text
+MusicRecording.thumbnailUrl,URL
+MusicRecording.timeRequired,Duration
+MusicRecording.translationOfWork,CreativeWork
+MusicRecording.translator,"['Organization', 'Person']"
+MusicRecording.typicalAgeRange,Text
+MusicRecording.usageInfo,"['CreativeWork', 'URL']"
+MusicRecording.version,"['Number', 'Text']"
+MusicRecording.video,"['Clip', 'VideoObject']"
+MusicRecording.workExample,CreativeWork
+MusicRecording.workTranslation,CreativeWork
+MusicRecording.additionalType,URL
+MusicRecording.alternateName,Text
+MusicRecording.description,Text
+MusicRecording.disambiguatingDescription,Text
+MusicRecording.identifier,"['PropertyValue', 'Text', 'URL']"
+MusicRecording.image,"['ImageObject', 'URL']"
+MusicRecording.mainEntityOfPage,"['CreativeWork', 'URL']"
+MusicRecording.name,Text
+MusicRecording.potentialAction,Action
+MusicRecording.sameAs,URL
+MusicRecording.subjectOf,"['CreativeWork', 'Event']"
+MusicRecording.url,URL

@@ -1,0 +1,110 @@
+property,expected_types
+TelevisionStation.currenciesAccepted,Text
+TelevisionStation.openingHours,Text
+TelevisionStation.paymentAccepted,Text
+TelevisionStation.priceRange,Text
+TelevisionStation.actionableFeedbackPolicy,"['CreativeWork', 'URL']"
+TelevisionStation.address,"['PostalAddress', 'Text']"
+TelevisionStation.aggregateRating,AggregateRating
+TelevisionStation.alumni,Person
+TelevisionStation.areaServed,"['AdministrativeArea', 'GeoShape', 'Place', 'Text']"
+TelevisionStation.award,Text
+TelevisionStation.brand,"['Brand', 'Organization']"
+TelevisionStation.contactPoint,ContactPoint
+TelevisionStation.correctionsPolicy,"['CreativeWork', 'URL']"
+TelevisionStation.department,Organization
+TelevisionStation.dissolutionDate,Date
+TelevisionStation.diversityPolicy,"['CreativeWork', 'URL']"
+TelevisionStation.diversityStaffingReport,"['Article', 'URL']"
+TelevisionStation.duns,Text
+TelevisionStation.email,Text
+TelevisionStation.employee,Person
+TelevisionStation.ethicsPolicy,"['CreativeWork', 'URL']"
+TelevisionStation.event,Event
+TelevisionStation.faxNumber,Text
+TelevisionStation.founder,Person
+TelevisionStation.foundingDate,Date
+TelevisionStation.foundingLocation,Place
+TelevisionStation.funder,"['Organization', 'Person']"
+TelevisionStation.globalLocationNumber,Text
+TelevisionStation.hasCredential,EducationalOccupationalCredential
+TelevisionStation.hasMerchantReturnPolicy,MerchantReturnPolicy
+TelevisionStation.hasOfferCatalog,OfferCatalog
+TelevisionStation.hasPOS,Place
+TelevisionStation.interactionStatistic,InteractionCounter
+TelevisionStation.isicV4,Text
+TelevisionStation.knowsAbout,"['Text', 'Thing', 'URL']"
+TelevisionStation.knowsLanguage,"['Language', 'Text']"
+TelevisionStation.legalName,Text
+TelevisionStation.leiCode,Text
+TelevisionStation.location,"['Place', 'PostalAddress', 'Text', 'VirtualLocation']"
+TelevisionStation.logo,"['ImageObject', 'URL']"
+TelevisionStation.makesOffer,Offer
+TelevisionStation.member,"['Organization', 'Person']"
+TelevisionStation.memberOf,"['Organization', 'ProgramMembership']"
+TelevisionStation.naics,Text
+TelevisionStation.nonprofitStatus,NonprofitType
+TelevisionStation.numberOfEmployees,QuantitativeValue
+TelevisionStation.ownershipFundingInfo,"['AboutPage', 'CreativeWork', 'Text', 'URL']"
+TelevisionStation.owns,"['OwnershipInfo', 'Product']"
+TelevisionStation.parentOrganization,Organization
+TelevisionStation.publishingPrinciples,"['CreativeWork', 'URL']"
+TelevisionStation.review,Review
+TelevisionStation.seeks,Demand
+TelevisionStation.slogan,Text
+TelevisionStation.sponsor,"['Organization', 'Person']"
+TelevisionStation.subOrganization,Organization
+TelevisionStation.taxID,Text
+TelevisionStation.telephone,Text
+TelevisionStation.unnamedSourcesPolicy,"['CreativeWork', 'URL']"
+TelevisionStation.vatID,Text
+TelevisionStation.additionalProperty,PropertyValue
+TelevisionStation.address,"['PostalAddress', 'Text']"
+TelevisionStation.aggregateRating,AggregateRating
+TelevisionStation.amenityFeature,LocationFeatureSpecification
+TelevisionStation.branchCode,Text
+TelevisionStation.containedInPlace,Place
+TelevisionStation.containsPlace,Place
+TelevisionStation.event,Event
+TelevisionStation.faxNumber,Text
+TelevisionStation.geo,"['GeoCoordinates', 'GeoShape']"
+TelevisionStation.geoContains,"['GeospatialGeometry', 'Place']"
+TelevisionStation.geoCoveredBy,"['GeospatialGeometry', 'Place']"
+TelevisionStation.geoCovers,"['GeospatialGeometry', 'Place']"
+TelevisionStation.geoCrosses,"['GeospatialGeometry', 'Place']"
+TelevisionStation.geoDisjoint,"['GeospatialGeometry', 'Place']"
+TelevisionStation.geoEquals,"['GeospatialGeometry', 'Place']"
+TelevisionStation.geoIntersects,"['GeospatialGeometry', 'Place']"
+TelevisionStation.geoOverlaps,"['GeospatialGeometry', 'Place']"
+TelevisionStation.geoTouches,"['GeospatialGeometry', 'Place']"
+TelevisionStation.geoWithin,"['GeospatialGeometry', 'Place']"
+TelevisionStation.globalLocationNumber,Text
+TelevisionStation.hasDriveThroughService,Boolean
+TelevisionStation.hasMap,"['Map', 'URL']"
+TelevisionStation.isAccessibleForFree,Boolean
+TelevisionStation.isicV4,Text
+TelevisionStation.latitude,"['Number', 'Text']"
+TelevisionStation.logo,"['ImageObject', 'URL']"
+TelevisionStation.longitude,"['Number', 'Text']"
+TelevisionStation.maximumAttendeeCapacity,Integer
+TelevisionStation.openingHoursSpecification,OpeningHoursSpecification
+TelevisionStation.photo,"['ImageObject', 'Photograph']"
+TelevisionStation.publicAccess,Boolean
+TelevisionStation.review,Review
+TelevisionStation.slogan,Text
+TelevisionStation.smokingAllowed,Boolean
+TelevisionStation.specialOpeningHoursSpecification,OpeningHoursSpecification
+TelevisionStation.telephone,Text
+TelevisionStation.tourBookingPage,URL
+TelevisionStation.additionalType,URL
+TelevisionStation.alternateName,Text
+TelevisionStation.description,Text
+TelevisionStation.disambiguatingDescription,Text
+TelevisionStation.identifier,"['PropertyValue', 'Text', 'URL']"
+TelevisionStation.image,"['ImageObject', 'URL']"
+TelevisionStation.mainEntityOfPage,"['CreativeWork', 'URL']"
+TelevisionStation.name,Text
+TelevisionStation.potentialAction,Action
+TelevisionStation.sameAs,URL
+TelevisionStation.subjectOf,"['CreativeWork', 'Event']"
+TelevisionStation.url,URL

@@ -1,0 +1,119 @@
+property,expected_types
+CreativeWork.about,Thing
+CreativeWork.abstract,Text
+CreativeWork.accessMode,Text
+CreativeWork.accessModeSufficient,ItemList
+CreativeWork.accessibilityAPI,Text
+CreativeWork.accessibilityControl,Text
+CreativeWork.accessibilityFeature,Text
+CreativeWork.accessibilityHazard,Text
+CreativeWork.accessibilitySummary,Text
+CreativeWork.accountablePerson,Person
+CreativeWork.acquireLicensePage,"['CreativeWork', 'URL']"
+CreativeWork.aggregateRating,AggregateRating
+CreativeWork.alternativeHeadline,Text
+CreativeWork.archivedAt,"['URL', 'WebPage']"
+CreativeWork.assesses,"['DefinedTerm', 'Text']"
+CreativeWork.associatedMedia,MediaObject
+CreativeWork.audience,Audience
+CreativeWork.audio,"['AudioObject', 'Clip', 'MusicRecording']"
+CreativeWork.author,"['Organization', 'Person']"
+CreativeWork.award,Text
+CreativeWork.character,Person
+CreativeWork.citation,"['CreativeWork', 'Text']"
+CreativeWork.comment,Comment
+CreativeWork.commentCount,Integer
+CreativeWork.conditionsOfAccess,Text
+CreativeWork.contentLocation,Place
+CreativeWork.contentRating,"['Rating', 'Text']"
+CreativeWork.contentReferenceTime,DateTime
+CreativeWork.contributor,"['Organization', 'Person']"
+CreativeWork.copyrightHolder,"['Organization', 'Person']"
+CreativeWork.copyrightNotice,Text
+CreativeWork.copyrightYear,Number
+CreativeWork.correction,"['CorrectionComment', 'Text', 'URL']"
+CreativeWork.countryOfOrigin,Country
+CreativeWork.creativeWorkStatus,"['DefinedTerm', 'Text']"
+CreativeWork.creator,"['Organization', 'Person']"
+CreativeWork.creditText,Text
+CreativeWork.dateCreated,"['Date', 'DateTime']"
+CreativeWork.dateModified,"['Date', 'DateTime']"
+CreativeWork.datePublished,"['Date', 'DateTime']"
+CreativeWork.discussionUrl,URL
+CreativeWork.editEIDR,"['Text', 'URL']"
+CreativeWork.editor,Person
+CreativeWork.educationalAlignment,AlignmentObject
+CreativeWork.educationalLevel,"['DefinedTerm', 'Text', 'URL']"
+CreativeWork.educationalUse,"['DefinedTerm', 'Text']"
+CreativeWork.encoding,MediaObject
+CreativeWork.encodingFormat,"['Text', 'URL']"
+CreativeWork.exampleOfWork,CreativeWork
+CreativeWork.expires,Date
+CreativeWork.funder,"['Organization', 'Person']"
+CreativeWork.genre,"['Text', 'URL']"
+CreativeWork.hasPart,CreativeWork
+CreativeWork.headline,Text
+CreativeWork.inLanguage,"['Language', 'Text']"
+CreativeWork.interactionStatistic,InteractionCounter
+CreativeWork.interactivityType,Text
+CreativeWork.interpretedAsClaim,Claim
+CreativeWork.isAccessibleForFree,Boolean
+CreativeWork.isBasedOn,"['CreativeWork', 'Product', 'URL']"
+CreativeWork.isFamilyFriendly,Boolean
+CreativeWork.isPartOf,"['CreativeWork', 'URL']"
+CreativeWork.keywords,"['DefinedTerm', 'Text', 'URL']"
+CreativeWork.learningResourceType,"['DefinedTerm', 'Text']"
+CreativeWork.license,"['CreativeWork', 'URL']"
+CreativeWork.locationCreated,Place
+CreativeWork.mainEntity,Thing
+CreativeWork.maintainer,"['Organization', 'Person']"
+CreativeWork.material,"['Product', 'Text', 'URL']"
+CreativeWork.materialExtent,"['QuantitativeValue', 'Text']"
+CreativeWork.mentions,Thing
+CreativeWork.offers,"['Demand', 'Offer']"
+CreativeWork.pattern,"['DefinedTerm', 'Text']"
+CreativeWork.position,"['Integer', 'Text']"
+CreativeWork.producer,"['Organization', 'Person']"
+CreativeWork.provider,"['Organization', 'Person']"
+CreativeWork.publication,PublicationEvent
+CreativeWork.publisher,"['Organization', 'Person']"
+CreativeWork.publisherImprint,Organization
+CreativeWork.publishingPrinciples,"['CreativeWork', 'URL']"
+CreativeWork.recordedAt,Event
+CreativeWork.releasedEvent,PublicationEvent
+CreativeWork.review,Review
+CreativeWork.schemaVersion,"['Text', 'URL']"
+CreativeWork.sdDatePublished,Date
+CreativeWork.sdLicense,"['CreativeWork', 'URL']"
+CreativeWork.sdPublisher,"['Organization', 'Person']"
+CreativeWork.size,"['DefinedTerm', 'QuantitativeValue', 'SizeSpecification', 'Text']"
+CreativeWork.sourceOrganization,Organization
+CreativeWork.spatial,Place
+CreativeWork.spatialCoverage,Place
+CreativeWork.sponsor,"['Organization', 'Person']"
+CreativeWork.teaches,"['DefinedTerm', 'Text']"
+CreativeWork.temporal,"['DateTime', 'Text']"
+CreativeWork.temporalCoverage,"['DateTime', 'Text', 'URL']"
+CreativeWork.text,Text
+CreativeWork.thumbnailUrl,URL
+CreativeWork.timeRequired,Duration
+CreativeWork.translationOfWork,CreativeWork
+CreativeWork.translator,"['Organization', 'Person']"
+CreativeWork.typicalAgeRange,Text
+CreativeWork.usageInfo,"['CreativeWork', 'URL']"
+CreativeWork.version,"['Number', 'Text']"
+CreativeWork.video,"['Clip', 'VideoObject']"
+CreativeWork.workExample,CreativeWork
+CreativeWork.workTranslation,CreativeWork
+CreativeWork.additionalType,URL
+CreativeWork.alternateName,Text
+CreativeWork.description,Text
+CreativeWork.disambiguatingDescription,Text
+CreativeWork.identifier,"['PropertyValue', 'Text', 'URL']"
+CreativeWork.image,"['ImageObject', 'URL']"
+CreativeWork.mainEntityOfPage,"['CreativeWork', 'URL']"
+CreativeWork.name,Text
+CreativeWork.potentialAction,Action
+CreativeWork.sameAs,URL
+CreativeWork.subjectOf,"['CreativeWork', 'Event']"
+CreativeWork.url,URL

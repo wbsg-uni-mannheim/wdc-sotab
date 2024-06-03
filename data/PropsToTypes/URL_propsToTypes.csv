@@ -1,0 +1,143 @@
+property,expected_types
+URL.acceptsReservations,FoodEstablishment
+URL.acquireLicensePage,CreativeWork
+URL.actionPlatform,EntryPoint
+URL.actionableFeedbackPolicy,"['NewsMediaOrganization', 'Organization']"
+URL.additionalType,Thing
+URL.afterMedia,HowToDirection
+URL.applicationCategory,SoftwareApplication
+URL.applicationSubCategory,SoftwareApplication
+URL.archivedAt,CreativeWork
+URL.artMedium,VisualArtwork
+URL.artform,VisualArtwork
+URL.artworkSurface,VisualArtwork
+URL.associatedDisease,BioChemEntity
+URL.bankAccountType,BankAccount
+URL.beforeMedia,HowToDirection
+URL.benefitsSummaryUrl,HealthInsurancePlan
+URL.bodyType,Vehicle
+URL.category,"['ActionAccessSpecification', 'Invoice', 'Offer', 'PhysicalActivity', 'Product', 'Recommendation', 'Service', 'SpecialAnnouncement']"
+URL.childTaxon,Taxon
+URL.codeRepository,SoftwareSourceCode
+URL.colleague,Person
+URL.competencyRequired,"['EducationalOccupationalCredential', 'LearningResource']"
+URL.contentUrl,MediaObject
+URL.correction,CreativeWork
+URL.correctionsPolicy,"['NewsMediaOrganization', 'Organization']"
+URL.courseMode,CourseInstance
+URL.credentialCategory,EducationalOccupationalCredential
+URL.discussionUrl,CreativeWork
+URL.diseasePreventionInfo,SpecialAnnouncement
+URL.diseaseSpreadStatistics,SpecialAnnouncement
+URL.diversityPolicy,"['NewsMediaOrganization', 'Organization']"
+URL.diversityStaffingReport,"['NewsMediaOrganization', 'Organization']"
+URL.documentation,WebAPI
+URL.downloadUrl,SoftwareApplication
+URL.duringMedia,HowToDirection
+URL.editEIDR,CreativeWork
+URL.educationalCredentialAwarded,"['Course', 'EducationalOccupationalProgram']"
+URL.educationalLevel,"['CreativeWork', 'EducationEvent', 'EducationalOccupationalCredential', 'LearningResource']"
+URL.educationalProgramMode,EducationalOccupationalProgram
+URL.embedUrl,MediaObject
+URL.encodingFormat,"['CreativeWork', 'MediaObject']"
+URL.engineType,EngineSpecification
+URL.ethicsPolicy,"['NewsMediaOrganization', 'Organization']"
+URL.featureList,SoftwareApplication
+URL.feesAndCommissionsSpecification,"['FinancialProduct', 'FinancialService']"
+URL.fileFormat,CreativeWork
+URL.fuelType,"['EngineSpecification', 'Vehicle']"
+URL.gameLocation,"['Game', 'VideoGameSeries']"
+URL.gamePlatform,"['VideoGame', 'VideoGameSeries']"
+URL.genre,"['BroadcastChannel', 'CreativeWork', 'MusicGroup']"
+URL.gettingTestedInfo,SpecialAnnouncement
+URL.hasMap,Place
+URL.hasMenu,FoodEstablishment
+URL.hasMolecularFunction,BioChemEntity
+URL.hasRepresentation,BioChemEntity
+URL.healthPlanMarketingUrl,HealthInsurancePlan
+URL.identifier,Thing
+URL.image,Thing
+URL.inCodeSet,CategoryCode
+URL.inDefinedTermSet,DefinedTerm
+URL.installUrl,SoftwareApplication
+URL.isBasedOn,CreativeWork
+URL.isBasedOnUrl,CreativeWork
+URL.isInvolvedInBiologicalProcess,BioChemEntity
+URL.isLocatedInSubcellularLocation,BioChemEntity
+URL.isPartOf,CreativeWork
+URL.keywords,"['CreativeWork', 'Event', 'Organization', 'Place', 'Product']"
+URL.knowsAbout,"['Organization', 'Person']"
+URL.labelDetails,Drug
+URL.layoutImage,FloorPlan
+URL.legislationIdentifier,Legislation
+URL.license,CreativeWork
+URL.loanType,LoanOrCredit
+URL.logo,"['Brand', 'Organization', 'Place', 'Product', 'Service']"
+URL.mainEntityOfPage,Thing
+URL.map,Place
+URL.maps,Place
+URL.masthead,NewsMediaOrganization
+URL.material,"['CreativeWork', 'Product']"
+URL.measurementTechnique,"['DataCatalog', 'DataDownload', 'Dataset', 'PropertyValue']"
+URL.meetsEmissionStandard,Vehicle
+URL.memoryRequirements,SoftwareApplication
+URL.menu,FoodEstablishment
+URL.merchantReturnLink,MerchantReturnPolicy
+URL.missionCoveragePrioritiesPolicy,NewsMediaOrganization
+URL.namedPosition,Role
+URL.newsUpdatesAndGuidelines,SpecialAnnouncement
+URL.noBylinesPolicy,NewsMediaOrganization
+URL.occupationalCredentialAwarded,"['Course', 'EducationalOccupationalProgram']"
+URL.originalMediaLink,MediaReview
+URL.ownershipFundingInfo,"['NewsMediaOrganization', 'Organization']"
+URL.parentTaxon,Taxon
+URL.paymentUrl,Order
+URL.physicalRequirement,JobPosting
+URL.prescribingInfo,Drug
+URL.productReturnLink,ProductReturnPolicy
+URL.propertyID,PropertyValue
+URL.publicTransportClosuresInfo,SpecialAnnouncement
+URL.publishingPrinciples,"['CreativeWork', 'Organization', 'Person']"
+URL.quarantineGuidelines,SpecialAnnouncement
+URL.relatedLink,WebPage
+URL.releaseNotes,SoftwareApplication
+URL.replyToUrl,UserComments
+URL.requirements,SoftwareApplication
+URL.roleName,Role
+URL.sameAs,Thing
+URL.schemaVersion,CreativeWork
+URL.schoolClosuresInfo,SpecialAnnouncement
+URL.screenshot,SoftwareApplication
+URL.sdLicense,CreativeWork
+URL.season,"['RadioSeries', 'TVSeries', 'VideoGameSeries']"
+URL.securityClearanceRequirement,JobPosting
+URL.sensoryRequirement,JobPosting
+URL.serviceUrl,ServiceChannel
+URL.shippingSettingsLink,OfferShippingDetails
+URL.significantLink,WebPage
+URL.significantLinks,WebPage
+URL.softwareRequirements,SoftwareApplication
+URL.speakable,"['Article', 'WebPage']"
+URL.sport,"['SportsEvent', 'SportsOrganization']"
+URL.storageRequirements,SoftwareApplication
+URL.surface,VisualArtwork
+URL.targetUrl,AlignmentObject
+URL.taxonRank,Taxon
+URL.taxonomicRange,BioChemEntity
+URL.temporalCoverage,CreativeWork
+URL.termsOfService,Service
+URL.thumbnailUrl,CreativeWork
+URL.ticketToken,Ticket
+URL.titleEIDR,"['Movie', 'TVEpisode']"
+URL.tourBookingPage,"['Accommodation', 'ApartmentComplex', 'Place']"
+URL.trackingUrl,ParcelDelivery
+URL.travelBans,SpecialAnnouncement
+URL.unitCode,"['PropertyValue', 'QuantitativeValue', 'TypeAndQuantityNode', 'UnitPriceSpecification']"
+URL.unnamedSourcesPolicy,"['NewsMediaOrganization', 'Organization']"
+URL.url,Thing
+URL.usageInfo,CreativeWork
+URL.usesHealthPlanIdStandard,HealthInsurancePlan
+URL.vehicleTransmission,Vehicle
+URL.verificationFactCheckingPolicy,NewsMediaOrganization
+URL.warning,Drug
+URL.webFeed,"['PodcastSeries', 'SpecialAnnouncement']"

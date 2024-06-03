@@ -1,0 +1,46 @@
+property,expected_types
+Demand.acceptedPaymentMethod,"['LoanOrCredit', 'PaymentMethod']"
+Demand.advanceBookingRequirement,QuantitativeValue
+Demand.areaServed,"['AdministrativeArea', 'GeoShape', 'Place', 'Text']"
+Demand.availability,ItemAvailability
+Demand.availabilityEnds,"['Date', 'DateTime', 'Time']"
+Demand.availabilityStarts,"['Date', 'DateTime', 'Time']"
+Demand.availableAtOrFrom,Place
+Demand.availableDeliveryMethod,DeliveryMethod
+Demand.businessFunction,BusinessFunction
+Demand.deliveryLeadTime,QuantitativeValue
+Demand.eligibleCustomerType,BusinessEntityType
+Demand.eligibleDuration,QuantitativeValue
+Demand.eligibleQuantity,QuantitativeValue
+Demand.eligibleRegion,"['GeoShape', 'Place', 'Text']"
+Demand.eligibleTransactionVolume,PriceSpecification
+Demand.gtin,Text
+Demand.gtin12,Text
+Demand.gtin13,Text
+Demand.gtin14,Text
+Demand.gtin8,Text
+Demand.includesObject,TypeAndQuantityNode
+Demand.ineligibleRegion,"['GeoShape', 'Place', 'Text']"
+Demand.inventoryLevel,QuantitativeValue
+Demand.itemCondition,OfferItemCondition
+Demand.itemOffered,"['AggregateOffer', 'CreativeWork', 'Event', 'MenuItem', 'Product', 'Service', 'Trip']"
+Demand.mpn,Text
+Demand.priceSpecification,PriceSpecification
+Demand.seller,"['Organization', 'Person']"
+Demand.serialNumber,Text
+Demand.sku,Text
+Demand.validFrom,"['Date', 'DateTime']"
+Demand.validThrough,"['Date', 'DateTime']"
+Demand.warranty,WarrantyPromise
+Demand.additionalType,URL
+Demand.alternateName,Text
+Demand.description,Text
+Demand.disambiguatingDescription,Text
+Demand.identifier,"['PropertyValue', 'Text', 'URL']"
+Demand.image,"['ImageObject', 'URL']"
+Demand.mainEntityOfPage,"['CreativeWork', 'URL']"
+Demand.name,Text
+Demand.potentialAction,Action
+Demand.sameAs,URL
+Demand.subjectOf,"['CreativeWork', 'Event']"
+Demand.url,URL

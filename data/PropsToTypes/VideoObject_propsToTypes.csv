@@ -1,0 +1,149 @@
+property,expected_types
+VideoObject.actor,Person
+VideoObject.caption,"['MediaObject', 'Text']"
+VideoObject.director,Person
+VideoObject.embeddedTextCaption,Text
+VideoObject.musicBy,"['MusicGroup', 'Person']"
+VideoObject.thumbnail,ImageObject
+VideoObject.transcript,Text
+VideoObject.videoFrameSize,Text
+VideoObject.videoQuality,Text
+VideoObject.associatedArticle,NewsArticle
+VideoObject.bitrate,Text
+VideoObject.contentSize,Text
+VideoObject.contentUrl,URL
+VideoObject.duration,Duration
+VideoObject.embedUrl,URL
+VideoObject.encodesCreativeWork,CreativeWork
+VideoObject.encodingFormat,"['Text', 'URL']"
+VideoObject.endTime,"['DateTime', 'Time']"
+VideoObject.height,"['Distance', 'QuantitativeValue']"
+VideoObject.ineligibleRegion,"['GeoShape', 'Place', 'Text']"
+VideoObject.interpretedAsClaim,Claim
+VideoObject.playerType,Text
+VideoObject.productionCompany,Organization
+VideoObject.regionsAllowed,Place
+VideoObject.requiresSubscription,"['Boolean', 'MediaSubscription']"
+VideoObject.sha256,Text
+VideoObject.startTime,"['DateTime', 'Time']"
+VideoObject.uploadDate,Date
+VideoObject.width,"['Distance', 'QuantitativeValue']"
+VideoObject.about,Thing
+VideoObject.abstract,Text
+VideoObject.accessMode,Text
+VideoObject.accessModeSufficient,ItemList
+VideoObject.accessibilityAPI,Text
+VideoObject.accessibilityControl,Text
+VideoObject.accessibilityFeature,Text
+VideoObject.accessibilityHazard,Text
+VideoObject.accessibilitySummary,Text
+VideoObject.accountablePerson,Person
+VideoObject.acquireLicensePage,"['CreativeWork', 'URL']"
+VideoObject.aggregateRating,AggregateRating
+VideoObject.alternativeHeadline,Text
+VideoObject.archivedAt,"['URL', 'WebPage']"
+VideoObject.assesses,"['DefinedTerm', 'Text']"
+VideoObject.associatedMedia,MediaObject
+VideoObject.audience,Audience
+VideoObject.audio,"['AudioObject', 'Clip', 'MusicRecording']"
+VideoObject.author,"['Organization', 'Person']"
+VideoObject.award,Text
+VideoObject.character,Person
+VideoObject.citation,"['CreativeWork', 'Text']"
+VideoObject.comment,Comment
+VideoObject.commentCount,Integer
+VideoObject.conditionsOfAccess,Text
+VideoObject.contentLocation,Place
+VideoObject.contentRating,"['Rating', 'Text']"
+VideoObject.contentReferenceTime,DateTime
+VideoObject.contributor,"['Organization', 'Person']"
+VideoObject.copyrightHolder,"['Organization', 'Person']"
+VideoObject.copyrightNotice,Text
+VideoObject.copyrightYear,Number
+VideoObject.correction,"['CorrectionComment', 'Text', 'URL']"
+VideoObject.countryOfOrigin,Country
+VideoObject.creativeWorkStatus,"['DefinedTerm', 'Text']"
+VideoObject.creator,"['Organization', 'Person']"
+VideoObject.creditText,Text
+VideoObject.dateCreated,"['Date', 'DateTime']"
+VideoObject.dateModified,"['Date', 'DateTime']"
+VideoObject.datePublished,"['Date', 'DateTime']"
+VideoObject.discussionUrl,URL
+VideoObject.editEIDR,"['Text', 'URL']"
+VideoObject.editor,Person
+VideoObject.educationalAlignment,AlignmentObject
+VideoObject.educationalLevel,"['DefinedTerm', 'Text', 'URL']"
+VideoObject.educationalUse,"['DefinedTerm', 'Text']"
+VideoObject.encoding,MediaObject
+VideoObject.encodingFormat,"['Text', 'URL']"
+VideoObject.exampleOfWork,CreativeWork
+VideoObject.expires,Date
+VideoObject.funder,"['Organization', 'Person']"
+VideoObject.funding,Grant
+VideoObject.genre,"['Text', 'URL']"
+VideoObject.hasPart,CreativeWork
+VideoObject.headline,Text
+VideoObject.inLanguage,"['Language', 'Text']"
+VideoObject.interactionStatistic,InteractionCounter
+VideoObject.interactivityType,Text
+VideoObject.interpretedAsClaim,Claim
+VideoObject.isAccessibleForFree,Boolean
+VideoObject.isBasedOn,"['CreativeWork', 'Product', 'URL']"
+VideoObject.isFamilyFriendly,Boolean
+VideoObject.isPartOf,"['CreativeWork', 'URL']"
+VideoObject.keywords,"['DefinedTerm', 'Text', 'URL']"
+VideoObject.learningResourceType,"['DefinedTerm', 'Text']"
+VideoObject.license,"['CreativeWork', 'URL']"
+VideoObject.locationCreated,Place
+VideoObject.mainEntity,Thing
+VideoObject.maintainer,"['Organization', 'Person']"
+VideoObject.material,"['Product', 'Text', 'URL']"
+VideoObject.materialExtent,"['QuantitativeValue', 'Text']"
+VideoObject.mentions,Thing
+VideoObject.offers,"['Demand', 'Offer']"
+VideoObject.pattern,"['DefinedTerm', 'Text']"
+VideoObject.position,"['Integer', 'Text']"
+VideoObject.producer,"['Organization', 'Person']"
+VideoObject.provider,"['Organization', 'Person']"
+VideoObject.publication,PublicationEvent
+VideoObject.publisher,"['Organization', 'Person']"
+VideoObject.publisherImprint,Organization
+VideoObject.publishingPrinciples,"['CreativeWork', 'URL']"
+VideoObject.recordedAt,Event
+VideoObject.releasedEvent,PublicationEvent
+VideoObject.review,Review
+VideoObject.schemaVersion,"['Text', 'URL']"
+VideoObject.sdDatePublished,Date
+VideoObject.sdLicense,"['CreativeWork', 'URL']"
+VideoObject.sdPublisher,"['Organization', 'Person']"
+VideoObject.size,"['DefinedTerm', 'QuantitativeValue', 'SizeSpecification', 'Text']"
+VideoObject.sourceOrganization,Organization
+VideoObject.spatial,Place
+VideoObject.spatialCoverage,Place
+VideoObject.sponsor,"['Organization', 'Person']"
+VideoObject.teaches,"['DefinedTerm', 'Text']"
+VideoObject.temporal,"['DateTime', 'Text']"
+VideoObject.temporalCoverage,"['DateTime', 'Text', 'URL']"
+VideoObject.text,Text
+VideoObject.thumbnailUrl,URL
+VideoObject.timeRequired,Duration
+VideoObject.translationOfWork,CreativeWork
+VideoObject.translator,"['Organization', 'Person']"
+VideoObject.typicalAgeRange,Text
+VideoObject.usageInfo,"['CreativeWork', 'URL']"
+VideoObject.version,"['Number', 'Text']"
+VideoObject.video,"['Clip', 'VideoObject']"
+VideoObject.workExample,CreativeWork
+VideoObject.workTranslation,CreativeWork
+VideoObject.additionalType,URL
+VideoObject.alternateName,Text
+VideoObject.description,Text
+VideoObject.disambiguatingDescription,Text
+VideoObject.identifier,"['PropertyValue', 'Text', 'URL']"
+VideoObject.image,"['ImageObject', 'URL']"
+VideoObject.mainEntityOfPage,"['CreativeWork', 'URL']"
+VideoObject.name,Text
+VideoObject.potentialAction,Action
+VideoObject.sameAs,URL
+VideoObject.subjectOf,"['CreativeWork', 'Event']"
+VideoObject.url,URL

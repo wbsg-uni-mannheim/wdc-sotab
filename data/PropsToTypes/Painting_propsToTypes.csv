@@ -1,0 +1,119 @@
+property,expected_types
+Painting.about,Thing
+Painting.abstract,Text
+Painting.accessMode,Text
+Painting.accessModeSufficient,ItemList
+Painting.accessibilityAPI,Text
+Painting.accessibilityControl,Text
+Painting.accessibilityFeature,Text
+Painting.accessibilityHazard,Text
+Painting.accessibilitySummary,Text
+Painting.accountablePerson,Person
+Painting.acquireLicensePage,"['CreativeWork', 'URL']"
+Painting.aggregateRating,AggregateRating
+Painting.alternativeHeadline,Text
+Painting.archivedAt,"['URL', 'WebPage']"
+Painting.assesses,"['DefinedTerm', 'Text']"
+Painting.associatedMedia,MediaObject
+Painting.audience,Audience
+Painting.audio,"['AudioObject', 'Clip', 'MusicRecording']"
+Painting.author,"['Organization', 'Person']"
+Painting.award,Text
+Painting.character,Person
+Painting.citation,"['CreativeWork', 'Text']"
+Painting.comment,Comment
+Painting.commentCount,Integer
+Painting.conditionsOfAccess,Text
+Painting.contentLocation,Place
+Painting.contentRating,"['Rating', 'Text']"
+Painting.contentReferenceTime,DateTime
+Painting.contributor,"['Organization', 'Person']"
+Painting.copyrightHolder,"['Organization', 'Person']"
+Painting.copyrightNotice,Text
+Painting.copyrightYear,Number
+Painting.correction,"['CorrectionComment', 'Text', 'URL']"
+Painting.countryOfOrigin,Country
+Painting.creativeWorkStatus,"['DefinedTerm', 'Text']"
+Painting.creator,"['Organization', 'Person']"
+Painting.creditText,Text
+Painting.dateCreated,"['Date', 'DateTime']"
+Painting.dateModified,"['Date', 'DateTime']"
+Painting.datePublished,"['Date', 'DateTime']"
+Painting.discussionUrl,URL
+Painting.editEIDR,"['Text', 'URL']"
+Painting.editor,Person
+Painting.educationalAlignment,AlignmentObject
+Painting.educationalLevel,"['DefinedTerm', 'Text', 'URL']"
+Painting.educationalUse,"['DefinedTerm', 'Text']"
+Painting.encoding,MediaObject
+Painting.encodingFormat,"['Text', 'URL']"
+Painting.exampleOfWork,CreativeWork
+Painting.expires,Date
+Painting.funder,"['Organization', 'Person']"
+Painting.genre,"['Text', 'URL']"
+Painting.hasPart,CreativeWork
+Painting.headline,Text
+Painting.inLanguage,"['Language', 'Text']"
+Painting.interactionStatistic,InteractionCounter
+Painting.interactivityType,Text
+Painting.interpretedAsClaim,Claim
+Painting.isAccessibleForFree,Boolean
+Painting.isBasedOn,"['CreativeWork', 'Product', 'URL']"
+Painting.isFamilyFriendly,Boolean
+Painting.isPartOf,"['CreativeWork', 'URL']"
+Painting.keywords,"['DefinedTerm', 'Text', 'URL']"
+Painting.learningResourceType,"['DefinedTerm', 'Text']"
+Painting.license,"['CreativeWork', 'URL']"
+Painting.locationCreated,Place
+Painting.mainEntity,Thing
+Painting.maintainer,"['Organization', 'Person']"
+Painting.material,"['Product', 'Text', 'URL']"
+Painting.materialExtent,"['QuantitativeValue', 'Text']"
+Painting.mentions,Thing
+Painting.offers,"['Demand', 'Offer']"
+Painting.pattern,"['DefinedTerm', 'Text']"
+Painting.position,"['Integer', 'Text']"
+Painting.producer,"['Organization', 'Person']"
+Painting.provider,"['Organization', 'Person']"
+Painting.publication,PublicationEvent
+Painting.publisher,"['Organization', 'Person']"
+Painting.publisherImprint,Organization
+Painting.publishingPrinciples,"['CreativeWork', 'URL']"
+Painting.recordedAt,Event
+Painting.releasedEvent,PublicationEvent
+Painting.review,Review
+Painting.schemaVersion,"['Text', 'URL']"
+Painting.sdDatePublished,Date
+Painting.sdLicense,"['CreativeWork', 'URL']"
+Painting.sdPublisher,"['Organization', 'Person']"
+Painting.size,"['DefinedTerm', 'QuantitativeValue', 'SizeSpecification', 'Text']"
+Painting.sourceOrganization,Organization
+Painting.spatial,Place
+Painting.spatialCoverage,Place
+Painting.sponsor,"['Organization', 'Person']"
+Painting.teaches,"['DefinedTerm', 'Text']"
+Painting.temporal,"['DateTime', 'Text']"
+Painting.temporalCoverage,"['DateTime', 'Text', 'URL']"
+Painting.text,Text
+Painting.thumbnailUrl,URL
+Painting.timeRequired,Duration
+Painting.translationOfWork,CreativeWork
+Painting.translator,"['Organization', 'Person']"
+Painting.typicalAgeRange,Text
+Painting.usageInfo,"['CreativeWork', 'URL']"
+Painting.version,"['Number', 'Text']"
+Painting.video,"['Clip', 'VideoObject']"
+Painting.workExample,CreativeWork
+Painting.workTranslation,CreativeWork
+Painting.additionalType,URL
+Painting.alternateName,Text
+Painting.description,Text
+Painting.disambiguatingDescription,Text
+Painting.identifier,"['PropertyValue', 'Text', 'URL']"
+Painting.image,"['ImageObject', 'URL']"
+Painting.mainEntityOfPage,"['CreativeWork', 'URL']"
+Painting.name,Text
+Painting.potentialAction,Action
+Painting.sameAs,URL
+Painting.subjectOf,"['CreativeWork', 'Event']"
+Painting.url,URL

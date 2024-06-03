@@ -1,0 +1,16 @@
+property,expected_types
+ItemList.itemListElement,"['ListItem', 'Text', 'Thing']"
+ItemList.itemListOrder,"['ItemListOrderType', 'Text']"
+ItemList.numberOfItems,Integer
+ItemList.additionalType,URL
+ItemList.alternateName,Text
+ItemList.description,Text
+ItemList.disambiguatingDescription,Text
+ItemList.identifier,"['PropertyValue', 'Text', 'URL']"
+ItemList.image,"['ImageObject', 'URL']"
+ItemList.mainEntityOfPage,"['CreativeWork', 'URL']"
+ItemList.name,Text
+ItemList.potentialAction,Action
+ItemList.sameAs,URL
+ItemList.subjectOf,"['CreativeWork', 'Event']"
+ItemList.url,URL

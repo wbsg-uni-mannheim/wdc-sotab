@@ -1,0 +1,51 @@
+property,expected_types
+Continent.additionalProperty,PropertyValue
+Continent.address,"['PostalAddress', 'Text']"
+Continent.aggregateRating,AggregateRating
+Continent.amenityFeature,LocationFeatureSpecification
+Continent.branchCode,Text
+Continent.containedInPlace,Place
+Continent.containsPlace,Place
+Continent.event,Event
+Continent.faxNumber,Text
+Continent.geo,"['GeoCoordinates', 'GeoShape']"
+Continent.geoContains,"['GeospatialGeometry', 'Place']"
+Continent.geoCoveredBy,"['GeospatialGeometry', 'Place']"
+Continent.geoCovers,"['GeospatialGeometry', 'Place']"
+Continent.geoCrosses,"['GeospatialGeometry', 'Place']"
+Continent.geoDisjoint,"['GeospatialGeometry', 'Place']"
+Continent.geoEquals,"['GeospatialGeometry', 'Place']"
+Continent.geoIntersects,"['GeospatialGeometry', 'Place']"
+Continent.geoOverlaps,"['GeospatialGeometry', 'Place']"
+Continent.geoTouches,"['GeospatialGeometry', 'Place']"
+Continent.geoWithin,"['GeospatialGeometry', 'Place']"
+Continent.globalLocationNumber,Text
+Continent.hasDriveThroughService,Boolean
+Continent.hasMap,"['Map', 'URL']"
+Continent.isAccessibleForFree,Boolean
+Continent.isicV4,Text
+Continent.latitude,"['Number', 'Text']"
+Continent.logo,"['ImageObject', 'URL']"
+Continent.longitude,"['Number', 'Text']"
+Continent.maximumAttendeeCapacity,Integer
+Continent.openingHoursSpecification,OpeningHoursSpecification
+Continent.photo,"['ImageObject', 'Photograph']"
+Continent.publicAccess,Boolean
+Continent.review,Review
+Continent.slogan,Text
+Continent.smokingAllowed,Boolean
+Continent.specialOpeningHoursSpecification,OpeningHoursSpecification
+Continent.telephone,Text
+Continent.tourBookingPage,URL
+Continent.additionalType,URL
+Continent.alternateName,Text
+Continent.description,Text
+Continent.disambiguatingDescription,Text
+Continent.identifier,"['PropertyValue', 'Text', 'URL']"
+Continent.image,"['ImageObject', 'URL']"
+Continent.mainEntityOfPage,"['CreativeWork', 'URL']"
+Continent.name,Text
+Continent.potentialAction,Action
+Continent.sameAs,URL
+Continent.subjectOf,"['CreativeWork', 'Event']"
+Continent.url,URL

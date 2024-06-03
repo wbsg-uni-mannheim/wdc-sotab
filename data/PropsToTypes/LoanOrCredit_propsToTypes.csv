@@ -1,0 +1,46 @@
+property,expected_types
+LoanOrCredit.amount,"['MonetaryAmount', 'Number']"
+LoanOrCredit.currency,Text
+LoanOrCredit.gracePeriod,Duration
+LoanOrCredit.loanRepaymentForm,RepaymentSpecification
+LoanOrCredit.loanTerm,QuantitativeValue
+LoanOrCredit.loanType,"['Text', 'URL']"
+LoanOrCredit.recourseLoan,Boolean
+LoanOrCredit.renegotiableLoan,Boolean
+LoanOrCredit.requiredCollateral,"['Text', 'Thing']"
+LoanOrCredit.annualPercentageRate,"['Number', 'QuantitativeValue']"
+LoanOrCredit.feesAndCommissionsSpecification,"['Text', 'URL']"
+LoanOrCredit.interestRate,"['Number', 'QuantitativeValue']"
+LoanOrCredit.aggregateRating,AggregateRating
+LoanOrCredit.areaServed,"['AdministrativeArea', 'GeoShape', 'Place', 'Text']"
+LoanOrCredit.audience,Audience
+LoanOrCredit.availableChannel,ServiceChannel
+LoanOrCredit.award,Text
+LoanOrCredit.brand,"['Brand', 'Organization']"
+LoanOrCredit.broker,"['Organization', 'Person']"
+LoanOrCredit.category,"['CategoryCode', 'PhysicalActivityCategory', 'Text', 'Thing', 'URL']"
+LoanOrCredit.hasOfferCatalog,OfferCatalog
+LoanOrCredit.hoursAvailable,OpeningHoursSpecification
+LoanOrCredit.isRelatedTo,"['Product', 'Service']"
+LoanOrCredit.isSimilarTo,"['Product', 'Service']"
+LoanOrCredit.logo,"['ImageObject', 'URL']"
+LoanOrCredit.offers,"['Demand', 'Offer']"
+LoanOrCredit.provider,"['Organization', 'Person']"
+LoanOrCredit.providerMobility,Text
+LoanOrCredit.review,Review
+LoanOrCredit.serviceOutput,Thing
+LoanOrCredit.serviceType,"['GovernmentBenefitsType', 'Text']"
+LoanOrCredit.slogan,Text
+LoanOrCredit.termsOfService,"['Text', 'URL']"
+LoanOrCredit.additionalType,URL
+LoanOrCredit.alternateName,Text
+LoanOrCredit.description,Text
+LoanOrCredit.disambiguatingDescription,Text
+LoanOrCredit.identifier,"['PropertyValue', 'Text', 'URL']"
+LoanOrCredit.image,"['ImageObject', 'URL']"
+LoanOrCredit.mainEntityOfPage,"['CreativeWork', 'URL']"
+LoanOrCredit.name,Text
+LoanOrCredit.potentialAction,Action
+LoanOrCredit.sameAs,URL
+LoanOrCredit.subjectOf,"['CreativeWork', 'Event']"
+LoanOrCredit.url,URL

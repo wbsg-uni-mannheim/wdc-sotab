@@ -1,0 +1,110 @@
+property,expected_types
+ShoppingCenter.currenciesAccepted,Text
+ShoppingCenter.openingHours,Text
+ShoppingCenter.paymentAccepted,Text
+ShoppingCenter.priceRange,Text
+ShoppingCenter.actionableFeedbackPolicy,"['CreativeWork', 'URL']"
+ShoppingCenter.address,"['PostalAddress', 'Text']"
+ShoppingCenter.aggregateRating,AggregateRating
+ShoppingCenter.alumni,Person
+ShoppingCenter.areaServed,"['AdministrativeArea', 'GeoShape', 'Place', 'Text']"
+ShoppingCenter.award,Text
+ShoppingCenter.brand,"['Brand', 'Organization']"
+ShoppingCenter.contactPoint,ContactPoint
+ShoppingCenter.correctionsPolicy,"['CreativeWork', 'URL']"
+ShoppingCenter.department,Organization
+ShoppingCenter.dissolutionDate,Date
+ShoppingCenter.diversityPolicy,"['CreativeWork', 'URL']"
+ShoppingCenter.diversityStaffingReport,"['Article', 'URL']"
+ShoppingCenter.duns,Text
+ShoppingCenter.email,Text
+ShoppingCenter.employee,Person
+ShoppingCenter.ethicsPolicy,"['CreativeWork', 'URL']"
+ShoppingCenter.event,Event
+ShoppingCenter.faxNumber,Text
+ShoppingCenter.founder,Person
+ShoppingCenter.foundingDate,Date
+ShoppingCenter.foundingLocation,Place
+ShoppingCenter.funder,"['Organization', 'Person']"
+ShoppingCenter.globalLocationNumber,Text
+ShoppingCenter.hasCredential,EducationalOccupationalCredential
+ShoppingCenter.hasMerchantReturnPolicy,MerchantReturnPolicy
+ShoppingCenter.hasOfferCatalog,OfferCatalog
+ShoppingCenter.hasPOS,Place
+ShoppingCenter.interactionStatistic,InteractionCounter
+ShoppingCenter.isicV4,Text
+ShoppingCenter.knowsAbout,"['Text', 'Thing', 'URL']"
+ShoppingCenter.knowsLanguage,"['Language', 'Text']"
+ShoppingCenter.legalName,Text
+ShoppingCenter.leiCode,Text
+ShoppingCenter.location,"['Place', 'PostalAddress', 'Text', 'VirtualLocation']"
+ShoppingCenter.logo,"['ImageObject', 'URL']"
+ShoppingCenter.makesOffer,Offer
+ShoppingCenter.member,"['Organization', 'Person']"
+ShoppingCenter.memberOf,"['Organization', 'ProgramMembership']"
+ShoppingCenter.naics,Text
+ShoppingCenter.nonprofitStatus,NonprofitType
+ShoppingCenter.numberOfEmployees,QuantitativeValue
+ShoppingCenter.ownershipFundingInfo,"['AboutPage', 'CreativeWork', 'Text', 'URL']"
+ShoppingCenter.owns,"['OwnershipInfo', 'Product']"
+ShoppingCenter.parentOrganization,Organization
+ShoppingCenter.publishingPrinciples,"['CreativeWork', 'URL']"
+ShoppingCenter.review,Review
+ShoppingCenter.seeks,Demand
+ShoppingCenter.slogan,Text
+ShoppingCenter.sponsor,"['Organization', 'Person']"
+ShoppingCenter.subOrganization,Organization
+ShoppingCenter.taxID,Text
+ShoppingCenter.telephone,Text
+ShoppingCenter.unnamedSourcesPolicy,"['CreativeWork', 'URL']"
+ShoppingCenter.vatID,Text
+ShoppingCenter.additionalProperty,PropertyValue
+ShoppingCenter.address,"['PostalAddress', 'Text']"
+ShoppingCenter.aggregateRating,AggregateRating
+ShoppingCenter.amenityFeature,LocationFeatureSpecification
+ShoppingCenter.branchCode,Text
+ShoppingCenter.containedInPlace,Place
+ShoppingCenter.containsPlace,Place
+ShoppingCenter.event,Event
+ShoppingCenter.faxNumber,Text
+ShoppingCenter.geo,"['GeoCoordinates', 'GeoShape']"
+ShoppingCenter.geoContains,"['GeospatialGeometry', 'Place']"
+ShoppingCenter.geoCoveredBy,"['GeospatialGeometry', 'Place']"
+ShoppingCenter.geoCovers,"['GeospatialGeometry', 'Place']"
+ShoppingCenter.geoCrosses,"['GeospatialGeometry', 'Place']"
+ShoppingCenter.geoDisjoint,"['GeospatialGeometry', 'Place']"
+ShoppingCenter.geoEquals,"['GeospatialGeometry', 'Place']"
+ShoppingCenter.geoIntersects,"['GeospatialGeometry', 'Place']"
+ShoppingCenter.geoOverlaps,"['GeospatialGeometry', 'Place']"
+ShoppingCenter.geoTouches,"['GeospatialGeometry', 'Place']"
+ShoppingCenter.geoWithin,"['GeospatialGeometry', 'Place']"
+ShoppingCenter.globalLocationNumber,Text
+ShoppingCenter.hasDriveThroughService,Boolean
+ShoppingCenter.hasMap,"['Map', 'URL']"
+ShoppingCenter.isAccessibleForFree,Boolean
+ShoppingCenter.isicV4,Text
+ShoppingCenter.latitude,"['Number', 'Text']"
+ShoppingCenter.logo,"['ImageObject', 'URL']"
+ShoppingCenter.longitude,"['Number', 'Text']"
+ShoppingCenter.maximumAttendeeCapacity,Integer
+ShoppingCenter.openingHoursSpecification,OpeningHoursSpecification
+ShoppingCenter.photo,"['ImageObject', 'Photograph']"
+ShoppingCenter.publicAccess,Boolean
+ShoppingCenter.review,Review
+ShoppingCenter.slogan,Text
+ShoppingCenter.smokingAllowed,Boolean
+ShoppingCenter.specialOpeningHoursSpecification,OpeningHoursSpecification
+ShoppingCenter.telephone,Text
+ShoppingCenter.tourBookingPage,URL
+ShoppingCenter.additionalType,URL
+ShoppingCenter.alternateName,Text
+ShoppingCenter.description,Text
+ShoppingCenter.disambiguatingDescription,Text
+ShoppingCenter.identifier,"['PropertyValue', 'Text', 'URL']"
+ShoppingCenter.image,"['ImageObject', 'URL']"
+ShoppingCenter.mainEntityOfPage,"['CreativeWork', 'URL']"
+ShoppingCenter.name,Text
+ShoppingCenter.potentialAction,Action
+ShoppingCenter.sameAs,URL
+ShoppingCenter.subjectOf,"['CreativeWork', 'Event']"
+ShoppingCenter.url,URL

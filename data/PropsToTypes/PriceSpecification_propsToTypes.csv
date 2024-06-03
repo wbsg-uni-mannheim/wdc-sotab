@@ -1,0 +1,22 @@
+property,expected_types
+PriceSpecification.eligibleQuantity,QuantitativeValue
+PriceSpecification.eligibleTransactionVolume,PriceSpecification
+PriceSpecification.maxPrice,Number
+PriceSpecification.minPrice,Number
+PriceSpecification.price,"['Number', 'Text']"
+PriceSpecification.priceCurrency,Text
+PriceSpecification.validFrom,"['Date', 'DateTime']"
+PriceSpecification.validThrough,"['Date', 'DateTime']"
+PriceSpecification.valueAddedTaxIncluded,Boolean
+PriceSpecification.additionalType,URL
+PriceSpecification.alternateName,Text
+PriceSpecification.description,Text
+PriceSpecification.disambiguatingDescription,Text
+PriceSpecification.identifier,"['PropertyValue', 'Text', 'URL']"
+PriceSpecification.image,"['ImageObject', 'URL']"
+PriceSpecification.mainEntityOfPage,"['CreativeWork', 'URL']"
+PriceSpecification.name,Text
+PriceSpecification.potentialAction,Action
+PriceSpecification.sameAs,URL
+PriceSpecification.subjectOf,"['CreativeWork', 'Event']"
+PriceSpecification.url,URL

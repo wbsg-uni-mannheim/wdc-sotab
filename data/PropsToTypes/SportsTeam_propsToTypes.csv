@@ -1,0 +1,72 @@
+property,expected_types
+SportsTeam.athlete,Person
+SportsTeam.coach,Person
+SportsTeam.gender,"['GenderType', 'Text']"
+SportsTeam.sport,"['Text', 'URL']"
+SportsTeam.actionableFeedbackPolicy,"['CreativeWork', 'URL']"
+SportsTeam.address,"['PostalAddress', 'Text']"
+SportsTeam.aggregateRating,AggregateRating
+SportsTeam.alumni,Person
+SportsTeam.areaServed,"['AdministrativeArea', 'GeoShape', 'Place', 'Text']"
+SportsTeam.award,Text
+SportsTeam.brand,"['Brand', 'Organization']"
+SportsTeam.contactPoint,ContactPoint
+SportsTeam.correctionsPolicy,"['CreativeWork', 'URL']"
+SportsTeam.department,Organization
+SportsTeam.dissolutionDate,Date
+SportsTeam.diversityPolicy,"['CreativeWork', 'URL']"
+SportsTeam.diversityStaffingReport,"['Article', 'URL']"
+SportsTeam.duns,Text
+SportsTeam.email,Text
+SportsTeam.employee,Person
+SportsTeam.ethicsPolicy,"['CreativeWork', 'URL']"
+SportsTeam.event,Event
+SportsTeam.faxNumber,Text
+SportsTeam.founder,Person
+SportsTeam.foundingDate,Date
+SportsTeam.foundingLocation,Place
+SportsTeam.funder,"['Organization', 'Person']"
+SportsTeam.globalLocationNumber,Text
+SportsTeam.hasCredential,EducationalOccupationalCredential
+SportsTeam.hasMerchantReturnPolicy,MerchantReturnPolicy
+SportsTeam.hasOfferCatalog,OfferCatalog
+SportsTeam.hasPOS,Place
+SportsTeam.interactionStatistic,InteractionCounter
+SportsTeam.isicV4,Text
+SportsTeam.knowsAbout,"['Text', 'Thing', 'URL']"
+SportsTeam.knowsLanguage,"['Language', 'Text']"
+SportsTeam.legalName,Text
+SportsTeam.leiCode,Text
+SportsTeam.location,"['Place', 'PostalAddress', 'Text', 'VirtualLocation']"
+SportsTeam.logo,"['ImageObject', 'URL']"
+SportsTeam.makesOffer,Offer
+SportsTeam.member,"['Organization', 'Person']"
+SportsTeam.memberOf,"['Organization', 'ProgramMembership']"
+SportsTeam.naics,Text
+SportsTeam.nonprofitStatus,NonprofitType
+SportsTeam.numberOfEmployees,QuantitativeValue
+SportsTeam.ownershipFundingInfo,"['AboutPage', 'CreativeWork', 'Text', 'URL']"
+SportsTeam.owns,"['OwnershipInfo', 'Product']"
+SportsTeam.parentOrganization,Organization
+SportsTeam.publishingPrinciples,"['CreativeWork', 'URL']"
+SportsTeam.review,Review
+SportsTeam.seeks,Demand
+SportsTeam.slogan,Text
+SportsTeam.sponsor,"['Organization', 'Person']"
+SportsTeam.subOrganization,Organization
+SportsTeam.taxID,Text
+SportsTeam.telephone,Text
+SportsTeam.unnamedSourcesPolicy,"['CreativeWork', 'URL']"
+SportsTeam.vatID,Text
+SportsTeam.additionalType,URL
+SportsTeam.alternateName,Text
+SportsTeam.description,Text
+SportsTeam.disambiguatingDescription,Text
+SportsTeam.identifier,"['PropertyValue', 'Text', 'URL']"
+SportsTeam.image,"['ImageObject', 'URL']"
+SportsTeam.mainEntityOfPage,"['CreativeWork', 'URL']"
+SportsTeam.name,Text
+SportsTeam.potentialAction,Action
+SportsTeam.sameAs,URL
+SportsTeam.subjectOf,"['CreativeWork', 'Event']"
+SportsTeam.url,URL

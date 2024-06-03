@@ -1,0 +1,18 @@
+property,expected_types
+ProgramMembership.hostingOrganization,Organization
+ProgramMembership.member,"['Organization', 'Person']"
+ProgramMembership.membershipNumber,Text
+ProgramMembership.membershipPointsEarned,"['Number', 'QuantitativeValue']"
+ProgramMembership.programName,Text
+ProgramMembership.additionalType,URL
+ProgramMembership.alternateName,Text
+ProgramMembership.description,Text
+ProgramMembership.disambiguatingDescription,Text
+ProgramMembership.identifier,"['PropertyValue', 'Text', 'URL']"
+ProgramMembership.image,"['ImageObject', 'URL']"
+ProgramMembership.mainEntityOfPage,"['CreativeWork', 'URL']"
+ProgramMembership.name,Text
+ProgramMembership.potentialAction,Action
+ProgramMembership.sameAs,URL
+ProgramMembership.subjectOf,"['CreativeWork', 'Event']"
+ProgramMembership.url,URL

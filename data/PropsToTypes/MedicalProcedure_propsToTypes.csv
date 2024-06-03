@@ -1,0 +1,27 @@
+property,expected_types
+MedicalProcedure.bodyLocation,Text
+MedicalProcedure.followup,Text
+MedicalProcedure.howPerformed,Text
+MedicalProcedure.preparation,"['MedicalEntity', 'Text']"
+MedicalProcedure.procedureType,MedicalProcedureType
+MedicalProcedure.status,"['EventStatusType', 'MedicalStudyStatus', 'Text']"
+MedicalProcedure.code,MedicalCode
+MedicalProcedure.funding,Grant
+MedicalProcedure.guideline,MedicalGuideline
+MedicalProcedure.legalStatus,"['DrugLegalStatus', 'MedicalEnumeration', 'Text']"
+MedicalProcedure.medicineSystem,MedicineSystem
+MedicalProcedure.recognizingAuthority,Organization
+MedicalProcedure.relevantSpecialty,MedicalSpecialty
+MedicalProcedure.study,MedicalStudy
+MedicalProcedure.additionalType,URL
+MedicalProcedure.alternateName,Text
+MedicalProcedure.description,Text
+MedicalProcedure.disambiguatingDescription,Text
+MedicalProcedure.identifier,"['PropertyValue', 'Text', 'URL']"
+MedicalProcedure.image,"['ImageObject', 'URL']"
+MedicalProcedure.mainEntityOfPage,"['CreativeWork', 'URL']"
+MedicalProcedure.name,Text
+MedicalProcedure.potentialAction,Action
+MedicalProcedure.sameAs,URL
+MedicalProcedure.subjectOf,"['CreativeWork', 'Event']"
+MedicalProcedure.url,URL

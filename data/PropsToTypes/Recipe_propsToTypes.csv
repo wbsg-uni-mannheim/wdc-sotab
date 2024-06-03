@@ -1,0 +1,136 @@
+property,expected_types
+Recipe.cookTime,Duration
+Recipe.cookingMethod,Text
+Recipe.nutrition,NutritionInformation
+Recipe.recipeCategory,Text
+Recipe.recipeCuisine,Text
+Recipe.recipeIngredient,Text
+Recipe.recipeInstructions,"['CreativeWork', 'ItemList', 'Text']"
+Recipe.recipeYield,"['QuantitativeValue', 'Text']"
+Recipe.suitableForDiet,RestrictedDiet
+Recipe.estimatedCost,"['MonetaryAmount', 'Text']"
+Recipe.performTime,Duration
+Recipe.prepTime,Duration
+Recipe.step,"['CreativeWork', 'HowToSection', 'HowToStep', 'Text']"
+Recipe.supply,"['HowToSupply', 'Text']"
+Recipe.tool,"['HowToTool', 'Text']"
+Recipe.totalTime,Duration
+Recipe.yield,"['QuantitativeValue', 'Text']"
+Recipe.about,Thing
+Recipe.abstract,Text
+Recipe.accessMode,Text
+Recipe.accessModeSufficient,ItemList
+Recipe.accessibilityAPI,Text
+Recipe.accessibilityControl,Text
+Recipe.accessibilityFeature,Text
+Recipe.accessibilityHazard,Text
+Recipe.accessibilitySummary,Text
+Recipe.accountablePerson,Person
+Recipe.acquireLicensePage,"['CreativeWork', 'URL']"
+Recipe.aggregateRating,AggregateRating
+Recipe.alternativeHeadline,Text
+Recipe.archivedAt,"['URL', 'WebPage']"
+Recipe.assesses,"['DefinedTerm', 'Text']"
+Recipe.associatedMedia,MediaObject
+Recipe.audience,Audience
+Recipe.audio,"['AudioObject', 'Clip', 'MusicRecording']"
+Recipe.author,"['Organization', 'Person']"
+Recipe.award,Text
+Recipe.character,Person
+Recipe.citation,"['CreativeWork', 'Text']"
+Recipe.comment,Comment
+Recipe.commentCount,Integer
+Recipe.conditionsOfAccess,Text
+Recipe.contentLocation,Place
+Recipe.contentRating,"['Rating', 'Text']"
+Recipe.contentReferenceTime,DateTime
+Recipe.contributor,"['Organization', 'Person']"
+Recipe.copyrightHolder,"['Organization', 'Person']"
+Recipe.copyrightNotice,Text
+Recipe.copyrightYear,Number
+Recipe.correction,"['CorrectionComment', 'Text', 'URL']"
+Recipe.countryOfOrigin,Country
+Recipe.creativeWorkStatus,"['DefinedTerm', 'Text']"
+Recipe.creator,"['Organization', 'Person']"
+Recipe.creditText,Text
+Recipe.dateCreated,"['Date', 'DateTime']"
+Recipe.dateModified,"['Date', 'DateTime']"
+Recipe.datePublished,"['Date', 'DateTime']"
+Recipe.discussionUrl,URL
+Recipe.editEIDR,"['Text', 'URL']"
+Recipe.editor,Person
+Recipe.educationalAlignment,AlignmentObject
+Recipe.educationalLevel,"['DefinedTerm', 'Text', 'URL']"
+Recipe.educationalUse,"['DefinedTerm', 'Text']"
+Recipe.encoding,MediaObject
+Recipe.encodingFormat,"['Text', 'URL']"
+Recipe.exampleOfWork,CreativeWork
+Recipe.expires,Date
+Recipe.funder,"['Organization', 'Person']"
+Recipe.genre,"['Text', 'URL']"
+Recipe.hasPart,CreativeWork
+Recipe.headline,Text
+Recipe.inLanguage,"['Language', 'Text']"
+Recipe.interactionStatistic,InteractionCounter
+Recipe.interactivityType,Text
+Recipe.interpretedAsClaim,Claim
+Recipe.isAccessibleForFree,Boolean
+Recipe.isBasedOn,"['CreativeWork', 'Product', 'URL']"
+Recipe.isFamilyFriendly,Boolean
+Recipe.isPartOf,"['CreativeWork', 'URL']"
+Recipe.keywords,"['DefinedTerm', 'Text', 'URL']"
+Recipe.learningResourceType,"['DefinedTerm', 'Text']"
+Recipe.license,"['CreativeWork', 'URL']"
+Recipe.locationCreated,Place
+Recipe.mainEntity,Thing
+Recipe.maintainer,"['Organization', 'Person']"
+Recipe.material,"['Product', 'Text', 'URL']"
+Recipe.materialExtent,"['QuantitativeValue', 'Text']"
+Recipe.mentions,Thing
+Recipe.offers,"['Demand', 'Offer']"
+Recipe.pattern,"['DefinedTerm', 'Text']"
+Recipe.position,"['Integer', 'Text']"
+Recipe.producer,"['Organization', 'Person']"
+Recipe.provider,"['Organization', 'Person']"
+Recipe.publication,PublicationEvent
+Recipe.publisher,"['Organization', 'Person']"
+Recipe.publisherImprint,Organization
+Recipe.publishingPrinciples,"['CreativeWork', 'URL']"
+Recipe.recordedAt,Event
+Recipe.releasedEvent,PublicationEvent
+Recipe.review,Review
+Recipe.schemaVersion,"['Text', 'URL']"
+Recipe.sdDatePublished,Date
+Recipe.sdLicense,"['CreativeWork', 'URL']"
+Recipe.sdPublisher,"['Organization', 'Person']"
+Recipe.size,"['DefinedTerm', 'QuantitativeValue', 'SizeSpecification', 'Text']"
+Recipe.sourceOrganization,Organization
+Recipe.spatial,Place
+Recipe.spatialCoverage,Place
+Recipe.sponsor,"['Organization', 'Person']"
+Recipe.teaches,"['DefinedTerm', 'Text']"
+Recipe.temporal,"['DateTime', 'Text']"
+Recipe.temporalCoverage,"['DateTime', 'Text', 'URL']"
+Recipe.text,Text
+Recipe.thumbnailUrl,URL
+Recipe.timeRequired,Duration
+Recipe.translationOfWork,CreativeWork
+Recipe.translator,"['Organization', 'Person']"
+Recipe.typicalAgeRange,Text
+Recipe.usageInfo,"['CreativeWork', 'URL']"
+Recipe.version,"['Number', 'Text']"
+Recipe.video,"['Clip', 'VideoObject']"
+Recipe.workExample,CreativeWork
+Recipe.workTranslation,CreativeWork
+Recipe.additionalType,URL
+Recipe.alternateName,Text
+Recipe.description,Text
+Recipe.disambiguatingDescription,Text
+Recipe.identifier,"['PropertyValue', 'Text', 'URL']"
+Recipe.image,"['ImageObject', 'URL']"
+Recipe.mainEntityOfPage,"['CreativeWork', 'URL']"
+Recipe.name,Text
+Recipe.potentialAction,Action
+Recipe.sameAs,URL
+Recipe.subjectOf,"['CreativeWork', 'Event']"
+Recipe.url,URL

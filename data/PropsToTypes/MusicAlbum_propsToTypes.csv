@@ -1,0 +1,125 @@
+property,expected_types
+MusicAlbum.albumProductionType,MusicAlbumProductionType
+MusicAlbum.albumRelease,MusicRelease
+MusicAlbum.albumReleaseType,MusicAlbumReleaseType
+MusicAlbum.byArtist,"['MusicGroup', 'Person']"
+MusicAlbum.numTracks,Integer
+MusicAlbum.track,"['ItemList', 'MusicRecording']"
+MusicAlbum.about,Thing
+MusicAlbum.abstract,Text
+MusicAlbum.accessMode,Text
+MusicAlbum.accessModeSufficient,ItemList
+MusicAlbum.accessibilityAPI,Text
+MusicAlbum.accessibilityControl,Text
+MusicAlbum.accessibilityFeature,Text
+MusicAlbum.accessibilityHazard,Text
+MusicAlbum.accessibilitySummary,Text
+MusicAlbum.accountablePerson,Person
+MusicAlbum.acquireLicensePage,"['CreativeWork', 'URL']"
+MusicAlbum.aggregateRating,AggregateRating
+MusicAlbum.alternativeHeadline,Text
+MusicAlbum.archivedAt,"['URL', 'WebPage']"
+MusicAlbum.assesses,"['DefinedTerm', 'Text']"
+MusicAlbum.associatedMedia,MediaObject
+MusicAlbum.audience,Audience
+MusicAlbum.audio,"['AudioObject', 'Clip', 'MusicRecording']"
+MusicAlbum.author,"['Organization', 'Person']"
+MusicAlbum.award,Text
+MusicAlbum.character,Person
+MusicAlbum.citation,"['CreativeWork', 'Text']"
+MusicAlbum.comment,Comment
+MusicAlbum.commentCount,Integer
+MusicAlbum.conditionsOfAccess,Text
+MusicAlbum.contentLocation,Place
+MusicAlbum.contentRating,"['Rating', 'Text']"
+MusicAlbum.contentReferenceTime,DateTime
+MusicAlbum.contributor,"['Organization', 'Person']"
+MusicAlbum.copyrightHolder,"['Organization', 'Person']"
+MusicAlbum.copyrightNotice,Text
+MusicAlbum.copyrightYear,Number
+MusicAlbum.correction,"['CorrectionComment', 'Text', 'URL']"
+MusicAlbum.countryOfOrigin,Country
+MusicAlbum.creativeWorkStatus,"['DefinedTerm', 'Text']"
+MusicAlbum.creator,"['Organization', 'Person']"
+MusicAlbum.creditText,Text
+MusicAlbum.dateCreated,"['Date', 'DateTime']"
+MusicAlbum.dateModified,"['Date', 'DateTime']"
+MusicAlbum.datePublished,"['Date', 'DateTime']"
+MusicAlbum.discussionUrl,URL
+MusicAlbum.editEIDR,"['Text', 'URL']"
+MusicAlbum.editor,Person
+MusicAlbum.educationalAlignment,AlignmentObject
+MusicAlbum.educationalLevel,"['DefinedTerm', 'Text', 'URL']"
+MusicAlbum.educationalUse,"['DefinedTerm', 'Text']"
+MusicAlbum.encoding,MediaObject
+MusicAlbum.encodingFormat,"['Text', 'URL']"
+MusicAlbum.exampleOfWork,CreativeWork
+MusicAlbum.expires,Date
+MusicAlbum.funder,"['Organization', 'Person']"
+MusicAlbum.genre,"['Text', 'URL']"
+MusicAlbum.hasPart,CreativeWork
+MusicAlbum.headline,Text
+MusicAlbum.inLanguage,"['Language', 'Text']"
+MusicAlbum.interactionStatistic,InteractionCounter
+MusicAlbum.interactivityType,Text
+MusicAlbum.interpretedAsClaim,Claim
+MusicAlbum.isAccessibleForFree,Boolean
+MusicAlbum.isBasedOn,"['CreativeWork', 'Product', 'URL']"
+MusicAlbum.isFamilyFriendly,Boolean
+MusicAlbum.isPartOf,"['CreativeWork', 'URL']"
+MusicAlbum.keywords,"['DefinedTerm', 'Text', 'URL']"
+MusicAlbum.learningResourceType,"['DefinedTerm', 'Text']"
+MusicAlbum.license,"['CreativeWork', 'URL']"
+MusicAlbum.locationCreated,Place
+MusicAlbum.mainEntity,Thing
+MusicAlbum.maintainer,"['Organization', 'Person']"
+MusicAlbum.material,"['Product', 'Text', 'URL']"
+MusicAlbum.materialExtent,"['QuantitativeValue', 'Text']"
+MusicAlbum.mentions,Thing
+MusicAlbum.offers,"['Demand', 'Offer']"
+MusicAlbum.pattern,"['DefinedTerm', 'Text']"
+MusicAlbum.position,"['Integer', 'Text']"
+MusicAlbum.producer,"['Organization', 'Person']"
+MusicAlbum.provider,"['Organization', 'Person']"
+MusicAlbum.publication,PublicationEvent
+MusicAlbum.publisher,"['Organization', 'Person']"
+MusicAlbum.publisherImprint,Organization
+MusicAlbum.publishingPrinciples,"['CreativeWork', 'URL']"
+MusicAlbum.recordedAt,Event
+MusicAlbum.releasedEvent,PublicationEvent
+MusicAlbum.review,Review
+MusicAlbum.schemaVersion,"['Text', 'URL']"
+MusicAlbum.sdDatePublished,Date
+MusicAlbum.sdLicense,"['CreativeWork', 'URL']"
+MusicAlbum.sdPublisher,"['Organization', 'Person']"
+MusicAlbum.size,"['DefinedTerm', 'QuantitativeValue', 'SizeSpecification', 'Text']"
+MusicAlbum.sourceOrganization,Organization
+MusicAlbum.spatial,Place
+MusicAlbum.spatialCoverage,Place
+MusicAlbum.sponsor,"['Organization', 'Person']"
+MusicAlbum.teaches,"['DefinedTerm', 'Text']"
+MusicAlbum.temporal,"['DateTime', 'Text']"
+MusicAlbum.temporalCoverage,"['DateTime', 'Text', 'URL']"
+MusicAlbum.text,Text
+MusicAlbum.thumbnailUrl,URL
+MusicAlbum.timeRequired,Duration
+MusicAlbum.translationOfWork,CreativeWork
+MusicAlbum.translator,"['Organization', 'Person']"
+MusicAlbum.typicalAgeRange,Text
+MusicAlbum.usageInfo,"['CreativeWork', 'URL']"
+MusicAlbum.version,"['Number', 'Text']"
+MusicAlbum.video,"['Clip', 'VideoObject']"
+MusicAlbum.workExample,CreativeWork
+MusicAlbum.workTranslation,CreativeWork
+MusicAlbum.additionalType,URL
+MusicAlbum.alternateName,Text
+MusicAlbum.description,Text
+MusicAlbum.disambiguatingDescription,Text
+MusicAlbum.identifier,"['PropertyValue', 'Text', 'URL']"
+MusicAlbum.image,"['ImageObject', 'URL']"
+MusicAlbum.mainEntityOfPage,"['CreativeWork', 'URL']"
+MusicAlbum.name,Text
+MusicAlbum.potentialAction,Action
+MusicAlbum.sameAs,URL
+MusicAlbum.subjectOf,"['CreativeWork', 'Event']"
+MusicAlbum.url,URL

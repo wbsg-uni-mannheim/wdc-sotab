@@ -1,0 +1,122 @@
+property,expected_types
+Menu.hasMenuItem,MenuItem
+Menu.hasMenuSection,MenuSection
+Menu.about,Thing
+Menu.abstract,Text
+Menu.accessMode,Text
+Menu.accessModeSufficient,ItemList
+Menu.accessibilityAPI,Text
+Menu.accessibilityControl,Text
+Menu.accessibilityFeature,Text
+Menu.accessibilityHazard,Text
+Menu.accessibilitySummary,Text
+Menu.accountablePerson,Person
+Menu.acquireLicensePage,"['CreativeWork', 'URL']"
+Menu.aggregateRating,AggregateRating
+Menu.alternativeHeadline,Text
+Menu.archivedAt,"['URL', 'WebPage']"
+Menu.assesses,"['DefinedTerm', 'Text']"
+Menu.associatedMedia,MediaObject
+Menu.audience,Audience
+Menu.audio,"['AudioObject', 'Clip', 'MusicRecording']"
+Menu.author,"['Organization', 'Person']"
+Menu.award,Text
+Menu.character,Person
+Menu.citation,"['CreativeWork', 'Text']"
+Menu.comment,Comment
+Menu.commentCount,Integer
+Menu.conditionsOfAccess,Text
+Menu.contentLocation,Place
+Menu.contentRating,"['Rating', 'Text']"
+Menu.contentReferenceTime,DateTime
+Menu.contributor,"['Organization', 'Person']"
+Menu.copyrightHolder,"['Organization', 'Person']"
+Menu.copyrightNotice,Text
+Menu.copyrightYear,Number
+Menu.correction,"['CorrectionComment', 'Text', 'URL']"
+Menu.countryOfOrigin,Country
+Menu.creativeWorkStatus,"['DefinedTerm', 'Text']"
+Menu.creator,"['Organization', 'Person']"
+Menu.creditText,Text
+Menu.dateCreated,"['Date', 'DateTime']"
+Menu.dateModified,"['Date', 'DateTime']"
+Menu.datePublished,"['Date', 'DateTime']"
+Menu.discussionUrl,URL
+Menu.editEIDR,"['Text', 'URL']"
+Menu.editor,Person
+Menu.educationalAlignment,AlignmentObject
+Menu.educationalLevel,"['DefinedTerm', 'Text', 'URL']"
+Menu.educationalUse,"['DefinedTerm', 'Text']"
+Menu.encoding,MediaObject
+Menu.encodingFormat,"['Text', 'URL']"
+Menu.exampleOfWork,CreativeWork
+Menu.expires,Date
+Menu.funder,"['Organization', 'Person']"
+Menu.funding,Grant
+Menu.genre,"['Text', 'URL']"
+Menu.hasPart,CreativeWork
+Menu.headline,Text
+Menu.inLanguage,"['Language', 'Text']"
+Menu.interactionStatistic,InteractionCounter
+Menu.interactivityType,Text
+Menu.interpretedAsClaim,Claim
+Menu.isAccessibleForFree,Boolean
+Menu.isBasedOn,"['CreativeWork', 'Product', 'URL']"
+Menu.isFamilyFriendly,Boolean
+Menu.isPartOf,"['CreativeWork', 'URL']"
+Menu.keywords,"['DefinedTerm', 'Text', 'URL']"
+Menu.learningResourceType,"['DefinedTerm', 'Text']"
+Menu.license,"['CreativeWork', 'URL']"
+Menu.locationCreated,Place
+Menu.mainEntity,Thing
+Menu.maintainer,"['Organization', 'Person']"
+Menu.material,"['Product', 'Text', 'URL']"
+Menu.materialExtent,"['QuantitativeValue', 'Text']"
+Menu.mentions,Thing
+Menu.offers,"['Demand', 'Offer']"
+Menu.pattern,"['DefinedTerm', 'Text']"
+Menu.position,"['Integer', 'Text']"
+Menu.producer,"['Organization', 'Person']"
+Menu.provider,"['Organization', 'Person']"
+Menu.publication,PublicationEvent
+Menu.publisher,"['Organization', 'Person']"
+Menu.publisherImprint,Organization
+Menu.publishingPrinciples,"['CreativeWork', 'URL']"
+Menu.recordedAt,Event
+Menu.releasedEvent,PublicationEvent
+Menu.review,Review
+Menu.schemaVersion,"['Text', 'URL']"
+Menu.sdDatePublished,Date
+Menu.sdLicense,"['CreativeWork', 'URL']"
+Menu.sdPublisher,"['Organization', 'Person']"
+Menu.size,"['DefinedTerm', 'QuantitativeValue', 'SizeSpecification', 'Text']"
+Menu.sourceOrganization,Organization
+Menu.spatial,Place
+Menu.spatialCoverage,Place
+Menu.sponsor,"['Organization', 'Person']"
+Menu.teaches,"['DefinedTerm', 'Text']"
+Menu.temporal,"['DateTime', 'Text']"
+Menu.temporalCoverage,"['DateTime', 'Text', 'URL']"
+Menu.text,Text
+Menu.thumbnailUrl,URL
+Menu.timeRequired,Duration
+Menu.translationOfWork,CreativeWork
+Menu.translator,"['Organization', 'Person']"
+Menu.typicalAgeRange,Text
+Menu.usageInfo,"['CreativeWork', 'URL']"
+Menu.version,"['Number', 'Text']"
+Menu.video,"['Clip', 'VideoObject']"
+Menu.workExample,CreativeWork
+Menu.workTranslation,CreativeWork
+Menu.additionalType,URL
+Menu.alternateName,Text
+Menu.description,Text
+Menu.disambiguatingDescription,Text
+Menu.identifier,"['PropertyValue', 'Text', 'URL']"
+Menu.image,"['ImageObject', 'URL']"
+Menu.mainEntityOfPage,"['CreativeWork', 'URL']"
+Menu.name,Text
+Menu.potentialAction,Action
+Menu.sameAs,URL
+Menu.subjectOf,"['CreativeWork', 'Event']"
+Menu.url,URL

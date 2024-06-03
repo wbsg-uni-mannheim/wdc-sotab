@@ -1,0 +1,143 @@
+property,expected_types
+AudioObject.caption,"['MediaObject', 'Text']"
+AudioObject.embeddedTextCaption,Text
+AudioObject.transcript,Text
+AudioObject.associatedArticle,NewsArticle
+AudioObject.bitrate,Text
+AudioObject.contentSize,Text
+AudioObject.contentUrl,URL
+AudioObject.duration,Duration
+AudioObject.embedUrl,URL
+AudioObject.encodesCreativeWork,CreativeWork
+AudioObject.encodingFormat,"['Text', 'URL']"
+AudioObject.endTime,"['DateTime', 'Time']"
+AudioObject.height,"['Distance', 'QuantitativeValue']"
+AudioObject.ineligibleRegion,"['GeoShape', 'Place', 'Text']"
+AudioObject.interpretedAsClaim,Claim
+AudioObject.playerType,Text
+AudioObject.productionCompany,Organization
+AudioObject.regionsAllowed,Place
+AudioObject.requiresSubscription,"['Boolean', 'MediaSubscription']"
+AudioObject.sha256,Text
+AudioObject.startTime,"['DateTime', 'Time']"
+AudioObject.uploadDate,Date
+AudioObject.width,"['Distance', 'QuantitativeValue']"
+AudioObject.about,Thing
+AudioObject.abstract,Text
+AudioObject.accessMode,Text
+AudioObject.accessModeSufficient,ItemList
+AudioObject.accessibilityAPI,Text
+AudioObject.accessibilityControl,Text
+AudioObject.accessibilityFeature,Text
+AudioObject.accessibilityHazard,Text
+AudioObject.accessibilitySummary,Text
+AudioObject.accountablePerson,Person
+AudioObject.acquireLicensePage,"['CreativeWork', 'URL']"
+AudioObject.aggregateRating,AggregateRating
+AudioObject.alternativeHeadline,Text
+AudioObject.archivedAt,"['URL', 'WebPage']"
+AudioObject.assesses,"['DefinedTerm', 'Text']"
+AudioObject.associatedMedia,MediaObject
+AudioObject.audience,Audience
+AudioObject.audio,"['AudioObject', 'Clip', 'MusicRecording']"
+AudioObject.author,"['Organization', 'Person']"
+AudioObject.award,Text
+AudioObject.character,Person
+AudioObject.citation,"['CreativeWork', 'Text']"
+AudioObject.comment,Comment
+AudioObject.commentCount,Integer
+AudioObject.conditionsOfAccess,Text
+AudioObject.contentLocation,Place
+AudioObject.contentRating,"['Rating', 'Text']"
+AudioObject.contentReferenceTime,DateTime
+AudioObject.contributor,"['Organization', 'Person']"
+AudioObject.copyrightHolder,"['Organization', 'Person']"
+AudioObject.copyrightNotice,Text
+AudioObject.copyrightYear,Number
+AudioObject.correction,"['CorrectionComment', 'Text', 'URL']"
+AudioObject.countryOfOrigin,Country
+AudioObject.creativeWorkStatus,"['DefinedTerm', 'Text']"
+AudioObject.creator,"['Organization', 'Person']"
+AudioObject.creditText,Text
+AudioObject.dateCreated,"['Date', 'DateTime']"
+AudioObject.dateModified,"['Date', 'DateTime']"
+AudioObject.datePublished,"['Date', 'DateTime']"
+AudioObject.discussionUrl,URL
+AudioObject.editEIDR,"['Text', 'URL']"
+AudioObject.editor,Person
+AudioObject.educationalAlignment,AlignmentObject
+AudioObject.educationalLevel,"['DefinedTerm', 'Text', 'URL']"
+AudioObject.educationalUse,"['DefinedTerm', 'Text']"
+AudioObject.encoding,MediaObject
+AudioObject.encodingFormat,"['Text', 'URL']"
+AudioObject.exampleOfWork,CreativeWork
+AudioObject.expires,Date
+AudioObject.funder,"['Organization', 'Person']"
+AudioObject.funding,Grant
+AudioObject.genre,"['Text', 'URL']"
+AudioObject.hasPart,CreativeWork
+AudioObject.headline,Text
+AudioObject.inLanguage,"['Language', 'Text']"
+AudioObject.interactionStatistic,InteractionCounter
+AudioObject.interactivityType,Text
+AudioObject.interpretedAsClaim,Claim
+AudioObject.isAccessibleForFree,Boolean
+AudioObject.isBasedOn,"['CreativeWork', 'Product', 'URL']"
+AudioObject.isFamilyFriendly,Boolean
+AudioObject.isPartOf,"['CreativeWork', 'URL']"
+AudioObject.keywords,"['DefinedTerm', 'Text', 'URL']"
+AudioObject.learningResourceType,"['DefinedTerm', 'Text']"
+AudioObject.license,"['CreativeWork', 'URL']"
+AudioObject.locationCreated,Place
+AudioObject.mainEntity,Thing
+AudioObject.maintainer,"['Organization', 'Person']"
+AudioObject.material,"['Product', 'Text', 'URL']"
+AudioObject.materialExtent,"['QuantitativeValue', 'Text']"
+AudioObject.mentions,Thing
+AudioObject.offers,"['Demand', 'Offer']"
+AudioObject.pattern,"['DefinedTerm', 'Text']"
+AudioObject.position,"['Integer', 'Text']"
+AudioObject.producer,"['Organization', 'Person']"
+AudioObject.provider,"['Organization', 'Person']"
+AudioObject.publication,PublicationEvent
+AudioObject.publisher,"['Organization', 'Person']"
+AudioObject.publisherImprint,Organization
+AudioObject.publishingPrinciples,"['CreativeWork', 'URL']"
+AudioObject.recordedAt,Event
+AudioObject.releasedEvent,PublicationEvent
+AudioObject.review,Review
+AudioObject.schemaVersion,"['Text', 'URL']"
+AudioObject.sdDatePublished,Date
+AudioObject.sdLicense,"['CreativeWork', 'URL']"
+AudioObject.sdPublisher,"['Organization', 'Person']"
+AudioObject.size,"['DefinedTerm', 'QuantitativeValue', 'SizeSpecification', 'Text']"
+AudioObject.sourceOrganization,Organization
+AudioObject.spatial,Place
+AudioObject.spatialCoverage,Place
+AudioObject.sponsor,"['Organization', 'Person']"
+AudioObject.teaches,"['DefinedTerm', 'Text']"
+AudioObject.temporal,"['DateTime', 'Text']"
+AudioObject.temporalCoverage,"['DateTime', 'Text', 'URL']"
+AudioObject.text,Text
+AudioObject.thumbnailUrl,URL
+AudioObject.timeRequired,Duration
+AudioObject.translationOfWork,CreativeWork
+AudioObject.translator,"['Organization', 'Person']"
+AudioObject.typicalAgeRange,Text
+AudioObject.usageInfo,"['CreativeWork', 'URL']"
+AudioObject.version,"['Number', 'Text']"
+AudioObject.video,"['Clip', 'VideoObject']"
+AudioObject.workExample,CreativeWork
+AudioObject.workTranslation,CreativeWork
+AudioObject.additionalType,URL
+AudioObject.alternateName,Text
+AudioObject.description,Text
+AudioObject.disambiguatingDescription,Text
+AudioObject.identifier,"['PropertyValue', 'Text', 'URL']"
+AudioObject.image,"['ImageObject', 'URL']"
+AudioObject.mainEntityOfPage,"['CreativeWork', 'URL']"
+AudioObject.name,Text
+AudioObject.potentialAction,Action
+AudioObject.sameAs,URL
+AudioObject.subjectOf,"['CreativeWork', 'Event']"
+AudioObject.url,URL

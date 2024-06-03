@@ -1,0 +1,65 @@
+property,expected_types
+ProductGroup.hasVariant,Product
+ProductGroup.productGroupID,Text
+ProductGroup.variesBy,"['DefinedTerm', 'Text']"
+ProductGroup.additionalProperty,PropertyValue
+ProductGroup.aggregateRating,AggregateRating
+ProductGroup.audience,Audience
+ProductGroup.award,Text
+ProductGroup.brand,"['Brand', 'Organization']"
+ProductGroup.category,"['CategoryCode', 'PhysicalActivityCategory', 'Text', 'Thing', 'URL']"
+ProductGroup.color,Text
+ProductGroup.countryOfAssembly,Text
+ProductGroup.countryOfLastProcessing,Text
+ProductGroup.countryOfOrigin,Country
+ProductGroup.depth,"['Distance', 'QuantitativeValue']"
+ProductGroup.funding,Grant
+ProductGroup.gtin,Text
+ProductGroup.gtin12,Text
+ProductGroup.gtin13,Text
+ProductGroup.gtin14,Text
+ProductGroup.gtin8,Text
+ProductGroup.hasAdultConsideration,AdultOrientedEnumeration
+ProductGroup.hasEnergyConsumptionDetails,EnergyConsumptionDetails
+ProductGroup.hasMeasurement,QuantitativeValue
+ProductGroup.hasMerchantReturnPolicy,MerchantReturnPolicy
+ProductGroup.height,"['Distance', 'QuantitativeValue']"
+ProductGroup.inProductGroupWithID,Text
+ProductGroup.isAccessoryOrSparePartFor,Product
+ProductGroup.isConsumableFor,Product
+ProductGroup.isFamilyFriendly,Boolean
+ProductGroup.isRelatedTo,"['Product', 'Service']"
+ProductGroup.isSimilarTo,"['Product', 'Service']"
+ProductGroup.isVariantOf,"['ProductGroup', 'ProductModel']"
+ProductGroup.itemCondition,OfferItemCondition
+ProductGroup.keywords,"['DefinedTerm', 'Text', 'URL']"
+ProductGroup.logo,"['ImageObject', 'URL']"
+ProductGroup.manufacturer,Organization
+ProductGroup.material,"['Product', 'Text', 'URL']"
+ProductGroup.model,"['ProductModel', 'Text']"
+ProductGroup.mpn,Text
+ProductGroup.nsn,Text
+ProductGroup.offers,"['Demand', 'Offer']"
+ProductGroup.pattern,"['DefinedTerm', 'Text']"
+ProductGroup.productID,Text
+ProductGroup.productionDate,Date
+ProductGroup.purchaseDate,Date
+ProductGroup.releaseDate,Date
+ProductGroup.review,Review
+ProductGroup.size,"['DefinedTerm', 'QuantitativeValue', 'SizeSpecification', 'Text']"
+ProductGroup.sku,Text
+ProductGroup.slogan,Text
+ProductGroup.weight,QuantitativeValue
+ProductGroup.width,"['Distance', 'QuantitativeValue']"
+ProductGroup.additionalType,URL
+ProductGroup.alternateName,Text
+ProductGroup.description,Text
+ProductGroup.disambiguatingDescription,Text
+ProductGroup.identifier,"['PropertyValue', 'Text', 'URL']"
+ProductGroup.image,"['ImageObject', 'URL']"
+ProductGroup.mainEntityOfPage,"['CreativeWork', 'URL']"
+ProductGroup.name,Text
+ProductGroup.potentialAction,Action
+ProductGroup.sameAs,URL
+ProductGroup.subjectOf,"['CreativeWork', 'Event']"
+ProductGroup.url,URL

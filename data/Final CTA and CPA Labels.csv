@@ -1,0 +1,673 @@
+class,column_name,CPA label,CTA label,table_number,fallback_CTA_label
+Product,name,NONE,Product/name,810710,
+Product,offers,offers,Offer,782333,
+Product,offers:pricecurrency,priceCurrency,currency,763066,
+Product,offers:price,price,price,716385,
+Product,offers:availability,availability,ItemAvailability,432124,
+Product,offers:pricevaliduntil,priceValidUntil,Date,170373,
+Product,offers:itemcondition,itemCondition,OfferItemCondition,89272,
+Product,offers:description,description,Text,41858,
+Product,offers:sku,sku,IdentifierAT,39248,
+Product,offers:category,category,category,8042,
+Product,offers:mpn,mpn,IdentifierAT,3719,
+Product,offers:validfrom,validFrom,"Date, DateTime",2042,DateTime
+Product,offers:inventorylevel,inventoryLevel,QuantitativeValue,1979,
+Product,offers:serialnumber,serialNumber,IdentifierAT,1611,
+Product,offers:gtin,gtin,IdentifierAT,1421,
+Product,offers:availabledeliverymethod,availableDeliveryMethod,DeliveryMethod,1283,
+Product,offers:gtin13,gtin13,IdentifierAT,894,
+Product,offers:warranty,warranty,WarrantyPromise,756,
+Product,offers:acceptedpaymentmethod,acceptedPaymentmethod,"LoanOrCredit, PaymentMethod",463,paymentAccepted
+Product,offers:validthrough,validThrough,"Date, DateTime",217,DateTime
+Product,offers:availabilitystarts,availabilityStarts,"Date, DateTime, Time",188,DateTime
+Product,offers:deliveryleadtime,deliveryLeadTime,QuantitativeValue,150,
+Product,offers:gtin14,gtin14,IdentifierAT,144,
+Product,offers:eligiblequantity,eligibleQuantity,QuantitativeValue,134,
+Product,offers:eligibleregion,eligibleRegion,"GeoShape, Place",134,Place
+Product,offers:pricespecification,priceSpecification,PriceSpecification,108,
+Product,offers:identifier,identifier,IdentifierAT,104,
+Product,offers:availabilityends,availabilityEnds,"Date, DateTime, Time",79,DateTime
+Product,offers:gtin8,gtin8,IdentifierAT,56,
+Product,description,description,Text,"654,381",
+Product,sku,sku,IdentifierAT,"387,608",
+Product,url,url,URL,"326,694",
+Product,brand,brand,Brand,"305,990",
+Product,brand:name,brand,Brand,"191,087",
+Product,image,image,URL,"305,990",
+Product,aggregaterating,aggregateRating,AggregateRating,"72,193",
+Product,aggregaterating:ratingvalue,ratingValue,"Number, Text","70,477",Number
+Product,aggregaterating:reviewcount,reviewCount,Integer,"55,640",
+Product,aggregaterating:bestrating,bestRating,"Number, Text","25,440",Number
+Product,aggregaterating:ratingcount,ratingCount,Integer,"19,119",
+Product,aggregaterating:worstrating,worstRating,"Number, Text","18,765",Number
+Product,aggregaterating:itemreviewed,itemReviewed,Thing,"2,614",
+Product,productid,productID,IdentifierAT,"47,565",
+Product,mpn,mpn,IdentifierAT,"47,379",
+Product,category,category,category,"45,840",
+Product,category:name,category,category,252,
+Product,review,review,Review,"26,477",
+Product,review:reviewbody,review,Review,"15,432",
+Product,review:description,review,Review,"7,162",
+Product,manufacturer,manufacturer,Organization,"21,083",
+Product,manufacturer:name,manufacturer,Organization,"9,624",
+Product,model,model,ProductModel,"19,611",
+Product,model:name,model,ProductModel,"1,446",
+Product,itemcondition,itemCondition,OfferItemCondition,"18,139",
+Product,gtin13,gtin13,IdentifierAT,"17,382",
+Product,weight,weight,weight,"14,405",
+Product,weight:value,weight,weight,"6,970",
+Product,weight:unitcode,unitCode,unitCode,"2,616",
+Product,weight:unittext,unitText,unitText,"1,633",
+Product,releasedate,releaseDate,Date,"11,389",
+Product,color,color,Text,"7,169",
+Product,identifier,identifier,IdentifierAT,"4,579",
+Product,identifier:value,identifier,IdentifierAT,213,
+Product,width,width,Distance,"4,134",
+Product,width:value,width,Distance,"2,140",
+Product,width:unitcode,unitCode,unitCode,"1,290",
+Product,width:unittext,unitText,unitText,341,
+Product,height,height,Distance,"3,988",
+Product,height:value,height,Distance,"2,081",
+Product,height:unitcode,unitCode,unitCode,"1,266",
+Product,height:unittext,unitText,unitText,336,
+Product,depth,depth,Distance,"3,773",
+Product,depth:value,depth,Distance,"2,038",
+Product,depth:unitcode,unitCode,unitCode,"1,257",
+Product,depth:unittext,unitText,unitText,325,
+Product,gtin12,gtin12,IdentifierAT,"3,571",
+Product,gtin8,gtin8,IdentifierAT,"2,902",
+Product,logo,logo,URL,"2,630",
+Product,gtin,gtin,IdentifierAT,"2,237",
+Product,gtin14,gtin14,IdentifierAT,"1,327",
+Product,disambiguatingdescription,disambiguatingDescription,Text,682,
+Product,material,material,"Product, URL",502,Product
+Product,audience,audience,audience,377,
+Product,audience:audiencetype,audienceType,audience,158,
+Product,productiondate,productionDate,"Date, DateTime",234,DateTime
+Product,award,award,Text,88,
+Product,size,size,QuantitativeValue,72,
+Event,startdate,startDate,"Date, DateTime",50139,DateTime
+Event,name,NONE,Event/name,49516,
+Event,enddate,endDate,"Date, DateTime",42647,DateTime
+Event,location,location,Place,40164,
+Event,location:name,location,Place,38944,
+Event,location:address,address,PostalAddress,5659,
+Event,location:telephone,telephone,telephone,4873,
+Event,location:addresslocality,addressLocality,addressLocality,106,
+Event,location:streetaddress,streetAddress,streetAddress,98,
+Event,location:hasmap,hasMap,"Map, URL",69,
+Event,location:addressregion,addressRegion,addressRegion,68,
+Event,description,description,Text,37634,
+Event,performer,performer,"Organization, Person",24059,Organization
+Event,performer:name,performer,"Organization, Person",1914,Organization
+Event,organizer,organizer,"Organization, Person",14432,Organization
+Event,organizer:name,organizer,"Organization, Person",13008,Organization
+Event,organizer:email,email,email,5331,
+Event,organizer:telephone,telephone,telephone,5188,
+Event,offers,offers,Offer,13007,
+Event,offers:pricecurrency,priceCurrency,currency,10059,
+Event,offers:price,price,price,9910,
+Event,offers:availability,availability,ItemAvailability,8457,
+Event,offers:validfrom,validFrom,"Date, DateTime",8404,DateTime
+Event,offers:category,category,category,6129,
+Event,offers:validthrough,validThrough,"Date, DateTime",1421,DateTime
+Event,eventstatus,eventStatus,EventStatusType,8730,
+Event,eventattendancemode,eventAttendanceMode,EventAttendanceModeEnumeration,5201,
+Event,url,url,URL,4455,
+Event,image,image,URL,4190,
+Event,duration,duration,Duration,1563,
+Event,about,about,Thing,1230,
+Event,typicalagerange,typicalAgeRange,typicalAgeRange,291,
+Event,doortime,doorTime,"DateTime, Time",290,
+Event,aggregaterating,aggregateRating,AggregateRating,228,
+Event,aggregaterating:ratingvalue,ratingValue,"Number, Text",225,Number
+Event,aggregaterating:reviewcount,reviewCount,Integer,204,
+Event,inlanguage,inLanguage,Language,206,
+Event,identifier,identifier,IdentifierAT,156,
+Event,isaccessibleforfree,isAccessibleForFree,Boolean,133,
+Event,maximumattendeecapacity,maximumAttendeeCapacity,Integer,69,
+Event,remainingattendeecapacity,remainingAttendeeCapacity,Integer,66,
+Event,funder,funder,"Organization, Person",55,Organization
+Event,funder:name,funder,"Organization, Person",51,Organization
+Recipe,name,NONE,Recipe/name,14094,
+Recipe,recipeinstructions,recipeInstructions,"CreativeWork, ItemList",12505,CreativeWork
+Recipe,recipeinstructions:text,recipeInstructions,"CreativeWork, ItemList",5082,CreativeWork
+Recipe,author,author,"Organization, Person",11039,Person
+Recipe,author:name,author,"Organization, Person",7894,Person
+Recipe,recipeyield,recipeYield,QuantitativeValue,10570,
+Recipe,description,description,Text,10171,
+Recipe,recipeingredient,recipeIngredient,Text,10039,
+Recipe,preptime,prepTime,Duration,9592,
+Recipe,datepublished,datePublished,"Date, DateTime",9414,DateTime
+Recipe,cooktime,cookTime,Duration,9242,
+Recipe,totaltime,totalTime,Duration,8751,
+Recipe,recipecategory,recipeCategory,Text,7790,
+Recipe,recipecuisine,recipeCuisine,Text,5506,
+Recipe,aggregaterating,aggregateRating,AggregateRating,5438,
+Recipe,aggregaterating:ratingvalue,ratingValue,"Number, Text",5322,Number
+Recipe,aggregaterating:ratingcount,ratingCount,Integer,2790,
+Recipe,aggregaterating:reviewcount,reviewCount,Integer,2492,
+Recipe,aggregaterating:bestrating,bestRating,"Number, Text",1020,Number
+Recipe,aggregaterating:worstrating,worstRating,"Number, Text",449,Number
+Recipe,keywords,keywords,"Text, URL",5116,Text
+Recipe,nutrition,nutrition,NutritionInformation,4509,
+Recipe,nutrition:calories,calories,Energy,4122,
+Recipe,nutrition:servingsize,servingSize,Text,2999,
+Recipe,nutrition:fatcontent,fatContent,Mass,2954,
+Recipe,nutrition:carbohydratecontent,carboHydrateContent,Mass,2746,
+Recipe,nutrition:proteincontent,proteinContent,Mass,2724,
+Recipe,nutrition:sodiumcontent,sodiumContent,Mass,2358,
+Recipe,nutrition:sugarcontent,sugarContent,Mass,2255,
+Recipe,nutrition:saturatedfatcontent,saturatedFatContent,Mass,2065,
+Recipe,nutrition:fibercontent,fiberContent,Mass,1961,
+Recipe,nutrition:cholesterolcontent,cholesterolContent,Mass,1507,
+Recipe,nutrition:transfatcontent,transFatContent,Mass,683,
+Recipe,nutrition:unsaturatedfatcontent,unsaturatedFatContent,Mass,554,
+Recipe,ispartof,isPartOf,"CreativeWork, URL",3719,CreativeWork
+Recipe,image,image,URL,1159,
+Recipe,url,url,URL,1039,
+Recipe,performtime,performTime,Time,855,
+Recipe,video,video,VideoObject,792,
+Recipe,suitablefordiet,suitableForDiet,RestrictedDiet,432,
+Recipe,cookingmethod,cookingMethod,Text,421,
+Recipe,review,review,Review,407,
+Recipe,review:reviewbody,review,Review,355,
+Recipe,datemodified,dateModified,"Date, DateTime",371,DateTime
+Recipe,publisher,publisher,Organization,273,
+Recipe,publisher:name,publisher,Organization,255,
+Recipe,headline,headline,Text,194,
+Recipe,copyrightholder,copyrightHolder,"Organization, Person",171,Organization
+Recipe,interactionstatistic,interactionStatistic,InteractionCounter,168,
+Recipe,interactionstatistic:interactiontype,interactionType,Action,165,
+Recipe,interactionstatistic:userinteractioncount,userInteractionCount,Integer,165,
+Recipe,datecreated,dateCreated,"Date, DateTime",101,DateTime
+Recipe,inlanguage,inLanguage,Language,80,
+Person,name,NONE,Person/name,34718,
+Person,image,image,URL,21027,
+Person,description,description,Text,17527,
+Person,telephone,telephone,telephone,8429,
+Person,email,email,email,8034,
+Person,jobtitle,jobTitle,Text,4852,
+Person,givenname,givenName,Text,2785,
+Person,familyname,familyName,Text,2726,
+Person,birthdate,birthDate,Date,2657,
+Person,url,url,URL,1860,
+Person,address,address,PostalAddress,1535,
+Person,address:addresslocality,addressLocality,addressLocality,1040,
+Person,address:streetaddress,streetAddress,streetAddress,722,
+Person,address:postalcode,postalCode,postalCode,649,
+Person,address:addressregion,addressRegion,addressRegion,551,
+Person,address:addresscountry,addressCountry,Country,368,
+Person,address:telephone,telephone,telephone,348,
+Person,address:faxnumber,faxNumber,faxNumber,55,
+Person,address:email,email,email,51,
+Person,deathdate,deathDate,Date,1505,
+Person,gender,gender,GenderType,1437,
+Person,additionalname,additionalName,Text,1334,
+Person,worksfor,worksFor,Organization,1317,
+Person,worksfor:name,worksFor,Organization,1057,
+Person,affiliation,affiliation,Organization,1092,
+Person,affiliation:name,affiliation,Organization,338,
+Person,height,height,Distance,947,
+Person,height:value,height,Distance,96,
+Person,height:unitcode,unitCode,unitCode,50,
+Person,nationality,nationality,Country,942,
+Person,homelocation,homeLocation,Place,852,
+Person,homelocation:name,homeLocation,Place,120,
+Person,weight,weight,weight,808,
+Person,weight:value,weight,weight,92,
+Person,sameas,sameAs,URL,724,
+Person,knowslanguage,knowsLanguage,Language,582,
+Person,makesoffer,makesOffer,Offer,560,
+Person,faxnumber,faxNumber,faxNumber,518,
+Person,contactpoint,contactPoint,ContactPoint,453,
+Person,contactpoint:contacttype,contactType,Text,424,
+Person,contactpoint:email,email,email,79,
+Person,contactpoint:telephone,telephone,telephone,60,
+Person,memberof,memberOf,"Organization, ProgramMembership",404,Organization
+Person,memberof:name,memberOf,"Organization, ProgramMembership",224,Organization
+Person,worklocation,workLocation,Place,331,
+Person,worklocation:name,workLocation,Place,84,
+Person,birthplace,birthPlace,Place,317,
+Person,alumniof,alumniOf,"EducationalOrganization, Organization",163,EducationalOrganization
+Person,alumniof:name,alumniOf,"EducationalOrganization, Organization",109,EducationalOrganization
+Person,alternatename,alternateName,Text,162,
+Person,honorificsuffix,honorificSuffix,Text,154,
+Person,honorificprefix,honorificPrefix,Text,123,
+Person,disambiguatingdescription,disambiguatingDescription,Text,96,
+Person,brand,brand,Brand,84,
+Person,deathplace,deathPlace,Place,73,
+Person,award,award,Text,71,
+Person,identifier,identifier,IdentifierAT,54,
+LocalBusiness,name,NONE,LocalBusiness/name,22589,
+LocalBusiness,address,address,PostalAddress,20889,
+LocalBusiness,address:addresslocality,addressLocality,addressLocality,16522,
+LocalBusiness,address:streetaddress,streetAddress,streetAddress,16432,
+LocalBusiness,address:postalcode,postalCode,postalCode,14332,
+LocalBusiness,address:addressregion,addressRegion,addressRegion,12821,
+LocalBusiness,address:addresscountry,addressCountry,Country,8282,
+LocalBusiness,address:telephone,telephone,telephone,1554,
+LocalBusiness,telephone,telephone,telephone,16711,
+LocalBusiness,description,description,Text,10763,
+LocalBusiness,geo,geo,"GeoCoordinates, GeoShape",6673,geo
+LocalBusiness,geo:latitude,latitude,CoordinateAT,6647,
+LocalBusiness,geo:longitude,longitude,CoordinateAT,6638,
+LocalBusiness,pricerange,priceRange,priceRange,6391,
+LocalBusiness,url,url,URL,5136,
+LocalBusiness,image,image,URL,4825,
+LocalBusiness,aggregaterating,aggregateRating,AggregateRating,4625,
+LocalBusiness,aggregaterating:ratingvalue,ratingValue,"Number, Text",4289,Number
+LocalBusiness,aggregaterating:reviewcount,reviewCount,Integer,2799,
+LocalBusiness,aggregaterating:bestrating,bestRating,"Number, Text",2552,Number
+LocalBusiness,aggregaterating:worstrating,worstRating,"Number, Text",1899,Number
+LocalBusiness,aggregaterating:ratingcount,ratingCount,Integer,1772,
+LocalBusiness,email,email,email,4175,
+LocalBusiness,openinghours,openingHours,openingHours,2521,
+LocalBusiness,faxnumber,faxNumber,faxNumber,1911,
+LocalBusiness,openinghoursspecification,openingHoursSpecification,OpeningHoursSpecification,1717,
+LocalBusiness,openinghoursspecification:opens,opens,Time,1543,
+LocalBusiness,openinghoursspecification:closes,closes,Time,1523,
+LocalBusiness,openinghoursspecification:dayofweek,dayOfWeek,DayOfWeek,1420,
+LocalBusiness,review,review,Review,1274,
+LocalBusiness,review:reviewbody,review,Review,755,
+LocalBusiness,review:description,review,Review,388,
+LocalBusiness,contactpoint,contactPoint,ContactPoint,1082,
+LocalBusiness,contactpoint:contacttype,contactType,Text,1051,
+LocalBusiness,contactpoint:telephone,telephone,telephone,834,
+LocalBusiness,contactpoint:email,email,email,308,
+LocalBusiness,logo,logo,URL,786,
+LocalBusiness,legalname,legalName,Text,686,
+LocalBusiness,founder,founder,Person,474,
+LocalBusiness,founder:name,founder,Person,453,
+LocalBusiness,photo,photo,Photograph,405,
+LocalBusiness,areaserved,areaServed,"AdministrativeArea, GeoShape, Place",404,Place
+LocalBusiness,areaserved:name,areaServed,"AdministrativeArea, GeoShape, Place",202,Place
+LocalBusiness,paymentaccepted,paymentAccepted,paymentAccepted,400,
+LocalBusiness,currenciesaccepted,currenciesAccepted,currency,226,
+LocalBusiness,brand,brand,Brand,225,
+LocalBusiness,brand:name,brand,Brand,82,
+LocalBusiness,hasmap,hasMap,"Map, URL",182,Map
+LocalBusiness,hasmap:name,hasMap,"Map, URL",53,Map
+LocalBusiness,employee,employee,Person,165,
+LocalBusiness,employee:name,employee,Person,51,
+LocalBusiness,makesoffer,makesOffer,Offer,165,
+LocalBusiness,vatid,vatId,IdentifierAT,147,
+LocalBusiness,parentorganization,parentOrganization,Organization,114,
+LocalBusiness,parentorganization:name,parentOrganization,Organization,93,
+LocalBusiness,foundingdate,foundingDate,Date,82,
+LocalBusiness,isicv4,isicV4,IdentifierAT,80,
+LocalBusiness,branchcode,branchCode,Text,62,
+JobPosting,title,title,Text,8682,
+JobPosting,dateposted,datePosted,"Date, DateTime",8614,DateTime
+JobPosting,description,description,Text,8509,
+JobPosting,hiringorganization,hiringOrganization,Organization,7948,
+JobPosting,hiringorganization:name,hiringOrganization,Organization,7023,
+JobPosting,employmenttype,employmentType,Text,6431,
+JobPosting,validthrough,validThrough,"Date, DateTime",5590,DateTime
+JobPosting,industry,industry,Text,3407,
+JobPosting,basesalary,baseSalary,MonetaryAmount,3352,
+JobPosting,basesalary:currency,currency,currency,3102,
+JobPosting,basesalary:value,baseSalary,MonetaryAmount,321,
+JobPosting,identifier,identifier,IdentifierAT,3293,
+JobPosting,identifier:value,identifier,IdentifierAT,2897,
+JobPosting,identifier:name,identifierNameAP,identifierNameAP,2328,
+JobPosting,joblocation,jobLocation,Place,1533,
+JobPosting,joblocation:address,address,PostalAddress,790,
+JobPosting,joblocation:name,jobLocation,Place,318,
+JobPosting,salarycurrency,salaryCurrency,currency,1069,
+JobPosting,occupationalcategory,occupationalCategory,CategoryCode,986,
+JobPosting,educationrequirements,educationRequirements,EducationalOccupationalCredential,922,
+JobPosting,responsibilities,responsibilties,Text,805,
+JobPosting,experiencerequirements,experienceRequiments,OccupationalExperienceRequirements,729,
+JobPosting,workhours,workHours,workHours,630,
+JobPosting,skills,skills,Text,615,
+JobPosting,qualifications,qualifications,EducationalOccupationalCredential,615,
+JobPosting,jobbenefits,jobBenefits,Text,471,
+JobPosting,image,image,URL,210,
+JobPosting,name,NONE,JobPosting/name,179,
+JobPosting,estimatedsalary,estimatedSalary,MonetaryAmount,154,
+JobPosting,estimatedsalary:currency,currency,currency,133,
+JobPosting,url,url,URL,147,
+JobPosting,joblocationtype,jobLocationType,Text,127,
+JobPosting,incentivecompensation,incentiveCompensation,Text,89,
+JobPosting,specialcommitments,specialCommitments,Text,89,
+CreativeWork,headline,headline,Text,65872,
+CreativeWork,text,text,Text,58800,
+CreativeWork,author,author,"Organization, Person",54963,Person
+CreativeWork,author:name,author,"Organization, Person",53703,Person
+CreativeWork,author:email,email,email,60,
+CreativeWork,author:telephone,telephone,telephone,57,
+CreativeWork,datepublished,datePublished,"Date, DateTime",53912,DateTime
+CreativeWork,datemodified,dateModified,"Date, DateTime",28245,DateTime
+CreativeWork,name,NONE,CreativeWork/name,8653,
+CreativeWork,publisher,publisher,Organization,7216,
+CreativeWork,publisher:name,publisher,Organization,7128,
+CreativeWork,image,image,URL,5708,
+CreativeWork,description,description,Text,3198,
+CreativeWork,interactionstatistic,interactionStatistic,InteractionCounter,2347,
+CreativeWork,interactionstatistic:interactiontype,interactionType,Action,2343,
+CreativeWork,interactionstatistic:userinteractioncount,userInteractionCount,Integer,2341,
+CreativeWork,datecreated,dateCreated,"Date, DateTime",1940,DateTime
+CreativeWork,url,url,URL,1361,
+CreativeWork,alternativeheadline,alternativeHeadline,Text,687,
+CreativeWork,keywords,keywords,"Text, URL",645,Text
+CreativeWork,aggregaterating,aggregateRating,AggregateRating,492,
+CreativeWork,aggregaterating:ratingvalue,ratingValue,"Number, Text",462,Number
+CreativeWork,aggregaterating:ratingcount,ratingCount,Integer,401,
+CreativeWork,aggregaterating:bestrating,bestRating,"Number, Text",294,Number
+CreativeWork,aggregaterating:worstrating,worstRating,"Number, Text",151,Number
+CreativeWork,aggregaterating:reviewcount,reviewCount,Integer,67,
+CreativeWork,creator,creator,"Organization, Person",304,Person
+CreativeWork,creator:name,creator,"Organization, Person",106,Person
+CreativeWork,inlanguage,inLanguage,Language,304,
+CreativeWork,video,video,VideoObject,289,
+CreativeWork,commentcount,commentCount,Integer,283,
+CreativeWork,genre,genre,"Text, URL",190,
+CreativeWork,version,version,"Number, Text",171,Number
+CreativeWork,about,about,Thing,157,
+CreativeWork,offers,offers,Offer,142,
+CreativeWork,offers:price,price,price,123,
+CreativeWork,offers:pricecurrency,priceCurrency,currency,104,
+CreativeWork,copyrightholder,copyrightHolder,"Organization, Person",131,Organization
+CreativeWork,copyrightholder:name,copyrightHolder,"Organization, Person",90,Organization
+CreativeWork,copyrightyear,copyrightYear,Number,127,
+CreativeWork,contentlocation,contentLocation,Place,100,
+CreativeWork,contentlocation:name,contentLocation,Place,71,
+CreativeWork,isfamilyfriendly,isFamilyFriendly,Boolean,96,
+CreativeWork,isaccessibleforfree,isAccessibleForFree,Boolean,94,
+CreativeWork,disambiguatingdescription,disambiguatingDescription,Text,80,
+CreativeWork,comment,comment,Text,71,
+CreativeWork,comment:text,comment,Text,55,
+CreativeWork,contributor,contributor,"Organization, Person",52,Person
+Restaurant,name,NONE,Restaurant/name,3035,
+Restaurant,address,address,PostalAddress,2825,
+Restaurant,address:streetaddress,streetAddress,streetAddress,2655,
+Restaurant,address:addresslocality,addressLocality,addressLocality,2587,
+Restaurant,address:postalcode,postalCode,postalCode,2351,
+Restaurant,address:addressregion,addressRegion,addressRegion,2179,
+Restaurant,address:addresscountry,addressCountry,Country,2015,
+Restaurant,address:telephone,telephone,telephone,55,
+Restaurant,telephone,telephone,telephone,2602,
+Restaurant,servescuisine,servesCuisine,Text,2124,
+Restaurant,geo,geo,"GeoCoordinates, GeoShape",2090,geo
+Restaurant,geo:latitude,latitude,CoordinateAT,2089,
+Restaurant,geo:longitude,longitude,CoordinateAT,2088,
+Restaurant,pricerange,priceRange,priceRange,1930,
+Restaurant,url,url,URL,1592,
+Restaurant,aggregaterating,aggregateRating,AggregateRating,1429,
+Restaurant,aggregaterating:ratingvalue,ratingValue,"Number, Text",1411,Number
+Restaurant,aggregaterating:bestrating,bestRating,"Number, Text",1160,Number
+Restaurant,aggregaterating:ratingcount,ratingCount,Integer,1124,
+Restaurant,aggregaterating:worstrating,worstRating,"Number, Text",1082,Number
+Restaurant,aggregaterating:reviewcount,reviewCount,Integer,262,
+Restaurant,acceptsreservations,acceptsReservations,"Boolean, URL",1330,Boolean
+Restaurant,hasmenu,hasMenu,"Menu, URL",1328,Menu
+Restaurant,openinghoursspecification,openingHoursSpecification,OpeningHoursSpecification,1127,
+Restaurant,openinghoursspecification:opens,opens,Time,1106,
+Restaurant,openinghoursspecification:closes,closes,Time,1103,
+Restaurant,openinghoursspecification:dayofweek,dayOfWeek,DayOfWeek,1103,
+Restaurant,description,description,Text,904,
+Restaurant,image,image,URL,446,
+Restaurant,openinghours,openingHours,openingHours,423,
+Restaurant,review,review,Review,215,
+Restaurant,review:reviewbody,review,Review,105,
+Restaurant,review:description,review,Review,84,
+Restaurant,photo,photo,Photograph,200,
+Restaurant,paymentaccepted,paymentAccepted,paymentAccepted,199,
+Restaurant,email,email,email,154,
+Restaurant,location,location,Place,124,
+Restaurant,location:name,location,Place,99,
+Place,address,address,PostalAddress,10888,
+Place,address:addresslocality,addressLocality,addressLocality,9038,
+Place,address:streetaddress,streetAddress,streetAddress,8160,
+Place,address:postalcode,postalCode,postalCode,6906,
+Place,address:addressregion,addressRegion,addressRegion,6261,
+Place,address:addresscountry,addressCountry,Country,5993,
+Place,address:name,address,PostalAddress,107,
+Place,name,NONE,Place/name,10406,
+Place,geo,geo,"GeoCoordinates, GeoShape",7243,geo
+Place,geo:latitude,latitude,CoordinateAT,7216,
+Place,geo:longitude,longitude,CoordinateAT,7214,
+Place,telephone,telephone,telephone,4310,
+Place,description,description,Text,2469,
+Place,url,url,URL,1789,
+Place,sameas,sameAs,URL,1468,
+Place,photo,photo,Photograph,649,
+Place,openinghoursspecification,openingHoursSpecification,OpeningHoursSpecification,309,
+Place,openinghoursspecification:opens,opens,Time,279,
+Place,openinghoursspecification:closes,closes,Time,278,
+Place,openinghoursspecification:dayofweek,dayOfWeek,DayOfWeek,269,
+Place,image,image,URL,249,
+Place,aggregaterating,aggregateRating,AggregateRating,197,
+Place,aggregaterating:ratingvalue,ratingValue,"Number, Text",194,Number
+Place,aggregaterating:bestrating,bestRating,"Number, Text",111,Number
+Place,aggregaterating:reviewcount,reviewCount,Integer,108,
+Place,aggregaterating:ratingcount,ratingCount,Integer,86,
+Place,aggregaterating:worstrating,worstRating,"Number, Text",77,Number
+Place,hasmap,hasMap,"Map, URL",190,
+Place,branchcode,branchCode,Text,128,
+Place,faxnumber,faxNumber,faxNumber,116,
+Place,logo,logo,URL,106,
+Place,longitude,longitude,CoordinateAT,64,
+Place,latitude,latitude,CoordinateAT,63,
+Place,amenityfeature,amenityFeature,LocationFeatureSpecification,61,
+Place,amenityfeature:name,amenityFeature,LocationFeatureSpecification,50,
+Movie,name,NONE,Movie/name,2848,
+Movie,description,description,Text,2073,
+Movie,director,director,Person,1737,
+Movie,director:name,director,Person,1351,
+Movie,aggregaterating,aggregateRating,AggregateRating,1434,
+Movie,aggregaterating:ratingvalue,ratingValue,"Number, Text",1341,Number
+Movie,aggregaterating:bestrating,bestRating,"Number, Text",1291,Number
+Movie,aggregaterating:ratingcount,ratingCount,Integer,1108,
+Movie,aggregaterating:worstrating,worstRating,"Number, Text",937,Number
+Movie,aggregaterating:reviewcount,reviewCount,Integer,261,
+Movie,datecreated,dateCreated,"Date, DateTime",1256,DateTime
+Movie,duration,duration,Duration,1126,
+Movie,genre,genre,"Text, URL",999,
+Movie,datepublished,datePublished,"Date, DateTime",927,DateTime
+Movie,actor,actor,Person,906,
+Movie,actor:name,actor,Person,795,
+Movie,headline,headline,Text,694,
+Movie,url,url,URL,623,
+Movie,image,image,URL,536,
+Movie,author,author,"Organization, Person",447,Person
+Movie,author:name,author,"Organization, Person",395,Person
+Movie,contentrating,contentRating,Rating,328,
+Movie,keywords,keywords,"Text, URL",285,Text
+Movie,datemodified,dateModified,"Date, DateTime",273,DateTime
+Movie,creator,creator,"Organization, Person",181,Person
+Movie,creator:name,creator,"Organization, Person",173,Person
+Movie,inlanguage,inLanguage,Language,156,
+Movie,productioncompany,productionCompany,Organization,154,
+Movie,productioncompany:name,productionCompany,Organization,93,
+Movie,countryoforigin,countryOfOrigin,Country,135,
+Movie,countryoforigin:name,countryOfOrigin,Country,71,
+Movie,review,review,Review,126,
+Movie,review:reviewbody,review,Review,85,
+Movie,trailer,trailer,VideoObject,119,
+Movie,alternativeheadline,alternativeHeadline,Text,86,
+Movie,releasedevent,releasedEvent,PublicationEvent,79,
+Movie,releasedevent:startdate,startDate,"Date, DateTime",76,DateTime
+Movie,musicby,musicBy,"MusicGroup, Person",77,MusicArtistAT
+Movie,musicby:name,musicBy,"MusicGroup, Person",63,MusicArtistAT
+Movie,copyrightyear,copyrightYear,Number,64,
+Movie,video,video,VideoObject,64,
+Movie,producer,producer,"Organization, Person",60,Person
+Movie,sameas,sameAs,URL,58,
+Movie,alternatename,alternateName,Text,53,
+Movie,publisher,publisher,Organization,51,
+Book,name,NONE,Book/name,3798,
+Book,author,author,"Organization, Person",2860,Person
+Book,author:name,author,"Organization, Person",1175,Person
+Book,isbn,isbn,IdentifierAT,2296,
+Book,description,description,Text,2012,
+Book,publisher,publisher,Organization,1997,
+Book,publisher:name,publisher,Organization,711,
+Book,datepublished,datePublished,"Date, DateTime",1755,DateTime
+Book,offers,offers,Offer,1641,
+Book,offers:price,price,price,1590,
+Book,offers:pricecurrency,priceCurrency,currency,1446,
+Book,offers:availability,availability,ItemAvailability,743,
+Book,offers:itemcondition,itemCondition,OfferItemCondition,124,
+Book,numberofpages,numberOfPages,Integer,1596,
+Book,bookformat,bookFormat,BookFormatType,1116,
+Book,inlanguage,inLanguage,Language,845,
+Book,aggregaterating,aggregateRating,AggregateRating,590,
+Book,aggregaterating:ratingvalue,ratingValue,"Number, Text",565,Number
+Book,aggregaterating:reviewcount,reviewCount,Integer,302,
+Book,aggregaterating:ratingcount,ratingCount,Integer,284,
+Book,aggregaterating:bestrating,bestRating,"Number, Text",254,Number
+Book,aggregaterating:worstrating,worstRating,"Number, Text",153,Number
+Book,genre,genre,"Text, URL",559,Text
+Book,image,image,URL,459,
+Book,url,url,URL,456,
+Book,bookedition,bookEdition,Text,412,
+Book,keywords,keywords,"Text, URL",246,Text
+Book,text,text,Text,227,
+Book,alternativeheadline,alternativeHeadline,Text,205,
+Book,copyrightyear,copyrightYear,Number,167,
+Book,review,review,Review,142,
+Book,review:reviewbody,review,Review,78,
+Book,about,about,Thing,136,
+Book,disambiguatingdescription,disambiguatingDescription,Text,100,
+Book,exampleofwork,exampleOfWork,CreativeWork,92,
+Book,headline,headline,Text,87,
+Book,publication,publication,PublicationEvent,87,
+Book,workexample,workExample,CreativeWork,59,
+Book,isaccessibleforfree,isAccessibleForFree,Boolean,51,
+Book,editor,editor,Person,51,
+MusicRecording,name,NONE,MusicRecording/name,7475,
+MusicRecording,duration,duration,Duration,7138,
+MusicRecording,byartist,byArtist,"MusicGroup, Person",6911,MusicArtistAT
+MusicRecording,byartist:name,byArtist,"MusicGroup, Person",6391,MusicArtistAT
+MusicRecording,inalbum,inAlbum,MusicAlbum,6216,
+MusicRecording,inalbum:name,inAlbum,MusicAlbum,4771,
+MusicRecording,inalbum:datepublished,datePublished,"Date, DateTime",3799,DateTime
+MusicRecording,url,url,URL,390,
+MusicRecording,genre,genre,"Text, URL",293,Text
+MusicRecording,datepublished,datePublished,"Date, DateTime",178,DateTime
+MusicRecording,description,description,Text,128,
+MusicRecording,datecreated,dateCreated,"Date, DateTime",102,DateTime
+MusicRecording,aggregaterating,aggregateRating,AggregateRating,68,
+MusicRecording,aggregaterating:ratingvalue,ratingValue,"Number, Text",63,Number
+MusicRecording,image,image,URL,57,
+Hotel,name,NONE,Hotel/name,3120,
+Hotel,address,address,PostalAddress,2906,
+Hotel,address:addresslocality,addressLocality,addressLocality,2135,
+Hotel,address:streetaddress,streetAddress,streetAddress,2007,
+Hotel,address:addresscountry,addressCountry,Country,1530,
+Hotel,address:postalcode,postalCode,postalCode,1421,
+Hotel,address:addressregion,addressRegion,addressRegion,1250,
+Hotel,address:telephone,telephone,telephone,86,
+Hotel,telephone,telephone,telephone,2129,
+Hotel,pricerange,priceRange,priceRange,1671,
+Hotel,description,description,Text,1635,
+Hotel,aggregaterating,aggregateRating,AggregateRating,1369,
+Hotel,aggregaterating:ratingvalue,ratingValue,"Number, Text",1308,Number
+Hotel,aggregaterating:bestrating,bestRating,"Number, Text",1106,Number
+Hotel,aggregaterating:reviewcount,reviewCount,Integer,950,
+Hotel,aggregaterating:worstrating,worstRating,"Number, Text",433,Number
+Hotel,aggregaterating:ratingcount,ratingCount,Integer,353,
+Hotel,geo,geo,"GeoCoordinates, GeoShape",1152,geo
+Hotel,geo:latitude,latitude,CoordinateAT,1130,
+Hotel,geo:longitude,longitude,CoordinateAT,1129,
+Hotel,starrating,starRating,Rating,771,
+Hotel,starrating:ratingvalue,ratingValue,"Number, Text",676,Number
+Hotel,starrating:bestrating,bestRating,"Number, Text",69,Number
+Hotel,starrating:worstrating,worstRating,"Number, Text",62,Number
+Hotel,image,image,URL,529,
+Hotel,email,email,email,426,
+Hotel,url,url,URL,393,
+Hotel,amenityfeature,amenityFeature,LocationFeatureSpecification,315,
+Hotel,amenityfeature:name,amenityFeature,LocationFeatureSpecification,241,
+Hotel,photo,photo,Photograph,265,
+Hotel,availablelanguage,availableLanguage,Language,236,
+Hotel,availablelanguage:name,availableLanguage,Language,225,
+Hotel,faxnumber,faxNumber,faxNumber,188,
+Hotel,checkintime,checkInTime,"DateTime, Time",187,
+Hotel,checkouttime,checkoutTime,"DateTime, Time",149,
+Hotel,review,review,Review,146,
+Hotel,review:reviewbody,review,Review,74,
+Hotel,paymentaccepted,paymentAccepted,paymentAccepted,138,
+Hotel,containsplace,containsPlace,Place,130,
+Hotel,containsplace:name,containsPlace,Place,121,
+Hotel,location,location,Place,85,
+Hotel,location:name,location,Place,61,
+Hotel,currenciesaccepted,currenciesAccepted,currency,83,
+Hotel,openinghours,openingHours,openingHours,60,
+Hotel,brand,brand,Brand,52,
+Hotel,makesoffer,makesOffer,Offer,51,
+Hotel,petsallowed,petsAllowed,"Boolean, Text",50,Boolean
+Hotel,contactpoint,contactPoint,ContactPoint,50,
+SportsEvent,name,NONE,SportsEvent/name,1399,
+SportsEvent,startdate,startDate,"Date, DateTime",1387,DateTime
+SportsEvent,location,location,Place,849,
+SportsEvent,location:name,location,Place,790,
+SportsEvent,competitor,competitor,SportsTeam,563,
+SportsEvent,competitor:name,competitor,SportsTeam,560,
+SportsEvent,enddate,endDate,"Date, DateTime",501,DateTime
+SportsEvent,description,description,Text,471,
+SportsEvent,awayteam,awayTeam,SportsTeam,299,
+SportsEvent,awayteam:name,awayTeam,SportsTeam,219,
+SportsEvent,hometeam,homeTeam,SportsTeam,299,
+SportsEvent,hometeam:name,homeTeam,SportsTeam,219,
+SportsEvent,offers,offers,Offer,249,
+SportsEvent,offers:pricecurrency,priceCurrency,currency,219,
+SportsEvent,offers:availability,availability,ItemAvailability,192,
+SportsEvent,offers:validfrom,validFrom,"Date, DateTime",163,DateTime
+SportsEvent,offers:price,price,price,133,
+SportsEvent,offers:category,category,category,56,
+SportsEvent,performer,performer,"Organization, Person",246,Organization
+SportsEvent,performer:name,performer,"Organization, Person",187,Organization
+SportsEvent,eventstatus,eventStatus,EventStatusType,178,
+SportsEvent,url,url,URL,148,
+SportsEvent,image,image,URL,97,
+SportsEvent,eventattendancemode,eventAttendanceMode,EventAttendanceModeEnumeration,74,
+SportsEvent,organizer,organizer,"Organization, Person",69,Organization
+SportsEvent,organizer:name,organizer,"Organization, Person",57,Organization
+MusicAlbum,name,NONE,MusicAlbum/name,929,
+MusicAlbum,track,track,"ItemList, MusicRecording",602,MusicRecording
+MusicAlbum,track:name,track,"ItemList, MusicRecording",553,MusicRecording
+MusicAlbum,track:duration,duration,Duration,456,
+MusicAlbum,track:inalbum,inAlbum,MusicAlbum,414,
+MusicAlbum,byartist,byArtist,"MusicGroup, Person",554,MusicArtistAT
+MusicAlbum,byartist:name,byArtist,"MusicGroup, Person",379,MusicArtistAT
+MusicAlbum,numtracks,numTracks,Integer,545,
+MusicAlbum,description,description,Text,194,
+MusicAlbum,url,url,URL,166,
+MusicAlbum,genre,genre,"Text, URL",136,Text
+MusicAlbum,datepublished,datePublished,"Date, DateTime",133,DateTime
+MusicAlbum,image,image,URL,96,
+MusicAlbum,datecreated,dateCreated,"Date, DateTime",85,DateTime
+MusicAlbum,offers,offers,Offer,84,
+MusicAlbum,offers:price,price,price,65,
+MusicAlbum,publisher,publisher,Organization,59,
+TVEpisode,name,NONE,TVEpisode/name,470,
+TVEpisode,description,description,Text,341,
+TVEpisode,partofseries,partOfSeries,CreativeWorkSeries,301,
+TVEpisode,partofseries:name,partOfSeries,CreativeWorkSeries,101,
+TVEpisode,url,url,URL,243,
+TVEpisode,episodenumber,episodeNumber,"Integer, Text",232,Integer
+TVEpisode,duration,duration,Duration,177,
+TVEpisode,datepublished,datePublished,"Date, DateTime",158,DateTime
+TVEpisode,director,director,Person,157,
+TVEpisode,director:name,director,Person,151,
+TVEpisode,partofseason,partOfSeason,CreativeWorkSeason,155,
+TVEpisode,partofseason:seasonnumber,seasonNumber,"Integer, Text",111,Integer
+TVEpisode,aggregaterating,aggregateRating,AggregateRating,60,
+TVEpisode,aggregaterating:ratingvalue,ratingValue,"Number, Text",56,Number
+TVEpisode,releasedevent,releasedEvent,PublicationEvent,55,
+TVEpisode,releasedevent:startdate,startDate,"Date, DateTime",54,DateTime
+Museum,name,NONE,Museum/name,181,
+Museum,address,address,PostalAddress,180,
+Museum,address:addresslocality,addressLocality,addressLocality,125,
+Museum,address:streetaddress,streetAddress,streetAddress,117,
+Museum,address:postalcode,postalCode,postalCode,115,
+Museum,address:addresscountry,addressCountry,Country,93,
+Museum,address:addressregion,addressRegion,addressRegion,61,
+Museum,telephone,telephone,telephone,160,
+Museum,geo,geo,"GeoCoordinates, GeoShape",158,geo
+Museum,geo:latitude,latitude,CoordinateAT,158,
+Museum,geo:longitude,longitude,CoordinateAT,158,
+Museum,description,description,Text,153,

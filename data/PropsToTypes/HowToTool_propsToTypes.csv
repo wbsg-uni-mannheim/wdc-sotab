@@ -1,0 +1,18 @@
+property,expected_types
+HowToTool.requiredQuantity,"['Number', 'QuantitativeValue', 'Text']"
+HowToTool.item,Thing
+HowToTool.nextItem,ListItem
+HowToTool.position,"['Integer', 'Text']"
+HowToTool.previousItem,ListItem
+HowToTool.additionalType,URL
+HowToTool.alternateName,Text
+HowToTool.description,Text
+HowToTool.disambiguatingDescription,Text
+HowToTool.identifier,"['PropertyValue', 'Text', 'URL']"
+HowToTool.image,"['ImageObject', 'URL']"
+HowToTool.mainEntityOfPage,"['CreativeWork', 'URL']"
+HowToTool.name,Text
+HowToTool.potentialAction,Action
+HowToTool.sameAs,URL
+HowToTool.subjectOf,"['CreativeWork', 'Event']"
+HowToTool.url,URL

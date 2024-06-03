@@ -1,0 +1,110 @@
+property,expected_types
+RadioStation.currenciesAccepted,Text
+RadioStation.openingHours,Text
+RadioStation.paymentAccepted,Text
+RadioStation.priceRange,Text
+RadioStation.actionableFeedbackPolicy,"['CreativeWork', 'URL']"
+RadioStation.address,"['PostalAddress', 'Text']"
+RadioStation.aggregateRating,AggregateRating
+RadioStation.alumni,Person
+RadioStation.areaServed,"['AdministrativeArea', 'GeoShape', 'Place', 'Text']"
+RadioStation.award,Text
+RadioStation.brand,"['Brand', 'Organization']"
+RadioStation.contactPoint,ContactPoint
+RadioStation.correctionsPolicy,"['CreativeWork', 'URL']"
+RadioStation.department,Organization
+RadioStation.dissolutionDate,Date
+RadioStation.diversityPolicy,"['CreativeWork', 'URL']"
+RadioStation.diversityStaffingReport,"['Article', 'URL']"
+RadioStation.duns,Text
+RadioStation.email,Text
+RadioStation.employee,Person
+RadioStation.ethicsPolicy,"['CreativeWork', 'URL']"
+RadioStation.event,Event
+RadioStation.faxNumber,Text
+RadioStation.founder,Person
+RadioStation.foundingDate,Date
+RadioStation.foundingLocation,Place
+RadioStation.funder,"['Organization', 'Person']"
+RadioStation.globalLocationNumber,Text
+RadioStation.hasCredential,EducationalOccupationalCredential
+RadioStation.hasMerchantReturnPolicy,MerchantReturnPolicy
+RadioStation.hasOfferCatalog,OfferCatalog
+RadioStation.hasPOS,Place
+RadioStation.interactionStatistic,InteractionCounter
+RadioStation.isicV4,Text
+RadioStation.knowsAbout,"['Text', 'Thing', 'URL']"
+RadioStation.knowsLanguage,"['Language', 'Text']"
+RadioStation.legalName,Text
+RadioStation.leiCode,Text
+RadioStation.location,"['Place', 'PostalAddress', 'Text', 'VirtualLocation']"
+RadioStation.logo,"['ImageObject', 'URL']"
+RadioStation.makesOffer,Offer
+RadioStation.member,"['Organization', 'Person']"
+RadioStation.memberOf,"['Organization', 'ProgramMembership']"
+RadioStation.naics,Text
+RadioStation.nonprofitStatus,NonprofitType
+RadioStation.numberOfEmployees,QuantitativeValue
+RadioStation.ownershipFundingInfo,"['AboutPage', 'CreativeWork', 'Text', 'URL']"
+RadioStation.owns,"['OwnershipInfo', 'Product']"
+RadioStation.parentOrganization,Organization
+RadioStation.publishingPrinciples,"['CreativeWork', 'URL']"
+RadioStation.review,Review
+RadioStation.seeks,Demand
+RadioStation.slogan,Text
+RadioStation.sponsor,"['Organization', 'Person']"
+RadioStation.subOrganization,Organization
+RadioStation.taxID,Text
+RadioStation.telephone,Text
+RadioStation.unnamedSourcesPolicy,"['CreativeWork', 'URL']"
+RadioStation.vatID,Text
+RadioStation.additionalProperty,PropertyValue
+RadioStation.address,"['PostalAddress', 'Text']"
+RadioStation.aggregateRating,AggregateRating
+RadioStation.amenityFeature,LocationFeatureSpecification
+RadioStation.branchCode,Text
+RadioStation.containedInPlace,Place
+RadioStation.containsPlace,Place
+RadioStation.event,Event
+RadioStation.faxNumber,Text
+RadioStation.geo,"['GeoCoordinates', 'GeoShape']"
+RadioStation.geoContains,"['GeospatialGeometry', 'Place']"
+RadioStation.geoCoveredBy,"['GeospatialGeometry', 'Place']"
+RadioStation.geoCovers,"['GeospatialGeometry', 'Place']"
+RadioStation.geoCrosses,"['GeospatialGeometry', 'Place']"
+RadioStation.geoDisjoint,"['GeospatialGeometry', 'Place']"
+RadioStation.geoEquals,"['GeospatialGeometry', 'Place']"
+RadioStation.geoIntersects,"['GeospatialGeometry', 'Place']"
+RadioStation.geoOverlaps,"['GeospatialGeometry', 'Place']"
+RadioStation.geoTouches,"['GeospatialGeometry', 'Place']"
+RadioStation.geoWithin,"['GeospatialGeometry', 'Place']"
+RadioStation.globalLocationNumber,Text
+RadioStation.hasDriveThroughService,Boolean
+RadioStation.hasMap,"['Map', 'URL']"
+RadioStation.isAccessibleForFree,Boolean
+RadioStation.isicV4,Text
+RadioStation.latitude,"['Number', 'Text']"
+RadioStation.logo,"['ImageObject', 'URL']"
+RadioStation.longitude,"['Number', 'Text']"
+RadioStation.maximumAttendeeCapacity,Integer
+RadioStation.openingHoursSpecification,OpeningHoursSpecification
+RadioStation.photo,"['ImageObject', 'Photograph']"
+RadioStation.publicAccess,Boolean
+RadioStation.review,Review
+RadioStation.slogan,Text
+RadioStation.smokingAllowed,Boolean
+RadioStation.specialOpeningHoursSpecification,OpeningHoursSpecification
+RadioStation.telephone,Text
+RadioStation.tourBookingPage,URL
+RadioStation.additionalType,URL
+RadioStation.alternateName,Text
+RadioStation.description,Text
+RadioStation.disambiguatingDescription,Text
+RadioStation.identifier,"['PropertyValue', 'Text', 'URL']"
+RadioStation.image,"['ImageObject', 'URL']"
+RadioStation.mainEntityOfPage,"['CreativeWork', 'URL']"
+RadioStation.name,Text
+RadioStation.potentialAction,Action
+RadioStation.sameAs,URL
+RadioStation.subjectOf,"['CreativeWork', 'Event']"
+RadioStation.url,URL

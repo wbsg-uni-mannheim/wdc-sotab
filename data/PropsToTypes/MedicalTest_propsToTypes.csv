@@ -1,0 +1,26 @@
+property,expected_types
+MedicalTest.affectedBy,Drug
+MedicalTest.normalRange,"['MedicalEnumeration', 'Text']"
+MedicalTest.signDetected,MedicalSign
+MedicalTest.usedToDiagnose,MedicalCondition
+MedicalTest.usesDevice,MedicalDevice
+MedicalTest.code,MedicalCode
+MedicalTest.funding,Grant
+MedicalTest.guideline,MedicalGuideline
+MedicalTest.legalStatus,"['DrugLegalStatus', 'MedicalEnumeration', 'Text']"
+MedicalTest.medicineSystem,MedicineSystem
+MedicalTest.recognizingAuthority,Organization
+MedicalTest.relevantSpecialty,MedicalSpecialty
+MedicalTest.study,MedicalStudy
+MedicalTest.additionalType,URL
+MedicalTest.alternateName,Text
+MedicalTest.description,Text
+MedicalTest.disambiguatingDescription,Text
+MedicalTest.identifier,"['PropertyValue', 'Text', 'URL']"
+MedicalTest.image,"['ImageObject', 'URL']"
+MedicalTest.mainEntityOfPage,"['CreativeWork', 'URL']"
+MedicalTest.name,Text
+MedicalTest.potentialAction,Action
+MedicalTest.sameAs,URL
+MedicalTest.subjectOf,"['CreativeWork', 'Event']"
+MedicalTest.url,URL

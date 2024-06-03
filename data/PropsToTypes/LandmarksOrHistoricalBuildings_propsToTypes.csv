@@ -1,0 +1,51 @@
+property,expected_types
+LandmarksOrHistoricalBuildings.additionalProperty,PropertyValue
+LandmarksOrHistoricalBuildings.address,"['PostalAddress', 'Text']"
+LandmarksOrHistoricalBuildings.aggregateRating,AggregateRating
+LandmarksOrHistoricalBuildings.amenityFeature,LocationFeatureSpecification
+LandmarksOrHistoricalBuildings.branchCode,Text
+LandmarksOrHistoricalBuildings.containedInPlace,Place
+LandmarksOrHistoricalBuildings.containsPlace,Place
+LandmarksOrHistoricalBuildings.event,Event
+LandmarksOrHistoricalBuildings.faxNumber,Text
+LandmarksOrHistoricalBuildings.geo,"['GeoCoordinates', 'GeoShape']"
+LandmarksOrHistoricalBuildings.geoContains,"['GeospatialGeometry', 'Place']"
+LandmarksOrHistoricalBuildings.geoCoveredBy,"['GeospatialGeometry', 'Place']"
+LandmarksOrHistoricalBuildings.geoCovers,"['GeospatialGeometry', 'Place']"
+LandmarksOrHistoricalBuildings.geoCrosses,"['GeospatialGeometry', 'Place']"
+LandmarksOrHistoricalBuildings.geoDisjoint,"['GeospatialGeometry', 'Place']"
+LandmarksOrHistoricalBuildings.geoEquals,"['GeospatialGeometry', 'Place']"
+LandmarksOrHistoricalBuildings.geoIntersects,"['GeospatialGeometry', 'Place']"
+LandmarksOrHistoricalBuildings.geoOverlaps,"['GeospatialGeometry', 'Place']"
+LandmarksOrHistoricalBuildings.geoTouches,"['GeospatialGeometry', 'Place']"
+LandmarksOrHistoricalBuildings.geoWithin,"['GeospatialGeometry', 'Place']"
+LandmarksOrHistoricalBuildings.globalLocationNumber,Text
+LandmarksOrHistoricalBuildings.hasDriveThroughService,Boolean
+LandmarksOrHistoricalBuildings.hasMap,"['Map', 'URL']"
+LandmarksOrHistoricalBuildings.isAccessibleForFree,Boolean
+LandmarksOrHistoricalBuildings.isicV4,Text
+LandmarksOrHistoricalBuildings.latitude,"['Number', 'Text']"
+LandmarksOrHistoricalBuildings.logo,"['ImageObject', 'URL']"
+LandmarksOrHistoricalBuildings.longitude,"['Number', 'Text']"
+LandmarksOrHistoricalBuildings.maximumAttendeeCapacity,Integer
+LandmarksOrHistoricalBuildings.openingHoursSpecification,OpeningHoursSpecification
+LandmarksOrHistoricalBuildings.photo,"['ImageObject', 'Photograph']"
+LandmarksOrHistoricalBuildings.publicAccess,Boolean
+LandmarksOrHistoricalBuildings.review,Review
+LandmarksOrHistoricalBuildings.slogan,Text
+LandmarksOrHistoricalBuildings.smokingAllowed,Boolean
+LandmarksOrHistoricalBuildings.specialOpeningHoursSpecification,OpeningHoursSpecification
+LandmarksOrHistoricalBuildings.telephone,Text
+LandmarksOrHistoricalBuildings.tourBookingPage,URL
+LandmarksOrHistoricalBuildings.additionalType,URL
+LandmarksOrHistoricalBuildings.alternateName,Text
+LandmarksOrHistoricalBuildings.description,Text
+LandmarksOrHistoricalBuildings.disambiguatingDescription,Text
+LandmarksOrHistoricalBuildings.identifier,"['PropertyValue', 'Text', 'URL']"
+LandmarksOrHistoricalBuildings.image,"['ImageObject', 'URL']"
+LandmarksOrHistoricalBuildings.mainEntityOfPage,"['CreativeWork', 'URL']"
+LandmarksOrHistoricalBuildings.name,Text
+LandmarksOrHistoricalBuildings.potentialAction,Action
+LandmarksOrHistoricalBuildings.sameAs,URL
+LandmarksOrHistoricalBuildings.subjectOf,"['CreativeWork', 'Event']"
+LandmarksOrHistoricalBuildings.url,URL

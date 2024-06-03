@@ -1,0 +1,123 @@
+property,expected_types
+CreativeWorkSeries.endDate,"['Date', 'DateTime']"
+CreativeWorkSeries.issn,Text
+CreativeWorkSeries.startDate,"['Date', 'DateTime']"
+CreativeWorkSeries.about,Thing
+CreativeWorkSeries.abstract,Text
+CreativeWorkSeries.accessMode,Text
+CreativeWorkSeries.accessModeSufficient,ItemList
+CreativeWorkSeries.accessibilityAPI,Text
+CreativeWorkSeries.accessibilityControl,Text
+CreativeWorkSeries.accessibilityFeature,Text
+CreativeWorkSeries.accessibilityHazard,Text
+CreativeWorkSeries.accessibilitySummary,Text
+CreativeWorkSeries.accountablePerson,Person
+CreativeWorkSeries.acquireLicensePage,"['CreativeWork', 'URL']"
+CreativeWorkSeries.aggregateRating,AggregateRating
+CreativeWorkSeries.alternativeHeadline,Text
+CreativeWorkSeries.archivedAt,"['URL', 'WebPage']"
+CreativeWorkSeries.assesses,"['DefinedTerm', 'Text']"
+CreativeWorkSeries.associatedMedia,MediaObject
+CreativeWorkSeries.audience,Audience
+CreativeWorkSeries.audio,"['AudioObject', 'Clip', 'MusicRecording']"
+CreativeWorkSeries.author,"['Organization', 'Person']"
+CreativeWorkSeries.award,Text
+CreativeWorkSeries.character,Person
+CreativeWorkSeries.citation,"['CreativeWork', 'Text']"
+CreativeWorkSeries.comment,Comment
+CreativeWorkSeries.commentCount,Integer
+CreativeWorkSeries.conditionsOfAccess,Text
+CreativeWorkSeries.contentLocation,Place
+CreativeWorkSeries.contentRating,"['Rating', 'Text']"
+CreativeWorkSeries.contentReferenceTime,DateTime
+CreativeWorkSeries.contributor,"['Organization', 'Person']"
+CreativeWorkSeries.copyrightHolder,"['Organization', 'Person']"
+CreativeWorkSeries.copyrightNotice,Text
+CreativeWorkSeries.copyrightYear,Number
+CreativeWorkSeries.correction,"['CorrectionComment', 'Text', 'URL']"
+CreativeWorkSeries.countryOfOrigin,Country
+CreativeWorkSeries.creativeWorkStatus,"['DefinedTerm', 'Text']"
+CreativeWorkSeries.creator,"['Organization', 'Person']"
+CreativeWorkSeries.creditText,Text
+CreativeWorkSeries.dateCreated,"['Date', 'DateTime']"
+CreativeWorkSeries.dateModified,"['Date', 'DateTime']"
+CreativeWorkSeries.datePublished,"['Date', 'DateTime']"
+CreativeWorkSeries.discussionUrl,URL
+CreativeWorkSeries.editEIDR,"['Text', 'URL']"
+CreativeWorkSeries.editor,Person
+CreativeWorkSeries.educationalAlignment,AlignmentObject
+CreativeWorkSeries.educationalLevel,"['DefinedTerm', 'Text', 'URL']"
+CreativeWorkSeries.educationalUse,"['DefinedTerm', 'Text']"
+CreativeWorkSeries.encoding,MediaObject
+CreativeWorkSeries.encodingFormat,"['Text', 'URL']"
+CreativeWorkSeries.exampleOfWork,CreativeWork
+CreativeWorkSeries.expires,Date
+CreativeWorkSeries.funder,"['Organization', 'Person']"
+CreativeWorkSeries.funding,Grant
+CreativeWorkSeries.genre,"['Text', 'URL']"
+CreativeWorkSeries.hasPart,CreativeWork
+CreativeWorkSeries.headline,Text
+CreativeWorkSeries.inLanguage,"['Language', 'Text']"
+CreativeWorkSeries.interactionStatistic,InteractionCounter
+CreativeWorkSeries.interactivityType,Text
+CreativeWorkSeries.interpretedAsClaim,Claim
+CreativeWorkSeries.isAccessibleForFree,Boolean
+CreativeWorkSeries.isBasedOn,"['CreativeWork', 'Product', 'URL']"
+CreativeWorkSeries.isFamilyFriendly,Boolean
+CreativeWorkSeries.isPartOf,"['CreativeWork', 'URL']"
+CreativeWorkSeries.keywords,"['DefinedTerm', 'Text', 'URL']"
+CreativeWorkSeries.learningResourceType,"['DefinedTerm', 'Text']"
+CreativeWorkSeries.license,"['CreativeWork', 'URL']"
+CreativeWorkSeries.locationCreated,Place
+CreativeWorkSeries.mainEntity,Thing
+CreativeWorkSeries.maintainer,"['Organization', 'Person']"
+CreativeWorkSeries.material,"['Product', 'Text', 'URL']"
+CreativeWorkSeries.materialExtent,"['QuantitativeValue', 'Text']"
+CreativeWorkSeries.mentions,Thing
+CreativeWorkSeries.offers,"['Demand', 'Offer']"
+CreativeWorkSeries.pattern,"['DefinedTerm', 'Text']"
+CreativeWorkSeries.position,"['Integer', 'Text']"
+CreativeWorkSeries.producer,"['Organization', 'Person']"
+CreativeWorkSeries.provider,"['Organization', 'Person']"
+CreativeWorkSeries.publication,PublicationEvent
+CreativeWorkSeries.publisher,"['Organization', 'Person']"
+CreativeWorkSeries.publisherImprint,Organization
+CreativeWorkSeries.publishingPrinciples,"['CreativeWork', 'URL']"
+CreativeWorkSeries.recordedAt,Event
+CreativeWorkSeries.releasedEvent,PublicationEvent
+CreativeWorkSeries.review,Review
+CreativeWorkSeries.schemaVersion,"['Text', 'URL']"
+CreativeWorkSeries.sdDatePublished,Date
+CreativeWorkSeries.sdLicense,"['CreativeWork', 'URL']"
+CreativeWorkSeries.sdPublisher,"['Organization', 'Person']"
+CreativeWorkSeries.size,"['DefinedTerm', 'QuantitativeValue', 'SizeSpecification', 'Text']"
+CreativeWorkSeries.sourceOrganization,Organization
+CreativeWorkSeries.spatial,Place
+CreativeWorkSeries.spatialCoverage,Place
+CreativeWorkSeries.sponsor,"['Organization', 'Person']"
+CreativeWorkSeries.teaches,"['DefinedTerm', 'Text']"
+CreativeWorkSeries.temporal,"['DateTime', 'Text']"
+CreativeWorkSeries.temporalCoverage,"['DateTime', 'Text', 'URL']"
+CreativeWorkSeries.text,Text
+CreativeWorkSeries.thumbnailUrl,URL
+CreativeWorkSeries.timeRequired,Duration
+CreativeWorkSeries.translationOfWork,CreativeWork
+CreativeWorkSeries.translator,"['Organization', 'Person']"
+CreativeWorkSeries.typicalAgeRange,Text
+CreativeWorkSeries.usageInfo,"['CreativeWork', 'URL']"
+CreativeWorkSeries.version,"['Number', 'Text']"
+CreativeWorkSeries.video,"['Clip', 'VideoObject']"
+CreativeWorkSeries.workExample,CreativeWork
+CreativeWorkSeries.workTranslation,CreativeWork
+CreativeWorkSeries.additionalType,URL
+CreativeWorkSeries.alternateName,Text
+CreativeWorkSeries.description,Text
+CreativeWorkSeries.disambiguatingDescription,Text
+CreativeWorkSeries.identifier,"['PropertyValue', 'Text', 'URL']"
+CreativeWorkSeries.image,"['ImageObject', 'URL']"
+CreativeWorkSeries.mainEntityOfPage,"['CreativeWork', 'URL']"
+CreativeWorkSeries.name,Text
+CreativeWorkSeries.potentialAction,Action
+CreativeWorkSeries.sameAs,URL
+CreativeWorkSeries.subjectOf,"['CreativeWork', 'Event']"
+CreativeWorkSeries.url,URL

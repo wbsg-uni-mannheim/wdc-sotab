@@ -1,0 +1,110 @@
+property,expected_types
+Library.currenciesAccepted,Text
+Library.openingHours,Text
+Library.paymentAccepted,Text
+Library.priceRange,Text
+Library.actionableFeedbackPolicy,"['CreativeWork', 'URL']"
+Library.address,"['PostalAddress', 'Text']"
+Library.aggregateRating,AggregateRating
+Library.alumni,Person
+Library.areaServed,"['AdministrativeArea', 'GeoShape', 'Place', 'Text']"
+Library.award,Text
+Library.brand,"['Brand', 'Organization']"
+Library.contactPoint,ContactPoint
+Library.correctionsPolicy,"['CreativeWork', 'URL']"
+Library.department,Organization
+Library.dissolutionDate,Date
+Library.diversityPolicy,"['CreativeWork', 'URL']"
+Library.diversityStaffingReport,"['Article', 'URL']"
+Library.duns,Text
+Library.email,Text
+Library.employee,Person
+Library.ethicsPolicy,"['CreativeWork', 'URL']"
+Library.event,Event
+Library.faxNumber,Text
+Library.founder,Person
+Library.foundingDate,Date
+Library.foundingLocation,Place
+Library.funder,"['Organization', 'Person']"
+Library.globalLocationNumber,Text
+Library.hasCredential,EducationalOccupationalCredential
+Library.hasMerchantReturnPolicy,MerchantReturnPolicy
+Library.hasOfferCatalog,OfferCatalog
+Library.hasPOS,Place
+Library.interactionStatistic,InteractionCounter
+Library.isicV4,Text
+Library.knowsAbout,"['Text', 'Thing', 'URL']"
+Library.knowsLanguage,"['Language', 'Text']"
+Library.legalName,Text
+Library.leiCode,Text
+Library.location,"['Place', 'PostalAddress', 'Text', 'VirtualLocation']"
+Library.logo,"['ImageObject', 'URL']"
+Library.makesOffer,Offer
+Library.member,"['Organization', 'Person']"
+Library.memberOf,"['Organization', 'ProgramMembership']"
+Library.naics,Text
+Library.nonprofitStatus,NonprofitType
+Library.numberOfEmployees,QuantitativeValue
+Library.ownershipFundingInfo,"['AboutPage', 'CreativeWork', 'Text', 'URL']"
+Library.owns,"['OwnershipInfo', 'Product']"
+Library.parentOrganization,Organization
+Library.publishingPrinciples,"['CreativeWork', 'URL']"
+Library.review,Review
+Library.seeks,Demand
+Library.slogan,Text
+Library.sponsor,"['Organization', 'Person']"
+Library.subOrganization,Organization
+Library.taxID,Text
+Library.telephone,Text
+Library.unnamedSourcesPolicy,"['CreativeWork', 'URL']"
+Library.vatID,Text
+Library.additionalProperty,PropertyValue
+Library.address,"['PostalAddress', 'Text']"
+Library.aggregateRating,AggregateRating
+Library.amenityFeature,LocationFeatureSpecification
+Library.branchCode,Text
+Library.containedInPlace,Place
+Library.containsPlace,Place
+Library.event,Event
+Library.faxNumber,Text
+Library.geo,"['GeoCoordinates', 'GeoShape']"
+Library.geoContains,"['GeospatialGeometry', 'Place']"
+Library.geoCoveredBy,"['GeospatialGeometry', 'Place']"
+Library.geoCovers,"['GeospatialGeometry', 'Place']"
+Library.geoCrosses,"['GeospatialGeometry', 'Place']"
+Library.geoDisjoint,"['GeospatialGeometry', 'Place']"
+Library.geoEquals,"['GeospatialGeometry', 'Place']"
+Library.geoIntersects,"['GeospatialGeometry', 'Place']"
+Library.geoOverlaps,"['GeospatialGeometry', 'Place']"
+Library.geoTouches,"['GeospatialGeometry', 'Place']"
+Library.geoWithin,"['GeospatialGeometry', 'Place']"
+Library.globalLocationNumber,Text
+Library.hasDriveThroughService,Boolean
+Library.hasMap,"['Map', 'URL']"
+Library.isAccessibleForFree,Boolean
+Library.isicV4,Text
+Library.latitude,"['Number', 'Text']"
+Library.logo,"['ImageObject', 'URL']"
+Library.longitude,"['Number', 'Text']"
+Library.maximumAttendeeCapacity,Integer
+Library.openingHoursSpecification,OpeningHoursSpecification
+Library.photo,"['ImageObject', 'Photograph']"
+Library.publicAccess,Boolean
+Library.review,Review
+Library.slogan,Text
+Library.smokingAllowed,Boolean
+Library.specialOpeningHoursSpecification,OpeningHoursSpecification
+Library.telephone,Text
+Library.tourBookingPage,URL
+Library.additionalType,URL
+Library.alternateName,Text
+Library.description,Text
+Library.disambiguatingDescription,Text
+Library.identifier,"['PropertyValue', 'Text', 'URL']"
+Library.image,"['ImageObject', 'URL']"
+Library.mainEntityOfPage,"['CreativeWork', 'URL']"
+Library.name,Text
+Library.potentialAction,Action
+Library.sameAs,URL
+Library.subjectOf,"['CreativeWork', 'Event']"
+Library.url,URL

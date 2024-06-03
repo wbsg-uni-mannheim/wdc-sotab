@@ -1,0 +1,53 @@
+property,expected_types
+SportsEvent.awayTeam,"['Person', 'SportsTeam']"
+SportsEvent.competitor,"['Person', 'SportsTeam']"
+SportsEvent.homeTeam,"['Person', 'SportsTeam']"
+SportsEvent.sport,"['Text', 'URL']"
+SportsEvent.about,Thing
+SportsEvent.actor,Person
+SportsEvent.aggregateRating,AggregateRating
+SportsEvent.attendee,"['Organization', 'Person']"
+SportsEvent.audience,Audience
+SportsEvent.composer,"['Organization', 'Person']"
+SportsEvent.contributor,"['Organization', 'Person']"
+SportsEvent.director,Person
+SportsEvent.doorTime,"['DateTime', 'Time']"
+SportsEvent.duration,Duration
+SportsEvent.endDate,"['Date', 'DateTime']"
+SportsEvent.eventAttendanceMode,EventAttendanceModeEnumeration
+SportsEvent.eventSchedule,Schedule
+SportsEvent.eventStatus,EventStatusType
+SportsEvent.funder,"['Organization', 'Person']"
+SportsEvent.inLanguage,"['Language', 'Text']"
+SportsEvent.isAccessibleForFree,Boolean
+SportsEvent.location,"['Place', 'PostalAddress', 'Text', 'VirtualLocation']"
+SportsEvent.maximumAttendeeCapacity,Integer
+SportsEvent.maximumPhysicalAttendeeCapacity,Integer
+SportsEvent.maximumVirtualAttendeeCapacity,Integer
+SportsEvent.offers,"['Demand', 'Offer']"
+SportsEvent.organizer,"['Organization', 'Person']"
+SportsEvent.performer,"['Organization', 'Person']"
+SportsEvent.previousStartDate,Date
+SportsEvent.recordedIn,CreativeWork
+SportsEvent.remainingAttendeeCapacity,Integer
+SportsEvent.review,Review
+SportsEvent.sponsor,"['Organization', 'Person']"
+SportsEvent.startDate,"['Date', 'DateTime']"
+SportsEvent.subEvent,Event
+SportsEvent.superEvent,Event
+SportsEvent.translator,"['Organization', 'Person']"
+SportsEvent.typicalAgeRange,Text
+SportsEvent.workFeatured,CreativeWork
+SportsEvent.workPerformed,CreativeWork
+SportsEvent.additionalType,URL
+SportsEvent.alternateName,Text
+SportsEvent.description,Text
+SportsEvent.disambiguatingDescription,Text
+SportsEvent.identifier,"['PropertyValue', 'Text', 'URL']"
+SportsEvent.image,"['ImageObject', 'URL']"
+SportsEvent.mainEntityOfPage,"['CreativeWork', 'URL']"
+SportsEvent.name,Text
+SportsEvent.potentialAction,Action
+SportsEvent.sameAs,URL
+SportsEvent.subjectOf,"['CreativeWork', 'Event']"
+SportsEvent.url,URL

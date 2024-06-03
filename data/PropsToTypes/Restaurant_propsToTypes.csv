@@ -1,0 +1,114 @@
+property,expected_types
+Restaurant.acceptsReservations,"['Boolean', 'Text', 'URL']"
+Restaurant.hasMenu,"['Menu', 'Text', 'URL']"
+Restaurant.servesCuisine,Text
+Restaurant.starRating,Rating
+Restaurant.currenciesAccepted,Text
+Restaurant.openingHours,Text
+Restaurant.paymentAccepted,Text
+Restaurant.priceRange,Text
+Restaurant.actionableFeedbackPolicy,"['CreativeWork', 'URL']"
+Restaurant.address,"['PostalAddress', 'Text']"
+Restaurant.aggregateRating,AggregateRating
+Restaurant.alumni,Person
+Restaurant.areaServed,"['AdministrativeArea', 'GeoShape', 'Place', 'Text']"
+Restaurant.award,Text
+Restaurant.brand,"['Brand', 'Organization']"
+Restaurant.contactPoint,ContactPoint
+Restaurant.correctionsPolicy,"['CreativeWork', 'URL']"
+Restaurant.department,Organization
+Restaurant.dissolutionDate,Date
+Restaurant.diversityPolicy,"['CreativeWork', 'URL']"
+Restaurant.diversityStaffingReport,"['Article', 'URL']"
+Restaurant.duns,Text
+Restaurant.email,Text
+Restaurant.employee,Person
+Restaurant.ethicsPolicy,"['CreativeWork', 'URL']"
+Restaurant.event,Event
+Restaurant.faxNumber,Text
+Restaurant.founder,Person
+Restaurant.foundingDate,Date
+Restaurant.foundingLocation,Place
+Restaurant.funder,"['Organization', 'Person']"
+Restaurant.globalLocationNumber,Text
+Restaurant.hasCredential,EducationalOccupationalCredential
+Restaurant.hasMerchantReturnPolicy,MerchantReturnPolicy
+Restaurant.hasOfferCatalog,OfferCatalog
+Restaurant.hasPOS,Place
+Restaurant.interactionStatistic,InteractionCounter
+Restaurant.isicV4,Text
+Restaurant.knowsAbout,"['Text', 'Thing', 'URL']"
+Restaurant.knowsLanguage,"['Language', 'Text']"
+Restaurant.legalName,Text
+Restaurant.leiCode,Text
+Restaurant.location,"['Place', 'PostalAddress', 'Text', 'VirtualLocation']"
+Restaurant.logo,"['ImageObject', 'URL']"
+Restaurant.makesOffer,Offer
+Restaurant.member,"['Organization', 'Person']"
+Restaurant.memberOf,"['Organization', 'ProgramMembership']"
+Restaurant.naics,Text
+Restaurant.nonprofitStatus,NonprofitType
+Restaurant.numberOfEmployees,QuantitativeValue
+Restaurant.ownershipFundingInfo,"['AboutPage', 'CreativeWork', 'Text', 'URL']"
+Restaurant.owns,"['OwnershipInfo', 'Product']"
+Restaurant.parentOrganization,Organization
+Restaurant.publishingPrinciples,"['CreativeWork', 'URL']"
+Restaurant.review,Review
+Restaurant.seeks,Demand
+Restaurant.slogan,Text
+Restaurant.sponsor,"['Organization', 'Person']"
+Restaurant.subOrganization,Organization
+Restaurant.taxID,Text
+Restaurant.telephone,Text
+Restaurant.unnamedSourcesPolicy,"['CreativeWork', 'URL']"
+Restaurant.vatID,Text
+Restaurant.additionalProperty,PropertyValue
+Restaurant.address,"['PostalAddress', 'Text']"
+Restaurant.aggregateRating,AggregateRating
+Restaurant.amenityFeature,LocationFeatureSpecification
+Restaurant.branchCode,Text
+Restaurant.containedInPlace,Place
+Restaurant.containsPlace,Place
+Restaurant.event,Event
+Restaurant.faxNumber,Text
+Restaurant.geo,"['GeoCoordinates', 'GeoShape']"
+Restaurant.geoContains,"['GeospatialGeometry', 'Place']"
+Restaurant.geoCoveredBy,"['GeospatialGeometry', 'Place']"
+Restaurant.geoCovers,"['GeospatialGeometry', 'Place']"
+Restaurant.geoCrosses,"['GeospatialGeometry', 'Place']"
+Restaurant.geoDisjoint,"['GeospatialGeometry', 'Place']"
+Restaurant.geoEquals,"['GeospatialGeometry', 'Place']"
+Restaurant.geoIntersects,"['GeospatialGeometry', 'Place']"
+Restaurant.geoOverlaps,"['GeospatialGeometry', 'Place']"
+Restaurant.geoTouches,"['GeospatialGeometry', 'Place']"
+Restaurant.geoWithin,"['GeospatialGeometry', 'Place']"
+Restaurant.globalLocationNumber,Text
+Restaurant.hasDriveThroughService,Boolean
+Restaurant.hasMap,"['Map', 'URL']"
+Restaurant.isAccessibleForFree,Boolean
+Restaurant.isicV4,Text
+Restaurant.latitude,"['Number', 'Text']"
+Restaurant.logo,"['ImageObject', 'URL']"
+Restaurant.longitude,"['Number', 'Text']"
+Restaurant.maximumAttendeeCapacity,Integer
+Restaurant.openingHoursSpecification,OpeningHoursSpecification
+Restaurant.photo,"['ImageObject', 'Photograph']"
+Restaurant.publicAccess,Boolean
+Restaurant.review,Review
+Restaurant.slogan,Text
+Restaurant.smokingAllowed,Boolean
+Restaurant.specialOpeningHoursSpecification,OpeningHoursSpecification
+Restaurant.telephone,Text
+Restaurant.tourBookingPage,URL
+Restaurant.additionalType,URL
+Restaurant.alternateName,Text
+Restaurant.description,Text
+Restaurant.disambiguatingDescription,Text
+Restaurant.identifier,"['PropertyValue', 'Text', 'URL']"
+Restaurant.image,"['ImageObject', 'URL']"
+Restaurant.mainEntityOfPage,"['CreativeWork', 'URL']"
+Restaurant.name,Text
+Restaurant.potentialAction,Action
+Restaurant.sameAs,URL
+Restaurant.subjectOf,"['CreativeWork', 'Event']"
+Restaurant.url,URL

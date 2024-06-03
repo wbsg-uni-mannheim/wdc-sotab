@@ -1,0 +1,108 @@
+property,expected_types
+CollegeOrUniversity.alumni,Person
+CollegeOrUniversity.openingHours,Text
+CollegeOrUniversity.additionalProperty,PropertyValue
+CollegeOrUniversity.address,"['PostalAddress', 'Text']"
+CollegeOrUniversity.aggregateRating,AggregateRating
+CollegeOrUniversity.amenityFeature,LocationFeatureSpecification
+CollegeOrUniversity.branchCode,Text
+CollegeOrUniversity.containedInPlace,Place
+CollegeOrUniversity.containsPlace,Place
+CollegeOrUniversity.event,Event
+CollegeOrUniversity.faxNumber,Text
+CollegeOrUniversity.geo,"['GeoCoordinates', 'GeoShape']"
+CollegeOrUniversity.geoContains,"['GeospatialGeometry', 'Place']"
+CollegeOrUniversity.geoCoveredBy,"['GeospatialGeometry', 'Place']"
+CollegeOrUniversity.geoCovers,"['GeospatialGeometry', 'Place']"
+CollegeOrUniversity.geoCrosses,"['GeospatialGeometry', 'Place']"
+CollegeOrUniversity.geoDisjoint,"['GeospatialGeometry', 'Place']"
+CollegeOrUniversity.geoEquals,"['GeospatialGeometry', 'Place']"
+CollegeOrUniversity.geoIntersects,"['GeospatialGeometry', 'Place']"
+CollegeOrUniversity.geoOverlaps,"['GeospatialGeometry', 'Place']"
+CollegeOrUniversity.geoTouches,"['GeospatialGeometry', 'Place']"
+CollegeOrUniversity.geoWithin,"['GeospatialGeometry', 'Place']"
+CollegeOrUniversity.globalLocationNumber,Text
+CollegeOrUniversity.hasDriveThroughService,Boolean
+CollegeOrUniversity.hasMap,"['Map', 'URL']"
+CollegeOrUniversity.isAccessibleForFree,Boolean
+CollegeOrUniversity.isicV4,Text
+CollegeOrUniversity.latitude,"['Number', 'Text']"
+CollegeOrUniversity.logo,"['ImageObject', 'URL']"
+CollegeOrUniversity.longitude,"['Number', 'Text']"
+CollegeOrUniversity.maximumAttendeeCapacity,Integer
+CollegeOrUniversity.openingHoursSpecification,OpeningHoursSpecification
+CollegeOrUniversity.photo,"['ImageObject', 'Photograph']"
+CollegeOrUniversity.publicAccess,Boolean
+CollegeOrUniversity.review,Review
+CollegeOrUniversity.slogan,Text
+CollegeOrUniversity.smokingAllowed,Boolean
+CollegeOrUniversity.specialOpeningHoursSpecification,OpeningHoursSpecification
+CollegeOrUniversity.telephone,Text
+CollegeOrUniversity.tourBookingPage,URL
+CollegeOrUniversity.actionableFeedbackPolicy,"['CreativeWork', 'URL']"
+CollegeOrUniversity.address,"['PostalAddress', 'Text']"
+CollegeOrUniversity.aggregateRating,AggregateRating
+CollegeOrUniversity.alumni,Person
+CollegeOrUniversity.areaServed,"['AdministrativeArea', 'GeoShape', 'Place', 'Text']"
+CollegeOrUniversity.award,Text
+CollegeOrUniversity.brand,"['Brand', 'Organization']"
+CollegeOrUniversity.contactPoint,ContactPoint
+CollegeOrUniversity.correctionsPolicy,"['CreativeWork', 'URL']"
+CollegeOrUniversity.department,Organization
+CollegeOrUniversity.dissolutionDate,Date
+CollegeOrUniversity.diversityPolicy,"['CreativeWork', 'URL']"
+CollegeOrUniversity.diversityStaffingReport,"['Article', 'URL']"
+CollegeOrUniversity.duns,Text
+CollegeOrUniversity.email,Text
+CollegeOrUniversity.employee,Person
+CollegeOrUniversity.ethicsPolicy,"['CreativeWork', 'URL']"
+CollegeOrUniversity.event,Event
+CollegeOrUniversity.faxNumber,Text
+CollegeOrUniversity.founder,Person
+CollegeOrUniversity.foundingDate,Date
+CollegeOrUniversity.foundingLocation,Place
+CollegeOrUniversity.funder,"['Organization', 'Person']"
+CollegeOrUniversity.globalLocationNumber,Text
+CollegeOrUniversity.hasCredential,EducationalOccupationalCredential
+CollegeOrUniversity.hasMerchantReturnPolicy,MerchantReturnPolicy
+CollegeOrUniversity.hasOfferCatalog,OfferCatalog
+CollegeOrUniversity.hasPOS,Place
+CollegeOrUniversity.interactionStatistic,InteractionCounter
+CollegeOrUniversity.isicV4,Text
+CollegeOrUniversity.knowsAbout,"['Text', 'Thing', 'URL']"
+CollegeOrUniversity.knowsLanguage,"['Language', 'Text']"
+CollegeOrUniversity.legalName,Text
+CollegeOrUniversity.leiCode,Text
+CollegeOrUniversity.location,"['Place', 'PostalAddress', 'Text', 'VirtualLocation']"
+CollegeOrUniversity.logo,"['ImageObject', 'URL']"
+CollegeOrUniversity.makesOffer,Offer
+CollegeOrUniversity.member,"['Organization', 'Person']"
+CollegeOrUniversity.memberOf,"['Organization', 'ProgramMembership']"
+CollegeOrUniversity.naics,Text
+CollegeOrUniversity.nonprofitStatus,NonprofitType
+CollegeOrUniversity.numberOfEmployees,QuantitativeValue
+CollegeOrUniversity.ownershipFundingInfo,"['AboutPage', 'CreativeWork', 'Text', 'URL']"
+CollegeOrUniversity.owns,"['OwnershipInfo', 'Product']"
+CollegeOrUniversity.parentOrganization,Organization
+CollegeOrUniversity.publishingPrinciples,"['CreativeWork', 'URL']"
+CollegeOrUniversity.review,Review
+CollegeOrUniversity.seeks,Demand
+CollegeOrUniversity.slogan,Text
+CollegeOrUniversity.sponsor,"['Organization', 'Person']"
+CollegeOrUniversity.subOrganization,Organization
+CollegeOrUniversity.taxID,Text
+CollegeOrUniversity.telephone,Text
+CollegeOrUniversity.unnamedSourcesPolicy,"['CreativeWork', 'URL']"
+CollegeOrUniversity.vatID,Text
+CollegeOrUniversity.additionalType,URL
+CollegeOrUniversity.alternateName,Text
+CollegeOrUniversity.description,Text
+CollegeOrUniversity.disambiguatingDescription,Text
+CollegeOrUniversity.identifier,"['PropertyValue', 'Text', 'URL']"
+CollegeOrUniversity.image,"['ImageObject', 'URL']"
+CollegeOrUniversity.mainEntityOfPage,"['CreativeWork', 'URL']"
+CollegeOrUniversity.name,Text
+CollegeOrUniversity.potentialAction,Action
+CollegeOrUniversity.sameAs,URL
+CollegeOrUniversity.subjectOf,"['CreativeWork', 'Event']"
+CollegeOrUniversity.url,URL

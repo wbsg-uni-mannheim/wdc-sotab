@@ -1,0 +1,13 @@
+property,expected_types
+Distance.additionalType,URL
+Distance.alternateName,Text
+Distance.description,Text
+Distance.disambiguatingDescription,Text
+Distance.identifier,"['PropertyValue', 'Text', 'URL']"
+Distance.image,"['ImageObject', 'URL']"
+Distance.mainEntityOfPage,"['CreativeWork', 'URL']"
+Distance.name,Text
+Distance.potentialAction,Action
+Distance.sameAs,URL
+Distance.subjectOf,"['CreativeWork', 'Event']"
+Distance.url,URL

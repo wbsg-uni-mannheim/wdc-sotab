@@ -1,0 +1,123 @@
+property,expected_types
+Comment.downvoteCount,Integer
+Comment.parentItem,Comment
+Comment.upvoteCount,Integer
+Comment.about,Thing
+Comment.abstract,Text
+Comment.accessMode,Text
+Comment.accessModeSufficient,ItemList
+Comment.accessibilityAPI,Text
+Comment.accessibilityControl,Text
+Comment.accessibilityFeature,Text
+Comment.accessibilityHazard,Text
+Comment.accessibilitySummary,Text
+Comment.accountablePerson,Person
+Comment.acquireLicensePage,"['CreativeWork', 'URL']"
+Comment.aggregateRating,AggregateRating
+Comment.alternativeHeadline,Text
+Comment.archivedAt,"['URL', 'WebPage']"
+Comment.assesses,"['DefinedTerm', 'Text']"
+Comment.associatedMedia,MediaObject
+Comment.audience,Audience
+Comment.audio,"['AudioObject', 'Clip', 'MusicRecording']"
+Comment.author,"['Organization', 'Person']"
+Comment.award,Text
+Comment.character,Person
+Comment.citation,"['CreativeWork', 'Text']"
+Comment.comment,Comment
+Comment.commentCount,Integer
+Comment.conditionsOfAccess,Text
+Comment.contentLocation,Place
+Comment.contentRating,"['Rating', 'Text']"
+Comment.contentReferenceTime,DateTime
+Comment.contributor,"['Organization', 'Person']"
+Comment.copyrightHolder,"['Organization', 'Person']"
+Comment.copyrightNotice,Text
+Comment.copyrightYear,Number
+Comment.correction,"['CorrectionComment', 'Text', 'URL']"
+Comment.countryOfOrigin,Country
+Comment.creativeWorkStatus,"['DefinedTerm', 'Text']"
+Comment.creator,"['Organization', 'Person']"
+Comment.creditText,Text
+Comment.dateCreated,"['Date', 'DateTime']"
+Comment.dateModified,"['Date', 'DateTime']"
+Comment.datePublished,"['Date', 'DateTime']"
+Comment.discussionUrl,URL
+Comment.editEIDR,"['Text', 'URL']"
+Comment.editor,Person
+Comment.educationalAlignment,AlignmentObject
+Comment.educationalLevel,"['DefinedTerm', 'Text', 'URL']"
+Comment.educationalUse,"['DefinedTerm', 'Text']"
+Comment.encoding,MediaObject
+Comment.encodingFormat,"['Text', 'URL']"
+Comment.exampleOfWork,CreativeWork
+Comment.expires,Date
+Comment.funder,"['Organization', 'Person']"
+Comment.funding,Grant
+Comment.genre,"['Text', 'URL']"
+Comment.hasPart,CreativeWork
+Comment.headline,Text
+Comment.inLanguage,"['Language', 'Text']"
+Comment.interactionStatistic,InteractionCounter
+Comment.interactivityType,Text
+Comment.interpretedAsClaim,Claim
+Comment.isAccessibleForFree,Boolean
+Comment.isBasedOn,"['CreativeWork', 'Product', 'URL']"
+Comment.isFamilyFriendly,Boolean
+Comment.isPartOf,"['CreativeWork', 'URL']"
+Comment.keywords,"['DefinedTerm', 'Text', 'URL']"
+Comment.learningResourceType,"['DefinedTerm', 'Text']"
+Comment.license,"['CreativeWork', 'URL']"
+Comment.locationCreated,Place
+Comment.mainEntity,Thing
+Comment.maintainer,"['Organization', 'Person']"
+Comment.material,"['Product', 'Text', 'URL']"
+Comment.materialExtent,"['QuantitativeValue', 'Text']"
+Comment.mentions,Thing
+Comment.offers,"['Demand', 'Offer']"
+Comment.pattern,"['DefinedTerm', 'Text']"
+Comment.position,"['Integer', 'Text']"
+Comment.producer,"['Organization', 'Person']"
+Comment.provider,"['Organization', 'Person']"
+Comment.publication,PublicationEvent
+Comment.publisher,"['Organization', 'Person']"
+Comment.publisherImprint,Organization
+Comment.publishingPrinciples,"['CreativeWork', 'URL']"
+Comment.recordedAt,Event
+Comment.releasedEvent,PublicationEvent
+Comment.review,Review
+Comment.schemaVersion,"['Text', 'URL']"
+Comment.sdDatePublished,Date
+Comment.sdLicense,"['CreativeWork', 'URL']"
+Comment.sdPublisher,"['Organization', 'Person']"
+Comment.size,"['DefinedTerm', 'QuantitativeValue', 'SizeSpecification', 'Text']"
+Comment.sourceOrganization,Organization
+Comment.spatial,Place
+Comment.spatialCoverage,Place
+Comment.sponsor,"['Organization', 'Person']"
+Comment.teaches,"['DefinedTerm', 'Text']"
+Comment.temporal,"['DateTime', 'Text']"
+Comment.temporalCoverage,"['DateTime', 'Text', 'URL']"
+Comment.text,Text
+Comment.thumbnailUrl,URL
+Comment.timeRequired,Duration
+Comment.translationOfWork,CreativeWork
+Comment.translator,"['Organization', 'Person']"
+Comment.typicalAgeRange,Text
+Comment.usageInfo,"['CreativeWork', 'URL']"
+Comment.version,"['Number', 'Text']"
+Comment.video,"['Clip', 'VideoObject']"
+Comment.workExample,CreativeWork
+Comment.workTranslation,CreativeWork
+Comment.additionalType,URL
+Comment.alternateName,Text
+Comment.description,Text
+Comment.disambiguatingDescription,Text
+Comment.identifier,"['PropertyValue', 'Text', 'URL']"
+Comment.image,"['ImageObject', 'URL']"
+Comment.mainEntityOfPage,"['CreativeWork', 'URL']"
+Comment.name,Text
+Comment.potentialAction,Action
+Comment.sameAs,URL
+Comment.subjectOf,"['CreativeWork', 'Event']"
+Comment.url,URL

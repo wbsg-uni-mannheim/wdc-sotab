@@ -1,0 +1,14 @@
+property,expected_types
+OccupationalExperienceRequirements.monthsOfExperience,Number
+OccupationalExperienceRequirements.additionalType,URL
+OccupationalExperienceRequirements.alternateName,Text
+OccupationalExperienceRequirements.description,Text
+OccupationalExperienceRequirements.disambiguatingDescription,Text
+OccupationalExperienceRequirements.identifier,"['PropertyValue', 'Text', 'URL']"
+OccupationalExperienceRequirements.image,"['ImageObject', 'URL']"
+OccupationalExperienceRequirements.mainEntityOfPage,"['CreativeWork', 'URL']"
+OccupationalExperienceRequirements.name,Text
+OccupationalExperienceRequirements.potentialAction,Action
+OccupationalExperienceRequirements.sameAs,URL
+OccupationalExperienceRequirements.subjectOf,"['CreativeWork', 'Event']"
+OccupationalExperienceRequirements.url,URL

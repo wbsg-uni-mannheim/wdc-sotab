@@ -1,0 +1,124 @@
+property,expected_types
+Dataset.distribution,DataDownload
+Dataset.includedInDataCatalog,DataCatalog
+Dataset.issn,Text
+Dataset.measurementTechnique,"['Text', 'URL']"
+Dataset.variableMeasured,"['PropertyValue', 'Text']"
+Dataset.about,Thing
+Dataset.abstract,Text
+Dataset.accessMode,Text
+Dataset.accessModeSufficient,ItemList
+Dataset.accessibilityAPI,Text
+Dataset.accessibilityControl,Text
+Dataset.accessibilityFeature,Text
+Dataset.accessibilityHazard,Text
+Dataset.accessibilitySummary,Text
+Dataset.accountablePerson,Person
+Dataset.acquireLicensePage,"['CreativeWork', 'URL']"
+Dataset.aggregateRating,AggregateRating
+Dataset.alternativeHeadline,Text
+Dataset.archivedAt,"['URL', 'WebPage']"
+Dataset.assesses,"['DefinedTerm', 'Text']"
+Dataset.associatedMedia,MediaObject
+Dataset.audience,Audience
+Dataset.audio,"['AudioObject', 'Clip', 'MusicRecording']"
+Dataset.author,"['Organization', 'Person']"
+Dataset.award,Text
+Dataset.character,Person
+Dataset.citation,"['CreativeWork', 'Text']"
+Dataset.comment,Comment
+Dataset.commentCount,Integer
+Dataset.conditionsOfAccess,Text
+Dataset.contentLocation,Place
+Dataset.contentRating,"['Rating', 'Text']"
+Dataset.contentReferenceTime,DateTime
+Dataset.contributor,"['Organization', 'Person']"
+Dataset.copyrightHolder,"['Organization', 'Person']"
+Dataset.copyrightNotice,Text
+Dataset.copyrightYear,Number
+Dataset.correction,"['CorrectionComment', 'Text', 'URL']"
+Dataset.countryOfOrigin,Country
+Dataset.creativeWorkStatus,"['DefinedTerm', 'Text']"
+Dataset.creator,"['Organization', 'Person']"
+Dataset.creditText,Text
+Dataset.dateCreated,"['Date', 'DateTime']"
+Dataset.dateModified,"['Date', 'DateTime']"
+Dataset.datePublished,"['Date', 'DateTime']"
+Dataset.discussionUrl,URL
+Dataset.editEIDR,"['Text', 'URL']"
+Dataset.editor,Person
+Dataset.educationalAlignment,AlignmentObject
+Dataset.educationalLevel,"['DefinedTerm', 'Text', 'URL']"
+Dataset.educationalUse,"['DefinedTerm', 'Text']"
+Dataset.encoding,MediaObject
+Dataset.encodingFormat,"['Text', 'URL']"
+Dataset.exampleOfWork,CreativeWork
+Dataset.expires,Date
+Dataset.funder,"['Organization', 'Person']"
+Dataset.genre,"['Text', 'URL']"
+Dataset.hasPart,CreativeWork
+Dataset.headline,Text
+Dataset.inLanguage,"['Language', 'Text']"
+Dataset.interactionStatistic,InteractionCounter
+Dataset.interactivityType,Text
+Dataset.interpretedAsClaim,Claim
+Dataset.isAccessibleForFree,Boolean
+Dataset.isBasedOn,"['CreativeWork', 'Product', 'URL']"
+Dataset.isFamilyFriendly,Boolean
+Dataset.isPartOf,"['CreativeWork', 'URL']"
+Dataset.keywords,"['DefinedTerm', 'Text', 'URL']"
+Dataset.learningResourceType,"['DefinedTerm', 'Text']"
+Dataset.license,"['CreativeWork', 'URL']"
+Dataset.locationCreated,Place
+Dataset.mainEntity,Thing
+Dataset.maintainer,"['Organization', 'Person']"
+Dataset.material,"['Product', 'Text', 'URL']"
+Dataset.materialExtent,"['QuantitativeValue', 'Text']"
+Dataset.mentions,Thing
+Dataset.offers,"['Demand', 'Offer']"
+Dataset.pattern,"['DefinedTerm', 'Text']"
+Dataset.position,"['Integer', 'Text']"
+Dataset.producer,"['Organization', 'Person']"
+Dataset.provider,"['Organization', 'Person']"
+Dataset.publication,PublicationEvent
+Dataset.publisher,"['Organization', 'Person']"
+Dataset.publisherImprint,Organization
+Dataset.publishingPrinciples,"['CreativeWork', 'URL']"
+Dataset.recordedAt,Event
+Dataset.releasedEvent,PublicationEvent
+Dataset.review,Review
+Dataset.schemaVersion,"['Text', 'URL']"
+Dataset.sdDatePublished,Date
+Dataset.sdLicense,"['CreativeWork', 'URL']"
+Dataset.sdPublisher,"['Organization', 'Person']"
+Dataset.size,"['DefinedTerm', 'QuantitativeValue', 'SizeSpecification', 'Text']"
+Dataset.sourceOrganization,Organization
+Dataset.spatial,Place
+Dataset.spatialCoverage,Place
+Dataset.sponsor,"['Organization', 'Person']"
+Dataset.teaches,"['DefinedTerm', 'Text']"
+Dataset.temporal,"['DateTime', 'Text']"
+Dataset.temporalCoverage,"['DateTime', 'Text', 'URL']"
+Dataset.text,Text
+Dataset.thumbnailUrl,URL
+Dataset.timeRequired,Duration
+Dataset.translationOfWork,CreativeWork
+Dataset.translator,"['Organization', 'Person']"
+Dataset.typicalAgeRange,Text
+Dataset.usageInfo,"['CreativeWork', 'URL']"
+Dataset.version,"['Number', 'Text']"
+Dataset.video,"['Clip', 'VideoObject']"
+Dataset.workExample,CreativeWork
+Dataset.workTranslation,CreativeWork
+Dataset.additionalType,URL
+Dataset.alternateName,Text
+Dataset.description,Text
+Dataset.disambiguatingDescription,Text
+Dataset.identifier,"['PropertyValue', 'Text', 'URL']"
+Dataset.image,"['ImageObject', 'URL']"
+Dataset.mainEntityOfPage,"['CreativeWork', 'URL']"
+Dataset.name,Text
+Dataset.potentialAction,Action
+Dataset.sameAs,URL
+Dataset.subjectOf,"['CreativeWork', 'Event']"
+Dataset.url,URL

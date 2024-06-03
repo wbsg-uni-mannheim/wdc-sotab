@@ -1,0 +1,51 @@
+property,expected_types
+Mountain.additionalProperty,PropertyValue
+Mountain.address,"['PostalAddress', 'Text']"
+Mountain.aggregateRating,AggregateRating
+Mountain.amenityFeature,LocationFeatureSpecification
+Mountain.branchCode,Text
+Mountain.containedInPlace,Place
+Mountain.containsPlace,Place
+Mountain.event,Event
+Mountain.faxNumber,Text
+Mountain.geo,"['GeoCoordinates', 'GeoShape']"
+Mountain.geoContains,"['GeospatialGeometry', 'Place']"
+Mountain.geoCoveredBy,"['GeospatialGeometry', 'Place']"
+Mountain.geoCovers,"['GeospatialGeometry', 'Place']"
+Mountain.geoCrosses,"['GeospatialGeometry', 'Place']"
+Mountain.geoDisjoint,"['GeospatialGeometry', 'Place']"
+Mountain.geoEquals,"['GeospatialGeometry', 'Place']"
+Mountain.geoIntersects,"['GeospatialGeometry', 'Place']"
+Mountain.geoOverlaps,"['GeospatialGeometry', 'Place']"
+Mountain.geoTouches,"['GeospatialGeometry', 'Place']"
+Mountain.geoWithin,"['GeospatialGeometry', 'Place']"
+Mountain.globalLocationNumber,Text
+Mountain.hasDriveThroughService,Boolean
+Mountain.hasMap,"['Map', 'URL']"
+Mountain.isAccessibleForFree,Boolean
+Mountain.isicV4,Text
+Mountain.latitude,"['Number', 'Text']"
+Mountain.logo,"['ImageObject', 'URL']"
+Mountain.longitude,"['Number', 'Text']"
+Mountain.maximumAttendeeCapacity,Integer
+Mountain.openingHoursSpecification,OpeningHoursSpecification
+Mountain.photo,"['ImageObject', 'Photograph']"
+Mountain.publicAccess,Boolean
+Mountain.review,Review
+Mountain.slogan,Text
+Mountain.smokingAllowed,Boolean
+Mountain.specialOpeningHoursSpecification,OpeningHoursSpecification
+Mountain.telephone,Text
+Mountain.tourBookingPage,URL
+Mountain.additionalType,URL
+Mountain.alternateName,Text
+Mountain.description,Text
+Mountain.disambiguatingDescription,Text
+Mountain.identifier,"['PropertyValue', 'Text', 'URL']"
+Mountain.image,"['ImageObject', 'URL']"
+Mountain.mainEntityOfPage,"['CreativeWork', 'URL']"
+Mountain.name,Text
+Mountain.potentialAction,Action
+Mountain.sameAs,URL
+Mountain.subjectOf,"['CreativeWork', 'Event']"
+Mountain.url,URL

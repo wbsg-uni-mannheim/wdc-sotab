@@ -1,0 +1,45 @@
+property,expected_types
+Date.applicationDeadline,EducationalOccupationalProgram
+Date.applicationStartDate,EducationalOccupationalProgram
+Date.availabilityEnds,"['ActionAccessSpecification', 'Demand', 'Offer']"
+Date.availabilityStarts,"['ActionAccessSpecification', 'Demand', 'Offer']"
+Date.birthDate,Person
+Date.commentTime,UserComments
+Date.dateCreated,"['CreativeWork', 'DataFeedItem']"
+Date.dateDeleted,DataFeedItem
+Date.dateIssued,Ticket
+Date.dateModified,"['CreativeWork', 'DataFeedItem']"
+Date.datePosted,"['CDCPMDRecord', 'JobPosting', 'RealEstateListing', 'SpecialAnnouncement']"
+Date.datePublished,CreativeWork
+Date.dateRead,Message
+Date.dateVehicleFirstRegistered,Vehicle
+Date.deathDate,Person
+Date.dissolutionDate,Organization
+Date.endDate,"['CreativeWorkSeason', 'CreativeWorkSeries', 'DatedMoneySpecification', 'EducationalOccupationalProgram', 'Event', 'MerchantReturnPolicySeasonalOverride', 'Role', 'Schedule']"
+Date.exceptDate,Schedule
+Date.expectedArrivalFrom,ParcelDelivery
+Date.expectedArrivalUntil,ParcelDelivery
+Date.expires,CreativeWork
+Date.foundingDate,Organization
+Date.guidelineDate,MedicalGuideline
+Date.jobStartDate,JobPosting
+Date.lastReviewed,WebPage
+Date.legislationDate,Legislation
+Date.legislationDateVersion,Legislation
+Date.merchantReturnDays,"['MerchantReturnPolicy', 'MerchantReturnPolicySeasonalOverride']"
+Date.modelDate,Vehicle
+Date.orderDate,Order
+Date.paymentDueDate,"['Invoice', 'Order']"
+Date.previousStartDate,Event
+Date.priceValidUntil,Offer
+Date.productionDate,"['Product', 'Vehicle']"
+Date.purchaseDate,"['Product', 'Vehicle']"
+Date.releaseDate,Product
+Date.scheduledPaymentDate,Invoice
+Date.sdDatePublished,CreativeWork
+Date.startDate,"['CreativeWorkSeason', 'CreativeWorkSeries', 'DatedMoneySpecification', 'EducationalOccupationalProgram', 'Event', 'MerchantReturnPolicySeasonalOverride', 'Role', 'Schedule']"
+Date.uploadDate,MediaObject
+Date.validFrom,"['Demand', 'LocationFeatureSpecification', 'MonetaryAmount', 'Offer', 'OpeningHoursSpecification', 'Permit', 'PriceSpecification']"
+Date.validThrough,"['Demand', 'JobPosting', 'LocationFeatureSpecification', 'MonetaryAmount', 'Offer', 'OpeningHoursSpecification', 'PriceSpecification']"
+Date.validUntil,Permit
+Date.vehicleModelDate,Vehicle

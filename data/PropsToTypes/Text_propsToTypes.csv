@@ -1,0 +1,502 @@
+property,expected_types
+Text.abstract,CreativeWork
+Text.acceptsReservations,FoodEstablishment
+Text.accessCode,DeliveryEvent
+Text.accessMode,CreativeWork
+Text.accessibilityAPI,CreativeWork
+Text.accessibilityControl,CreativeWork
+Text.accessibilityFeature,CreativeWork
+Text.accessibilityHazard,CreativeWork
+Text.accessibilitySummary,CreativeWork
+Text.accommodationCategory,Accommodation
+Text.accountId,Invoice
+Text.acrissCode,"['BusOrCoach', 'Car']"
+Text.actionOption,ChooseAction
+Text.actionPlatform,EntryPoint
+Text.activeIngredient,"['DietarySupplement', 'Drug', 'DrugStrength', 'Substance']"
+Text.activityFrequency,ExercisePlan
+Text.additionalName,Person
+Text.additionalVariable,ExercisePlan
+Text.address,"['GeoCoordinates', 'GeoShape', 'Organization', 'Person', 'Place']"
+Text.addressCountry,"['DefinedRegion', 'GeoCoordinates', 'GeoShape', 'PostalAddress']"
+Text.addressLocality,PostalAddress
+Text.addressRegion,"['DefinedRegion', 'PostalAddress']"
+Text.administrationRoute,Drug
+Text.aircraft,Flight
+Text.alcoholWarning,Drug
+Text.algorithm,MedicalRiskScore
+Text.alignmentType,AlignmentObject
+Text.alternateName,Thing
+Text.alternativeHeadline,CreativeWork
+Text.applicableCountry,MerchantReturnPolicy
+Text.applicationCategory,SoftwareApplication
+Text.applicationSubCategory,SoftwareApplication
+Text.applicationSuite,SoftwareApplication
+Text.areaServed,"['ContactPoint', 'DeliveryChargeSpecification', 'Demand', 'Offer', 'Organization', 'Service']"
+Text.arrivalGate,Flight
+Text.arrivalPlatform,TrainTrip
+Text.arrivalTerminal,Flight
+Text.artEdition,VisualArtwork
+Text.artMedium,VisualArtwork
+Text.artform,VisualArtwork
+Text.articleBody,Article
+Text.articleSection,Article
+Text.artworkSurface,VisualArtwork
+Text.aspect,MedicalWebPage
+Text.assembly,APIReference
+Text.assemblyVersion,APIReference
+Text.assesses,"['CreativeWork', 'EducationEvent', 'LearningResource']"
+Text.associatedPathophysiology,"['AnatomicalStructure', 'AnatomicalSystem', 'SuperficialAnatomy']"
+Text.audienceType,Audience
+Text.availableLanguage,"['ContactPoint', 'LodgingBusiness', 'ServiceChannel', 'TouristAttraction']"
+Text.availableOnDevice,SoftwareApplication
+Text.award,"['CreativeWork', 'Organization', 'Person', 'Product', 'Service']"
+Text.awards,"['CreativeWork', 'Organization', 'Person', 'Product']"
+Text.backstory,Article
+Text.bankAccountType,BankAccount
+Text.bed,"['HotelRoom', 'Suite']"
+Text.beneficiaryBank,MoneyTransfer
+Text.benefits,JobPosting
+Text.bestRating,Rating
+Text.biomechnicalClass,Joint
+Text.bitrate,MediaObject
+Text.boardingGroup,FlightReservation
+Text.bodyLocation,"['AnatomicalStructure', 'MedicalProcedure']"
+Text.bodyType,Vehicle
+Text.bookEdition,Book
+Text.box,GeoShape
+Text.branchCode,Place
+Text.breadcrumb,WebPage
+Text.breastfeedingWarning,Drug
+Text.broadcastChannelId,BroadcastChannel
+Text.broadcastDisplayName,BroadcastService
+Text.broadcastFrequency,"['BroadcastChannel', 'BroadcastService']"
+Text.broadcastServiceTier,BroadcastChannel
+Text.broadcastSignalModulation,BroadcastFrequencySpecification
+Text.broadcastSubChannel,BroadcastFrequencySpecification
+Text.broadcastTimezone,BroadcastService
+Text.browserRequirements,WebApplication
+Text.busName,BusTrip
+Text.busNumber,BusTrip
+Text.byDay,Schedule
+Text.callSign,"['BroadcastService', 'Person', 'Vehicle']"
+Text.caption,"['AudioObject', 'ImageObject', 'VideoObject']"
+Text.carrierRequirements,MobileApplication
+Text.catalogNumber,MusicRelease
+Text.category,"['ActionAccessSpecification', 'Invoice', 'Offer', 'PhysicalActivity', 'Product', 'Recommendation', 'Service', 'SpecialAnnouncement']"
+Text.characterName,PerformanceRole
+Text.chemicalComposition,ChemicalSubstance
+Text.childTaxon,Taxon
+Text.circle,GeoShape
+Text.citation,CreativeWork
+Text.claimReviewed,ClaimReview
+Text.clincalPharmacology,Drug
+Text.clinicalPharmacology,Drug
+Text.clipNumber,Clip
+Text.codeSampleType,SoftwareSourceCode
+Text.codeValue,"['CategoryCode', 'MedicalCode']"
+Text.codingSystem,MedicalCode
+Text.color,Product
+Text.commentText,UserComments
+Text.competencyRequired,"['EducationalOccupationalCredential', 'LearningResource']"
+Text.conditionsOfAccess,CreativeWork
+Text.confirmationNumber,"['Invoice', 'Order']"
+Text.contactType,ContactPoint
+Text.contentRating,CreativeWork
+Text.contentSize,MediaObject
+Text.contentType,EntryPoint
+Text.contraindication,"['MedicalDevice', 'MedicalTherapy']"
+Text.cookingMethod,Recipe
+Text.copyrightNotice,CreativeWork
+Text.correction,CreativeWork
+Text.costCurrency,DrugCost
+Text.costOrigin,DrugCost
+Text.costPerUnit,DrugCost
+Text.countriesNotSupported,SoftwareApplication
+Text.countriesSupported,SoftwareApplication
+Text.countryOfAssembly,Product
+Text.countryOfLastProcessing,Product
+Text.courseCode,Course
+Text.courseMode,CourseInstance
+Text.coursePrerequisites,Course
+Text.courseWorkload,CourseInstance
+Text.creativeWorkStatus,CreativeWork
+Text.credentialCategory,EducationalOccupationalCredential
+Text.creditText,CreativeWork
+Text.currenciesAccepted,LocalBusiness
+Text.currency,"['DatedMoneySpecification', 'ExchangeRateSpecification', 'LoanOrCredit', 'MonetaryAmount', 'MonetaryAmountDistribution']"
+Text.cvdCollectionDate,CDCPMDRecord
+Text.cvdFacilityCounty,CDCPMDRecord
+Text.cvdFacilityId,CDCPMDRecord
+Text.dataFeedElement,DataFeed
+Text.dateline,NewsArticle
+Text.defaultValue,PropertyValueSpecification
+Text.departureGate,Flight
+Text.departurePlatform,TrainTrip
+Text.departureTerminal,Flight
+Text.dependencies,TechArticle
+Text.description,Thing
+Text.device,SoftwareApplication
+Text.dietFeatures,Diet
+Text.disambiguatingDescription,Thing
+Text.discount,Order
+Text.discountCode,Order
+Text.discountCurrency,Order
+Text.dosageForm,Drug
+Text.doseUnit,DoseSchedule
+Text.driveWheelConfiguration,Vehicle
+Text.drugUnit,"['Drug', 'DrugCost']"
+Text.duns,"['Organization', 'Person']"
+Text.editEIDR,CreativeWork
+Text.eduQuestionType,"['Question', 'SolveMathAction']"
+Text.educationRequirements,"['JobPosting', 'Occupation']"
+Text.educationalCredentialAwarded,"['Course', 'EducationalOccupationalProgram']"
+Text.educationalFramework,AlignmentObject
+Text.educationalLevel,"['CreativeWork', 'EducationEvent', 'EducationalOccupationalCredential', 'LearningResource']"
+Text.educationalProgramMode,EducationalOccupationalProgram
+Text.educationalRole,EducationalAudience
+Text.educationalUse,"['CreativeWork', 'LearningResource']"
+Text.elevation,"['GeoCoordinates', 'GeoShape']"
+Text.eligibilityToWorkRequirement,JobPosting
+Text.eligibleRegion,"['ActionAccessSpecification', 'DeliveryChargeSpecification', 'Demand', 'Offer']"
+Text.email,"['ContactPoint', 'Organization', 'Person']"
+Text.embeddedTextCaption,"['AudioObject', 'ImageObject', 'VideoObject']"
+Text.employerOverview,JobPosting
+Text.employmentType,JobPosting
+Text.encodingFormat,"['CreativeWork', 'MediaObject']"
+Text.encodingType,EntryPoint
+Text.engineType,EngineSpecification
+Text.epidemiology,"['MedicalCondition', 'PhysicalActivity']"
+Text.episodeNumber,Episode
+Text.estimatedCost,"['HowTo', 'HowToSupply']"
+Text.estimatedFlightDuration,Flight
+Text.evidenceOrigin,MedicalGuideline
+Text.executableLibraryName,APIReference
+Text.exerciseType,"['ExerciseAction', 'ExercisePlan']"
+Text.exifData,ImageObject
+Text.expectedPrognosis,MedicalCondition
+Text.experienceRequirements,"['JobPosting', 'Occupation']"
+Text.expertConsiderations,Diet
+Text.familyName,Person
+Text.faxNumber,"['ContactPoint', 'Organization', 'Person', 'Place']"
+Text.featureList,SoftwareApplication
+Text.feesAndCommissionsSpecification,"['FinancialProduct', 'FinancialService']"
+Text.fileFormat,CreativeWork
+Text.fileSize,SoftwareApplication
+Text.financialAidEligible,EducationalOccupationalProgram
+Text.flightDistance,Flight
+Text.flightNumber,Flight
+Text.floorLevel,Accommodation
+Text.followup,MedicalProcedure
+Text.foodWarning,Drug
+Text.frequency,DoseSchedule
+Text.fuelType,"['EngineSpecification', 'Vehicle']"
+Text.functionalClass,Joint
+Text.gameAvailabilityType,PlayGameAction
+Text.gameEdition,VideoGame
+Text.gamePlatform,"['VideoGame', 'VideoGameSeries']"
+Text.gender,"['Person', 'SportsTeam']"
+Text.genre,"['BroadcastChannel', 'CreativeWork', 'MusicGroup']"
+Text.geoRadius,GeoCircle
+Text.givenName,Person
+Text.globalLocationNumber,"['Organization', 'Person', 'Place']"
+Text.gtin,"['Demand', 'Offer', 'Product']"
+Text.gtin12,"['Demand', 'Offer', 'Product']"
+Text.gtin13,"['Demand', 'Offer', 'Product']"
+Text.gtin14,"['Demand', 'Offer', 'Product']"
+Text.gtin8,"['Demand', 'Offer', 'Product']"
+Text.hasBioPolymerSequence,"['Gene', 'Protein']"
+Text.hasMenu,FoodEstablishment
+Text.hasRepresentation,BioChemEntity
+Text.headline,CreativeWork
+Text.healthPlanCoinsuranceOption,HealthPlanCostSharingSpecification
+Text.healthPlanCopayOption,HealthPlanCostSharingSpecification
+Text.healthPlanDrugOption,HealthInsurancePlan
+Text.healthPlanDrugTier,"['HealthInsurancePlan', 'HealthPlanFormulary']"
+Text.healthPlanId,HealthInsurancePlan
+Text.healthPlanNetworkId,"['HealthPlanNetwork', 'MedicalOrganization']"
+Text.healthPlanNetworkTier,HealthPlanNetwork
+Text.healthPlanPharmacyCategory,HealthPlanCostSharingSpecification
+Text.highPrice,AggregateOffer
+Text.honorificPrefix,Person
+Text.honorificSuffix,Person
+Text.howPerformed,MedicalProcedure
+Text.httpMethod,EntryPoint
+Text.iataCode,"['Airline', 'Airport']"
+Text.icaoCode,Airport
+Text.identifier,Thing
+Text.inChI,MolecularEntity
+Text.inChIKey,MolecularEntity
+Text.inLanguage,"['BroadcastService', 'CommunicateAction', 'CreativeWork', 'Event', 'LinkRole', 'PronounceableText', 'WriteAction']"
+Text.inProductGroupWithID,Product
+Text.inSupportOf,Thesis
+Text.incentiveCompensation,JobPosting
+Text.incentives,JobPosting
+Text.industry,JobPosting
+Text.ineligibleRegion,"['ActionAccessSpecification', 'DeliveryChargeSpecification', 'Demand', 'MediaObject', 'Offer']"
+Text.infectiousAgent,InfectiousDisease
+Text.ingredients,Recipe
+Text.intensity,ExercisePlan
+Text.interactivityType,CreativeWork
+Text.isbn,Book
+Text.isicV4,"['Organization', 'Person', 'Place']"
+Text.iso6523Code,Organization
+Text.isrcCode,MusicRecording
+Text.issn,"['Blog', 'CreativeWorkSeries', 'Dataset', 'WebSite']"
+Text.issueNumber,PublicationIssue
+Text.iswcCode,MusicComposition
+Text.itemListElement,ItemList
+Text.itemListOrder,ItemList
+Text.itemLocation,ArchiveComponent
+Text.iupacName,MolecularEntity
+Text.jobBenefits,JobPosting
+Text.jobLocationType,JobPosting
+Text.jobStartDate,JobPosting
+Text.jobTitle,Person
+Text.jurisdiction,"['GovernmentService', 'Legislation']"
+Text.keywords,"['CreativeWork', 'Event', 'Organization', 'Place', 'Product']"
+Text.knownVehicleDamages,Vehicle
+Text.knowsAbout,"['Organization', 'Person']"
+Text.knowsLanguage,"['Organization', 'Person']"
+Text.latitude,"['GeoCoordinates', 'Place']"
+Text.learningResourceType,"['CreativeWork', 'LearningResource']"
+Text.legalName,Organization
+Text.legalStatus,"['DietarySupplement', 'Drug', 'MedicalEntity']"
+Text.legislationIdentifier,Legislation
+Text.legislationJurisdiction,Legislation
+Text.legislationType,Legislation
+Text.leiCode,Organization
+Text.line,GeoShape
+Text.linkRelationship,LinkRole
+Text.loanType,LoanOrCredit
+Text.location,"['Action', 'Event', 'InteractionCounter', 'Organization']"
+Text.lodgingUnitDescription,LodgingReservation
+Text.lodgingUnitType,LodgingReservation
+Text.longitude,"['GeoCoordinates', 'Place']"
+Text.lowPrice,AggregateOffer
+Text.material,"['CreativeWork', 'Product']"
+Text.materialExtent,CreativeWork
+Text.mathExpression,MathSolver
+Text.mealService,Flight
+Text.measurementTechnique,"['DataCatalog', 'DataDownload', 'Dataset', 'PropertyValue']"
+Text.mechanismOfAction,"['DietarySupplement', 'Drug']"
+Text.meetsEmissionStandard,Vehicle
+Text.membershipNumber,ProgramMembership
+Text.memoryRequirements,SoftwareApplication
+Text.menu,FoodEstablishment
+Text.model,Product
+Text.molecularFormula,MolecularEntity
+Text.molecularWeight,MolecularEntity
+Text.monoisotopicMolecularWeight,MolecularEntity
+Text.mpn,"['Demand', 'Offer', 'Product']"
+Text.muscleAction,Muscle
+Text.musicCompositionForm,MusicComposition
+Text.musicalKey,MusicComposition
+Text.naics,"['Organization', 'Person']"
+Text.name,Thing
+Text.namedPosition,Role
+Text.naturalProgression,MedicalCondition
+Text.negativeNotes,Review
+Text.nonProprietaryName,"['DietarySupplement', 'Drug']"
+Text.normalRange,MedicalTest
+Text.nsn,Product
+Text.numberOfAirbags,Vehicle
+Text.occupationalCategory,"['EducationalOccupationalProgram', 'JobPosting', 'Occupation', 'WorkBasedProgram']"
+Text.occupationalCredentialAwarded,"['Course', 'EducationalOccupationalProgram']"
+Text.openingHours,"['CivicStructure', 'LocalBusiness']"
+Text.operatingSystem,SoftwareApplication
+Text.option,ChooseAction
+Text.orderItemNumber,OrderItem
+Text.orderNumber,Order
+Text.originalMediaContextDescription,MediaReview
+Text.overdosage,Drug
+Text.ownershipFundingInfo,"['NewsMediaOrganization', 'Organization']"
+Text.pageEnd,"['Article', 'Chapter', 'PublicationIssue', 'PublicationVolume']"
+Text.pageStart,"['Article', 'Chapter', 'PublicationIssue', 'PublicationVolume']"
+Text.pagination,"['Article', 'Chapter', 'PublicationIssue', 'PublicationVolume']"
+Text.parentTaxon,Taxon
+Text.passengerPriorityStatus,FlightReservation
+Text.passengerSequenceNumber,FlightReservation
+Text.pathophysiology,"['MedicalCondition', 'PhysicalActivity']"
+Text.pattern,"['CreativeWork', 'Product']"
+Text.paymentAccepted,LocalBusiness
+Text.paymentMethodId,"['Invoice', 'Order']"
+Text.paymentStatus,Invoice
+Text.permissions,SoftwareApplication
+Text.permittedUsage,Accommodation
+Text.petsAllowed,"['Accommodation', 'ApartmentComplex', 'FloorPlan', 'LodgingBusiness']"
+Text.phoneticText,PronounceableText
+Text.physicalRequirement,JobPosting
+Text.physiologicalBenefits,Diet
+Text.playerType,MediaObject
+Text.polygon,GeoShape
+Text.position,"['CreativeWork', 'ListItem']"
+Text.positiveNotes,Review
+Text.possibleComplication,MedicalCondition
+Text.postOfficeBoxNumber,PostalAddress
+Text.postOp,MedicalDevice
+Text.postalCode,"['DefinedRegion', 'GeoCoordinates', 'GeoShape', 'PostalAddress']"
+Text.postalCodeBegin,PostalCodeRangeSpecification
+Text.postalCodeEnd,PostalCodeRangeSpecification
+Text.postalCodePrefix,DefinedRegion
+Text.preOp,MedicalDevice
+Text.pregnancyWarning,Drug
+Text.preparation,MedicalProcedure
+Text.prescriptionStatus,Drug
+Text.price,"['Offer', 'PriceSpecification', 'TradeAction']"
+Text.priceCurrency,"['Offer', 'PriceSpecification', 'Reservation', 'Ticket', 'TradeAction']"
+Text.priceRange,LocalBusiness
+Text.priceType,"['CompoundPriceSpecification', 'UnitPriceSpecification']"
+Text.printColumn,NewsArticle
+Text.printEdition,NewsArticle
+Text.printPage,NewsArticle
+Text.printSection,NewsArticle
+Text.procedure,MedicalDevice
+Text.processorRequirements,SoftwareApplication
+Text.productGroupID,ProductGroup
+Text.productID,Product
+Text.productSupported,ContactPoint
+Text.proficiencyLevel,TechArticle
+Text.programName,ProgramMembership
+Text.programPrerequisites,EducationalOccupationalProgram
+Text.programType,EducationalOccupationalProgram
+Text.programmingLanguage,SoftwareSourceCode
+Text.programmingModel,APIReference
+Text.propertyID,PropertyValue
+Text.proprietaryName,"['DietarySupplement', 'Drug']"
+Text.providerMobility,Service
+Text.publicationType,MedicalScholarlyArticle
+Text.qualifications,"['JobPosting', 'Occupation']"
+Text.query,SearchAction
+Text.ratingExplanation,Rating
+Text.ratingValue,Rating
+Text.recipeCategory,Recipe
+Text.recipeCuisine,Recipe
+Text.recipeIngredient,Recipe
+Text.recipeInstructions,Recipe
+Text.recipeYield,Recipe
+Text.recommendationStrength,MedicalGuidelineRecommendation
+Text.releaseNotes,SoftwareApplication
+Text.repeatFrequency,Schedule
+Text.reportNumber,Report
+Text.requiredCollateral,LoanOrCredit
+Text.requiredGender,PeopleAudience
+Text.requiredQuantity,HowToItem
+Text.requirements,SoftwareApplication
+Text.reservationId,Reservation
+Text.responsibilities,"['JobPosting', 'Occupation']"
+Text.restPeriods,ExercisePlan
+Text.returnPolicyCountry,MerchantReturnPolicy
+Text.reviewAspect,"['Guide', 'Rating', 'Review']"
+Text.reviewBody,Review
+Text.risks,Diet
+Text.roleName,Role
+Text.runtime,SoftwareSourceCode
+Text.runtimePlatform,SoftwareSourceCode
+Text.rxcui,Drug
+Text.safetyConsideration,DietarySupplement
+Text.salaryCurrency,"['EmployeeRole', 'JobPosting']"
+Text.sampleType,SoftwareSourceCode
+Text.scheduleTimezone,Schedule
+Text.schemaVersion,CreativeWork
+Text.seasonNumber,CreativeWorkSeason
+Text.seatNumber,Seat
+Text.seatRow,Seat
+Text.seatSection,Seat
+Text.seatingType,Seat
+Text.securityClearanceRequirement,JobPosting
+Text.securityScreening,FlightReservation
+Text.sensoryRequirement,JobPosting
+Text.serialNumber,"['Demand', 'IndividualProduct', 'Offer']"
+Text.servesCuisine,FoodEstablishment
+Text.serviceType,Service
+Text.servingSize,NutritionInformation
+Text.sha256,MediaObject
+Text.shippingLabel,"['OfferShippingDetails', 'ShippingRateSettings']"
+Text.significance,SuperficialAnatomy
+Text.size,"['CreativeWork', 'Product']"
+Text.sizeGroup,SizeSpecification
+Text.sizeSystem,SizeSpecification
+Text.skills,"['JobPosting', 'Occupation']"
+Text.sku,"['Demand', 'Offer', 'Product']"
+Text.slogan,"['Brand', 'Organization', 'Place', 'Product', 'Service']"
+Text.smiles,MolecularEntity
+Text.softwareRequirements,SoftwareApplication
+Text.softwareVersion,SoftwareApplication
+Text.specialCommitments,JobPosting
+Text.speechToTextMarkup,PronounceableText
+Text.sport,"['SportsEvent', 'SportsOrganization']"
+Text.status,"['MedicalCondition', 'MedicalProcedure', 'MedicalStudy']"
+Text.step,HowTo
+Text.steps,"['HowTo', 'HowToSection']"
+Text.storageRequirements,SoftwareApplication
+Text.streetAddress,PostalAddress
+Text.strengthUnit,DrugStrength
+Text.structuralClass,Joint
+Text.subStageSuffix,MedicalConditionStage
+Text.subtitleLanguage,"['BroadcastEvent', 'Movie', 'ScreeningEvent', 'TVEpisode']"
+Text.suggestedGender,"['PeopleAudience', 'SizeSpecification']"
+Text.supply,"['HowTo', 'HowToDirection']"
+Text.surface,VisualArtwork
+Text.targetDescription,AlignmentObject
+Text.targetName,AlignmentObject
+Text.targetPlatform,APIReference
+Text.targetPopulation,"['DietarySupplement', 'DoseSchedule']"
+Text.taxID,"['Organization', 'Person']"
+Text.taxonRank,Taxon
+Text.taxonomicRange,BioChemEntity
+Text.teaches,"['CreativeWork', 'EducationEvent', 'LearningResource']"
+Text.telephone,"['ContactPoint', 'Organization', 'Person', 'Place']"
+Text.temporal,CreativeWork
+Text.temporalCoverage,CreativeWork
+Text.termCode,DefinedTerm
+Text.termsOfService,Service
+Text.text,CreativeWork
+Text.textValue,PronounceableText
+Text.tickerSymbol,Corporation
+Text.ticketNumber,Ticket
+Text.ticketToken,Ticket
+Text.timeOfDay,EducationalOccupationalProgram
+Text.tissueSample,PathologyTest
+Text.title,JobPosting
+Text.titleEIDR,"['Movie', 'TVEpisode']"
+Text.tool,"['HowTo', 'HowToDirection']"
+Text.totalPrice,"['Reservation', 'Ticket']"
+Text.touristType,"['TouristAttraction', 'TouristDestination', 'TouristTrip']"
+Text.trackingNumber,ParcelDelivery
+Text.trainName,TrainTrip
+Text.trainNumber,TrainTrip
+Text.transcript,"['AudioObject', 'VideoObject']"
+Text.transitTimeLabel,"['DeliveryTimeSettings', 'OfferShippingDetails']"
+Text.transmissionMethod,InfectiousDisease
+Text.typeOfBed,BedDetails
+Text.typicalAgeRange,"['CreativeWork', 'Event']"
+Text.unitCode,"['PropertyValue', 'QuantitativeValue', 'TypeAndQuantityNode', 'UnitPriceSpecification']"
+Text.unitText,"['PropertyValue', 'QuantitativeValue', 'TypeAndQuantityNode', 'UnitPriceSpecification']"
+Text.urlTemplate,EntryPoint
+Text.usesHealthPlanIdStandard,HealthInsurancePlan
+Text.utterances,HyperTocEntry
+Text.value,"['MonetaryAmount', 'PropertyValue', 'QuantitativeValue']"
+Text.valueName,PropertyValueSpecification
+Text.valuePattern,PropertyValueSpecification
+Text.valueReference,"['PropertyValue', 'QualitativeValue', 'QuantitativeValue']"
+Text.variableMeasured,Dataset
+Text.variablesMeasured,Dataset
+Text.variantCover,ComicIssue
+Text.variesBy,ProductGroup
+Text.vatID,"['Organization', 'Person']"
+Text.vehicleConfiguration,Vehicle
+Text.vehicleIdentificationNumber,Vehicle
+Text.vehicleInteriorColor,Vehicle
+Text.vehicleInteriorType,Vehicle
+Text.vehicleSpecialUsage,Vehicle
+Text.vehicleTransmission,Vehicle
+Text.version,CreativeWork
+Text.videoFormat,"['BroadcastEvent', 'BroadcastService', 'ScreeningEvent']"
+Text.videoFrameSize,VideoObject
+Text.videoQuality,VideoObject
+Text.volumeNumber,PublicationVolume
+Text.warning,Drug
+Text.workHours,JobPosting
+Text.worstRating,Rating
+Text.yield,HowTo

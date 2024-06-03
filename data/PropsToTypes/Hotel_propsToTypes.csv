@@ -1,0 +1,118 @@
+property,expected_types
+Hotel.amenityFeature,LocationFeatureSpecification
+Hotel.audience,Audience
+Hotel.availableLanguage,"['Language', 'Text']"
+Hotel.checkinTime,"['DateTime', 'Time']"
+Hotel.checkoutTime,"['DateTime', 'Time']"
+Hotel.numberOfRooms,"['Number', 'QuantitativeValue']"
+Hotel.petsAllowed,"['Boolean', 'Text']"
+Hotel.starRating,Rating
+Hotel.currenciesAccepted,Text
+Hotel.openingHours,Text
+Hotel.paymentAccepted,Text
+Hotel.priceRange,Text
+Hotel.actionableFeedbackPolicy,"['CreativeWork', 'URL']"
+Hotel.address,"['PostalAddress', 'Text']"
+Hotel.aggregateRating,AggregateRating
+Hotel.alumni,Person
+Hotel.areaServed,"['AdministrativeArea', 'GeoShape', 'Place', 'Text']"
+Hotel.award,Text
+Hotel.brand,"['Brand', 'Organization']"
+Hotel.contactPoint,ContactPoint
+Hotel.correctionsPolicy,"['CreativeWork', 'URL']"
+Hotel.department,Organization
+Hotel.dissolutionDate,Date
+Hotel.diversityPolicy,"['CreativeWork', 'URL']"
+Hotel.diversityStaffingReport,"['Article', 'URL']"
+Hotel.duns,Text
+Hotel.email,Text
+Hotel.employee,Person
+Hotel.ethicsPolicy,"['CreativeWork', 'URL']"
+Hotel.event,Event
+Hotel.faxNumber,Text
+Hotel.founder,Person
+Hotel.foundingDate,Date
+Hotel.foundingLocation,Place
+Hotel.funder,"['Organization', 'Person']"
+Hotel.globalLocationNumber,Text
+Hotel.hasCredential,EducationalOccupationalCredential
+Hotel.hasMerchantReturnPolicy,MerchantReturnPolicy
+Hotel.hasOfferCatalog,OfferCatalog
+Hotel.hasPOS,Place
+Hotel.interactionStatistic,InteractionCounter
+Hotel.isicV4,Text
+Hotel.knowsAbout,"['Text', 'Thing', 'URL']"
+Hotel.knowsLanguage,"['Language', 'Text']"
+Hotel.legalName,Text
+Hotel.leiCode,Text
+Hotel.location,"['Place', 'PostalAddress', 'Text', 'VirtualLocation']"
+Hotel.logo,"['ImageObject', 'URL']"
+Hotel.makesOffer,Offer
+Hotel.member,"['Organization', 'Person']"
+Hotel.memberOf,"['Organization', 'ProgramMembership']"
+Hotel.naics,Text
+Hotel.nonprofitStatus,NonprofitType
+Hotel.numberOfEmployees,QuantitativeValue
+Hotel.ownershipFundingInfo,"['AboutPage', 'CreativeWork', 'Text', 'URL']"
+Hotel.owns,"['OwnershipInfo', 'Product']"
+Hotel.parentOrganization,Organization
+Hotel.publishingPrinciples,"['CreativeWork', 'URL']"
+Hotel.review,Review
+Hotel.seeks,Demand
+Hotel.slogan,Text
+Hotel.sponsor,"['Organization', 'Person']"
+Hotel.subOrganization,Organization
+Hotel.taxID,Text
+Hotel.telephone,Text
+Hotel.unnamedSourcesPolicy,"['CreativeWork', 'URL']"
+Hotel.vatID,Text
+Hotel.additionalProperty,PropertyValue
+Hotel.address,"['PostalAddress', 'Text']"
+Hotel.aggregateRating,AggregateRating
+Hotel.amenityFeature,LocationFeatureSpecification
+Hotel.branchCode,Text
+Hotel.containedInPlace,Place
+Hotel.containsPlace,Place
+Hotel.event,Event
+Hotel.faxNumber,Text
+Hotel.geo,"['GeoCoordinates', 'GeoShape']"
+Hotel.geoContains,"['GeospatialGeometry', 'Place']"
+Hotel.geoCoveredBy,"['GeospatialGeometry', 'Place']"
+Hotel.geoCovers,"['GeospatialGeometry', 'Place']"
+Hotel.geoCrosses,"['GeospatialGeometry', 'Place']"
+Hotel.geoDisjoint,"['GeospatialGeometry', 'Place']"
+Hotel.geoEquals,"['GeospatialGeometry', 'Place']"
+Hotel.geoIntersects,"['GeospatialGeometry', 'Place']"
+Hotel.geoOverlaps,"['GeospatialGeometry', 'Place']"
+Hotel.geoTouches,"['GeospatialGeometry', 'Place']"
+Hotel.geoWithin,"['GeospatialGeometry', 'Place']"
+Hotel.globalLocationNumber,Text
+Hotel.hasDriveThroughService,Boolean
+Hotel.hasMap,"['Map', 'URL']"
+Hotel.isAccessibleForFree,Boolean
+Hotel.isicV4,Text
+Hotel.latitude,"['Number', 'Text']"
+Hotel.logo,"['ImageObject', 'URL']"
+Hotel.longitude,"['Number', 'Text']"
+Hotel.maximumAttendeeCapacity,Integer
+Hotel.openingHoursSpecification,OpeningHoursSpecification
+Hotel.photo,"['ImageObject', 'Photograph']"
+Hotel.publicAccess,Boolean
+Hotel.review,Review
+Hotel.slogan,Text
+Hotel.smokingAllowed,Boolean
+Hotel.specialOpeningHoursSpecification,OpeningHoursSpecification
+Hotel.telephone,Text
+Hotel.tourBookingPage,URL
+Hotel.additionalType,URL
+Hotel.alternateName,Text
+Hotel.description,Text
+Hotel.disambiguatingDescription,Text
+Hotel.identifier,"['PropertyValue', 'Text', 'URL']"
+Hotel.image,"['ImageObject', 'URL']"
+Hotel.mainEntityOfPage,"['CreativeWork', 'URL']"
+Hotel.name,Text
+Hotel.potentialAction,Action
+Hotel.sameAs,URL
+Hotel.subjectOf,"['CreativeWork', 'Event']"
+Hotel.url,URL

@@ -1,0 +1,20 @@
+property,expected_types
+QuantitativeValue.additionalProperty,PropertyValue
+QuantitativeValue.maxValue,Number
+QuantitativeValue.minValue,Number
+QuantitativeValue.unitCode,"['Text', 'URL']"
+QuantitativeValue.unitText,Text
+QuantitativeValue.value,"['Boolean', 'Number', 'StructuredValue', 'Text']"
+QuantitativeValue.valueReference,"['DefinedTerm', 'Enumeration', 'MeasurementTypeEnumeration', 'PropertyValue', 'QualitativeValue', 'QuantitativeValue', 'StructuredValue', 'Text']"
+QuantitativeValue.additionalType,URL
+QuantitativeValue.alternateName,Text
+QuantitativeValue.description,Text
+QuantitativeValue.disambiguatingDescription,Text
+QuantitativeValue.identifier,"['PropertyValue', 'Text', 'URL']"
+QuantitativeValue.image,"['ImageObject', 'URL']"
+QuantitativeValue.mainEntityOfPage,"['CreativeWork', 'URL']"
+QuantitativeValue.name,Text
+QuantitativeValue.potentialAction,Action
+QuantitativeValue.sameAs,URL
+QuantitativeValue.subjectOf,"['CreativeWork', 'Event']"
+QuantitativeValue.url,URL

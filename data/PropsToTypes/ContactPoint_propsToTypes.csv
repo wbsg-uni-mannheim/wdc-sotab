@@ -1,0 +1,22 @@
+property,expected_types
+ContactPoint.areaServed,"['AdministrativeArea', 'GeoShape', 'Place', 'Text']"
+ContactPoint.availableLanguage,"['Language', 'Text']"
+ContactPoint.contactOption,ContactPointOption
+ContactPoint.contactType,Text
+ContactPoint.email,Text
+ContactPoint.faxNumber,Text
+ContactPoint.hoursAvailable,OpeningHoursSpecification
+ContactPoint.productSupported,"['Product', 'Text']"
+ContactPoint.telephone,Text
+ContactPoint.additionalType,URL
+ContactPoint.alternateName,Text
+ContactPoint.description,Text
+ContactPoint.disambiguatingDescription,Text
+ContactPoint.identifier,"['PropertyValue', 'Text', 'URL']"
+ContactPoint.image,"['ImageObject', 'URL']"
+ContactPoint.mainEntityOfPage,"['CreativeWork', 'URL']"
+ContactPoint.name,Text
+ContactPoint.potentialAction,Action
+ContactPoint.sameAs,URL
+ContactPoint.subjectOf,"['CreativeWork', 'Event']"
+ContactPoint.url,URL

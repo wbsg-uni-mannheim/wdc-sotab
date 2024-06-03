@@ -1,0 +1,65 @@
+property,expected_types
+ProductModel.isVariantOf,"['ProductGroup', 'ProductModel']"
+ProductModel.predecessorOf,ProductModel
+ProductModel.successorOf,ProductModel
+ProductModel.additionalProperty,PropertyValue
+ProductModel.aggregateRating,AggregateRating
+ProductModel.audience,Audience
+ProductModel.award,Text
+ProductModel.brand,"['Brand', 'Organization']"
+ProductModel.category,"['CategoryCode', 'PhysicalActivityCategory', 'Text', 'Thing', 'URL']"
+ProductModel.color,Text
+ProductModel.countryOfAssembly,Text
+ProductModel.countryOfLastProcessing,Text
+ProductModel.countryOfOrigin,Country
+ProductModel.depth,"['Distance', 'QuantitativeValue']"
+ProductModel.funding,Grant
+ProductModel.gtin,Text
+ProductModel.gtin12,Text
+ProductModel.gtin13,Text
+ProductModel.gtin14,Text
+ProductModel.gtin8,Text
+ProductModel.hasAdultConsideration,AdultOrientedEnumeration
+ProductModel.hasEnergyConsumptionDetails,EnergyConsumptionDetails
+ProductModel.hasMeasurement,QuantitativeValue
+ProductModel.hasMerchantReturnPolicy,MerchantReturnPolicy
+ProductModel.height,"['Distance', 'QuantitativeValue']"
+ProductModel.inProductGroupWithID,Text
+ProductModel.isAccessoryOrSparePartFor,Product
+ProductModel.isConsumableFor,Product
+ProductModel.isFamilyFriendly,Boolean
+ProductModel.isRelatedTo,"['Product', 'Service']"
+ProductModel.isSimilarTo,"['Product', 'Service']"
+ProductModel.isVariantOf,"['ProductGroup', 'ProductModel']"
+ProductModel.itemCondition,OfferItemCondition
+ProductModel.keywords,"['DefinedTerm', 'Text', 'URL']"
+ProductModel.logo,"['ImageObject', 'URL']"
+ProductModel.manufacturer,Organization
+ProductModel.material,"['Product', 'Text', 'URL']"
+ProductModel.model,"['ProductModel', 'Text']"
+ProductModel.mpn,Text
+ProductModel.nsn,Text
+ProductModel.offers,"['Demand', 'Offer']"
+ProductModel.pattern,"['DefinedTerm', 'Text']"
+ProductModel.productID,Text
+ProductModel.productionDate,Date
+ProductModel.purchaseDate,Date
+ProductModel.releaseDate,Date
+ProductModel.review,Review
+ProductModel.size,"['DefinedTerm', 'QuantitativeValue', 'SizeSpecification', 'Text']"
+ProductModel.sku,Text
+ProductModel.slogan,Text
+ProductModel.weight,QuantitativeValue
+ProductModel.width,"['Distance', 'QuantitativeValue']"
+ProductModel.additionalType,URL
+ProductModel.alternateName,Text
+ProductModel.description,Text
+ProductModel.disambiguatingDescription,Text
+ProductModel.identifier,"['PropertyValue', 'Text', 'URL']"
+ProductModel.image,"['ImageObject', 'URL']"
+ProductModel.mainEntityOfPage,"['CreativeWork', 'URL']"
+ProductModel.name,Text
+ProductModel.potentialAction,Action
+ProductModel.sameAs,URL
+ProductModel.subjectOf,"['CreativeWork', 'Event']"
+ProductModel.url,URL

@@ -1,0 +1,21 @@
+property,expected_types
+GeoShape.address,"['PostalAddress', 'Text']"
+GeoShape.addressCountry,"['Country', 'Text']"
+GeoShape.box,Text
+GeoShape.circle,Text
+GeoShape.elevation,"['Number', 'Text']"
+GeoShape.line,Text
+GeoShape.polygon,Text
+GeoShape.postalCode,Text
+GeoShape.additionalType,URL
+GeoShape.alternateName,Text
+GeoShape.description,Text
+GeoShape.disambiguatingDescription,Text
+GeoShape.identifier,"['PropertyValue', 'Text', 'URL']"
+GeoShape.image,"['ImageObject', 'URL']"
+GeoShape.mainEntityOfPage,"['CreativeWork', 'URL']"
+GeoShape.name,Text
+GeoShape.potentialAction,Action
+GeoShape.sameAs,URL
+GeoShape.subjectOf,"['CreativeWork', 'Event']"
+GeoShape.url,URL

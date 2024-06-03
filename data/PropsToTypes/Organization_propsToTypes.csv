@@ -1,0 +1,71 @@
+property,expected_types
+Organization.actionableFeedbackPolicy,"['CreativeWork', 'URL']"
+Organization.address,"['PostalAddress', 'Text']"
+Organization.aggregateRating,AggregateRating
+Organization.alumni,Person
+Organization.areaServed,"['AdministrativeArea', 'GeoShape', 'Place', 'Text']"
+Organization.award,Text
+Organization.brand,"['Brand', 'Organization']"
+Organization.contactPoint,ContactPoint
+Organization.correctionsPolicy,"['CreativeWork', 'URL']"
+Organization.department,Organization
+Organization.dissolutionDate,Date
+Organization.diversityPolicy,"['CreativeWork', 'URL']"
+Organization.diversityStaffingReport,"['Article', 'URL']"
+Organization.duns,Text
+Organization.email,Text
+Organization.employee,Person
+Organization.ethicsPolicy,"['CreativeWork', 'URL']"
+Organization.event,Event
+Organization.faxNumber,Text
+Organization.founder,Person
+Organization.foundingDate,Date
+Organization.foundingLocation,Place
+Organization.funder,"['Organization', 'Person']"
+Organization.funding,Grant
+Organization.globalLocationNumber,Text
+Organization.hasCredential,EducationalOccupationalCredential
+Organization.hasMerchantReturnPolicy,MerchantReturnPolicy
+Organization.hasOfferCatalog,OfferCatalog
+Organization.hasPOS,Place
+Organization.interactionStatistic,InteractionCounter
+Organization.isicV4,Text
+Organization.iso6523Code,Text
+Organization.keywords,"['DefinedTerm', 'Text', 'URL']"
+Organization.knowsAbout,"['Text', 'Thing', 'URL']"
+Organization.knowsLanguage,"['Language', 'Text']"
+Organization.legalName,Text
+Organization.leiCode,Text
+Organization.location,"['Place', 'PostalAddress', 'Text', 'VirtualLocation']"
+Organization.logo,"['ImageObject', 'URL']"
+Organization.makesOffer,Offer
+Organization.member,"['Organization', 'Person']"
+Organization.memberOf,"['Organization', 'ProgramMembership']"
+Organization.naics,Text
+Organization.nonprofitStatus,NonprofitType
+Organization.numberOfEmployees,QuantitativeValue
+Organization.ownershipFundingInfo,"['AboutPage', 'CreativeWork', 'Text', 'URL']"
+Organization.owns,"['OwnershipInfo', 'Product']"
+Organization.parentOrganization,Organization
+Organization.publishingPrinciples,"['CreativeWork', 'URL']"
+Organization.review,Review
+Organization.seeks,Demand
+Organization.slogan,Text
+Organization.sponsor,"['Organization', 'Person']"
+Organization.subOrganization,Organization
+Organization.taxID,Text
+Organization.telephone,Text
+Organization.unnamedSourcesPolicy,"['CreativeWork', 'URL']"
+Organization.vatID,Text
+Organization.additionalType,URL
+Organization.alternateName,Text
+Organization.description,Text
+Organization.disambiguatingDescription,Text
+Organization.identifier,"['PropertyValue', 'Text', 'URL']"
+Organization.image,"['ImageObject', 'URL']"
+Organization.mainEntityOfPage,"['CreativeWork', 'URL']"
+Organization.name,Text
+Organization.potentialAction,Action
+Organization.sameAs,URL
+Organization.subjectOf,"['CreativeWork', 'Event']"
+Organization.url,URL

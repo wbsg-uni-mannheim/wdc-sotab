@@ -1,0 +1,60 @@
+property,expected_types
+Offer.acceptedPaymentMethod,"['LoanOrCredit', 'PaymentMethod']"
+Offer.addOn,Offer
+Offer.advanceBookingRequirement,QuantitativeValue
+Offer.aggregateRating,AggregateRating
+Offer.areaServed,"['AdministrativeArea', 'GeoShape', 'Place', 'Text']"
+Offer.availability,ItemAvailability
+Offer.availabilityEnds,"['Date', 'DateTime', 'Time']"
+Offer.availabilityStarts,"['Date', 'DateTime', 'Time']"
+Offer.availableAtOrFrom,Place
+Offer.availableDeliveryMethod,DeliveryMethod
+Offer.businessFunction,BusinessFunction
+Offer.category,"['CategoryCode', 'PhysicalActivityCategory', 'Text', 'Thing', 'URL']"
+Offer.deliveryLeadTime,QuantitativeValue
+Offer.eligibleCustomerType,BusinessEntityType
+Offer.eligibleDuration,QuantitativeValue
+Offer.eligibleQuantity,QuantitativeValue
+Offer.eligibleRegion,"['GeoShape', 'Place', 'Text']"
+Offer.eligibleTransactionVolume,PriceSpecification
+Offer.gtin,Text
+Offer.gtin12,Text
+Offer.gtin13,Text
+Offer.gtin14,Text
+Offer.gtin8,Text
+Offer.hasAdultConsideration,AdultOrientedEnumeration
+Offer.hasMeasurement,QuantitativeValue
+Offer.hasMerchantReturnPolicy,MerchantReturnPolicy
+Offer.includesObject,TypeAndQuantityNode
+Offer.ineligibleRegion,"['GeoShape', 'Place', 'Text']"
+Offer.inventoryLevel,QuantitativeValue
+Offer.isFamilyFriendly,Boolean
+Offer.itemCondition,OfferItemCondition
+Offer.itemOffered,"['AggregateOffer', 'CreativeWork', 'Event', 'MenuItem', 'Product', 'Service', 'Trip']"
+Offer.leaseLength,"['Duration', 'QuantitativeValue']"
+Offer.mpn,Text
+Offer.offeredBy,"['Organization', 'Person']"
+Offer.price,"['Number', 'Text']"
+Offer.priceCurrency,Text
+Offer.priceSpecification,PriceSpecification
+Offer.priceValidUntil,Date
+Offer.review,Review
+Offer.seller,"['Organization', 'Person']"
+Offer.serialNumber,Text
+Offer.shippingDetails,OfferShippingDetails
+Offer.sku,Text
+Offer.validFrom,"['Date', 'DateTime']"
+Offer.validThrough,"['Date', 'DateTime']"
+Offer.warranty,WarrantyPromise
+Offer.additionalType,URL
+Offer.alternateName,Text
+Offer.description,Text
+Offer.disambiguatingDescription,Text
+Offer.identifier,"['PropertyValue', 'Text', 'URL']"
+Offer.image,"['ImageObject', 'URL']"
+Offer.mainEntityOfPage,"['CreativeWork', 'URL']"
+Offer.name,Text
+Offer.potentialAction,Action
+Offer.sameAs,URL
+Offer.subjectOf,"['CreativeWork', 'Event']"
+Offer.url,URL

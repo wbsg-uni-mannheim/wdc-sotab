@@ -1,0 +1,17 @@
+property,expected_types
+OwnershipInfo.acquiredFrom,"['Organization', 'Person']"
+OwnershipInfo.ownedFrom,DateTime
+OwnershipInfo.ownedThrough,DateTime
+OwnershipInfo.typeOfGood,"['Product', 'Service']"
+OwnershipInfo.additionalType,URL
+OwnershipInfo.alternateName,Text
+OwnershipInfo.description,Text
+OwnershipInfo.disambiguatingDescription,Text
+OwnershipInfo.identifier,"['PropertyValue', 'Text', 'URL']"
+OwnershipInfo.image,"['ImageObject', 'URL']"
+OwnershipInfo.mainEntityOfPage,"['CreativeWork', 'URL']"
+OwnershipInfo.name,Text
+OwnershipInfo.potentialAction,Action
+OwnershipInfo.sameAs,URL
+OwnershipInfo.subjectOf,"['CreativeWork', 'Event']"
+OwnershipInfo.url,URL

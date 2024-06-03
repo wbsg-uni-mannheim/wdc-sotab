@@ -1,0 +1,15 @@
+property,expected_types
+DefinedTerm.inDefinedTermSet,"['DefinedTermSet', 'URL']"
+DefinedTerm.termCode,Text
+DefinedTerm.additionalType,URL
+DefinedTerm.alternateName,Text
+DefinedTerm.description,Text
+DefinedTerm.disambiguatingDescription,Text
+DefinedTerm.identifier,"['PropertyValue', 'Text', 'URL']"
+DefinedTerm.image,"['ImageObject', 'URL']"
+DefinedTerm.mainEntityOfPage,"['CreativeWork', 'URL']"
+DefinedTerm.name,Text
+DefinedTerm.potentialAction,Action
+DefinedTerm.sameAs,URL
+DefinedTerm.subjectOf,"['CreativeWork', 'Event']"
+DefinedTerm.url,URL

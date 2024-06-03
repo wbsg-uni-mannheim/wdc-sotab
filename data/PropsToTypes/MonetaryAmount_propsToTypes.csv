@@ -1,0 +1,19 @@
+property,expected_types
+MonetaryAmount.currency,Text
+MonetaryAmount.maxValue,Number
+MonetaryAmount.minValue,Number
+MonetaryAmount.validFrom,"['Date', 'DateTime']"
+MonetaryAmount.validThrough,"['Date', 'DateTime']"
+MonetaryAmount.value,"['Boolean', 'Number', 'StructuredValue', 'Text']"
+MonetaryAmount.additionalType,URL
+MonetaryAmount.alternateName,Text
+MonetaryAmount.description,Text
+MonetaryAmount.disambiguatingDescription,Text
+MonetaryAmount.identifier,"['PropertyValue', 'Text', 'URL']"
+MonetaryAmount.image,"['ImageObject', 'URL']"
+MonetaryAmount.mainEntityOfPage,"['CreativeWork', 'URL']"
+MonetaryAmount.name,Text
+MonetaryAmount.potentialAction,Action
+MonetaryAmount.sameAs,URL
+MonetaryAmount.subjectOf,"['CreativeWork', 'Event']"
+MonetaryAmount.url,URL

@@ -1,0 +1,117 @@
+property,expected_types
+Hospital.availableService,"['MedicalProcedure', 'MedicalTest', 'MedicalTherapy']"
+Hospital.healthcareReportingData,"['CDCPMDRecord', 'Dataset']"
+Hospital.medicalSpecialty,MedicalSpecialty
+Hospital.openingHours,Text
+Hospital.currenciesAccepted,Text
+Hospital.openingHours,Text
+Hospital.paymentAccepted,Text
+Hospital.priceRange,Text
+Hospital.additionalProperty,PropertyValue
+Hospital.address,"['PostalAddress', 'Text']"
+Hospital.aggregateRating,AggregateRating
+Hospital.amenityFeature,LocationFeatureSpecification
+Hospital.branchCode,Text
+Hospital.containedInPlace,Place
+Hospital.containsPlace,Place
+Hospital.event,Event
+Hospital.faxNumber,Text
+Hospital.geo,"['GeoCoordinates', 'GeoShape']"
+Hospital.geoContains,"['GeospatialGeometry', 'Place']"
+Hospital.geoCoveredBy,"['GeospatialGeometry', 'Place']"
+Hospital.geoCovers,"['GeospatialGeometry', 'Place']"
+Hospital.geoCrosses,"['GeospatialGeometry', 'Place']"
+Hospital.geoDisjoint,"['GeospatialGeometry', 'Place']"
+Hospital.geoEquals,"['GeospatialGeometry', 'Place']"
+Hospital.geoIntersects,"['GeospatialGeometry', 'Place']"
+Hospital.geoOverlaps,"['GeospatialGeometry', 'Place']"
+Hospital.geoTouches,"['GeospatialGeometry', 'Place']"
+Hospital.geoWithin,"['GeospatialGeometry', 'Place']"
+Hospital.globalLocationNumber,Text
+Hospital.hasDriveThroughService,Boolean
+Hospital.hasMap,"['Map', 'URL']"
+Hospital.isAccessibleForFree,Boolean
+Hospital.isicV4,Text
+Hospital.latitude,"['Number', 'Text']"
+Hospital.logo,"['ImageObject', 'URL']"
+Hospital.longitude,"['Number', 'Text']"
+Hospital.maximumAttendeeCapacity,Integer
+Hospital.openingHoursSpecification,OpeningHoursSpecification
+Hospital.photo,"['ImageObject', 'Photograph']"
+Hospital.publicAccess,Boolean
+Hospital.review,Review
+Hospital.slogan,Text
+Hospital.smokingAllowed,Boolean
+Hospital.specialOpeningHoursSpecification,OpeningHoursSpecification
+Hospital.telephone,Text
+Hospital.tourBookingPage,URL
+Hospital.healthPlanNetworkId,Text
+Hospital.isAcceptingNewPatients,Boolean
+Hospital.medicalSpecialty,MedicalSpecialty
+Hospital.actionableFeedbackPolicy,"['CreativeWork', 'URL']"
+Hospital.address,"['PostalAddress', 'Text']"
+Hospital.aggregateRating,AggregateRating
+Hospital.alumni,Person
+Hospital.areaServed,"['AdministrativeArea', 'GeoShape', 'Place', 'Text']"
+Hospital.award,Text
+Hospital.brand,"['Brand', 'Organization']"
+Hospital.contactPoint,ContactPoint
+Hospital.correctionsPolicy,"['CreativeWork', 'URL']"
+Hospital.department,Organization
+Hospital.dissolutionDate,Date
+Hospital.diversityPolicy,"['CreativeWork', 'URL']"
+Hospital.diversityStaffingReport,"['Article', 'URL']"
+Hospital.duns,Text
+Hospital.email,Text
+Hospital.employee,Person
+Hospital.ethicsPolicy,"['CreativeWork', 'URL']"
+Hospital.event,Event
+Hospital.faxNumber,Text
+Hospital.founder,Person
+Hospital.foundingDate,Date
+Hospital.foundingLocation,Place
+Hospital.funder,"['Organization', 'Person']"
+Hospital.globalLocationNumber,Text
+Hospital.hasCredential,EducationalOccupationalCredential
+Hospital.hasMerchantReturnPolicy,MerchantReturnPolicy
+Hospital.hasOfferCatalog,OfferCatalog
+Hospital.hasPOS,Place
+Hospital.interactionStatistic,InteractionCounter
+Hospital.isicV4,Text
+Hospital.knowsAbout,"['Text', 'Thing', 'URL']"
+Hospital.knowsLanguage,"['Language', 'Text']"
+Hospital.legalName,Text
+Hospital.leiCode,Text
+Hospital.location,"['Place', 'PostalAddress', 'Text', 'VirtualLocation']"
+Hospital.logo,"['ImageObject', 'URL']"
+Hospital.makesOffer,Offer
+Hospital.member,"['Organization', 'Person']"
+Hospital.memberOf,"['Organization', 'ProgramMembership']"
+Hospital.naics,Text
+Hospital.nonprofitStatus,NonprofitType
+Hospital.numberOfEmployees,QuantitativeValue
+Hospital.ownershipFundingInfo,"['AboutPage', 'CreativeWork', 'Text', 'URL']"
+Hospital.owns,"['OwnershipInfo', 'Product']"
+Hospital.parentOrganization,Organization
+Hospital.publishingPrinciples,"['CreativeWork', 'URL']"
+Hospital.review,Review
+Hospital.seeks,Demand
+Hospital.slogan,Text
+Hospital.sponsor,"['Organization', 'Person']"
+Hospital.subOrganization,Organization
+Hospital.taxID,Text
+Hospital.telephone,Text
+Hospital.unnamedSourcesPolicy,"['CreativeWork', 'URL']"
+Hospital.vatID,Text
+Hospital.additionalType,URL
+Hospital.alternateName,Text
+Hospital.description,Text
+Hospital.disambiguatingDescription,Text
+Hospital.identifier,"['PropertyValue', 'Text', 'URL']"
+Hospital.image,"['ImageObject', 'URL']"
+Hospital.mainEntityOfPage,"['CreativeWork', 'URL']"
+Hospital.name,Text
+Hospital.potentialAction,Action
+Hospital.sameAs,URL
+Hospital.subjectOf,"['CreativeWork', 'Event']"
+Hospital.url,URL

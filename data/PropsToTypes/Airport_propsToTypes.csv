@@ -1,0 +1,54 @@
+property,expected_types
+Airport.iataCode,Text
+Airport.icaoCode,Text
+Airport.openingHours,Text
+Airport.additionalProperty,PropertyValue
+Airport.address,"['PostalAddress', 'Text']"
+Airport.aggregateRating,AggregateRating
+Airport.amenityFeature,LocationFeatureSpecification
+Airport.branchCode,Text
+Airport.containedInPlace,Place
+Airport.containsPlace,Place
+Airport.event,Event
+Airport.faxNumber,Text
+Airport.geo,"['GeoCoordinates', 'GeoShape']"
+Airport.geoContains,"['GeospatialGeometry', 'Place']"
+Airport.geoCoveredBy,"['GeospatialGeometry', 'Place']"
+Airport.geoCovers,"['GeospatialGeometry', 'Place']"
+Airport.geoCrosses,"['GeospatialGeometry', 'Place']"
+Airport.geoDisjoint,"['GeospatialGeometry', 'Place']"
+Airport.geoEquals,"['GeospatialGeometry', 'Place']"
+Airport.geoIntersects,"['GeospatialGeometry', 'Place']"
+Airport.geoOverlaps,"['GeospatialGeometry', 'Place']"
+Airport.geoTouches,"['GeospatialGeometry', 'Place']"
+Airport.geoWithin,"['GeospatialGeometry', 'Place']"
+Airport.globalLocationNumber,Text
+Airport.hasDriveThroughService,Boolean
+Airport.hasMap,"['Map', 'URL']"
+Airport.isAccessibleForFree,Boolean
+Airport.isicV4,Text
+Airport.latitude,"['Number', 'Text']"
+Airport.logo,"['ImageObject', 'URL']"
+Airport.longitude,"['Number', 'Text']"
+Airport.maximumAttendeeCapacity,Integer
+Airport.openingHoursSpecification,OpeningHoursSpecification
+Airport.photo,"['ImageObject', 'Photograph']"
+Airport.publicAccess,Boolean
+Airport.review,Review
+Airport.slogan,Text
+Airport.smokingAllowed,Boolean
+Airport.specialOpeningHoursSpecification,OpeningHoursSpecification
+Airport.telephone,Text
+Airport.tourBookingPage,URL
+Airport.additionalType,URL
+Airport.alternateName,Text
+Airport.description,Text
+Airport.disambiguatingDescription,Text
+Airport.identifier,"['PropertyValue', 'Text', 'URL']"
+Airport.image,"['ImageObject', 'URL']"
+Airport.mainEntityOfPage,"['CreativeWork', 'URL']"
+Airport.name,Text
+Airport.potentialAction,Action
+Airport.sameAs,URL
+Airport.subjectOf,"['CreativeWork', 'Event']"
+Airport.url,URL

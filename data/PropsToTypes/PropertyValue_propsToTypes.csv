@@ -1,0 +1,21 @@
+property,expected_types
+PropertyValue.maxValue,Number
+PropertyValue.measurementTechnique,"['Text', 'URL']"
+PropertyValue.minValue,Number
+PropertyValue.propertyID,"['Text', 'URL']"
+PropertyValue.unitCode,"['Text', 'URL']"
+PropertyValue.unitText,Text
+PropertyValue.value,"['Boolean', 'Number', 'StructuredValue', 'Text']"
+PropertyValue.valueReference,"['DefinedTerm', 'Enumeration', 'MeasurementTypeEnumeration', 'PropertyValue', 'QualitativeValue', 'QuantitativeValue', 'StructuredValue', 'Text']"
+PropertyValue.additionalType,URL
+PropertyValue.alternateName,Text
+PropertyValue.description,Text
+PropertyValue.disambiguatingDescription,Text
+PropertyValue.identifier,"['PropertyValue', 'Text', 'URL']"
+PropertyValue.image,"['ImageObject', 'URL']"
+PropertyValue.mainEntityOfPage,"['CreativeWork', 'URL']"
+PropertyValue.name,Text
+PropertyValue.potentialAction,Action
+PropertyValue.sameAs,URL
+PropertyValue.subjectOf,"['CreativeWork', 'Event']"
+PropertyValue.url,URL

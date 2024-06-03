@@ -1,0 +1,13 @@
+property,expected_types
+Language.additionalType,URL
+Language.alternateName,Text
+Language.description,Text
+Language.disambiguatingDescription,Text
+Language.identifier,"['PropertyValue', 'Text', 'URL']"
+Language.image,"['ImageObject', 'URL']"
+Language.mainEntityOfPage,"['CreativeWork', 'URL']"
+Language.name,Text
+Language.potentialAction,Action
+Language.sameAs,URL
+Language.subjectOf,"['CreativeWork', 'Event']"
+Language.url,URL

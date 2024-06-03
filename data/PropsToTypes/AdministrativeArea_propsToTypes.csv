@@ -1,0 +1,51 @@
+property,expected_types
+AdministrativeArea.additionalProperty,PropertyValue
+AdministrativeArea.address,"['PostalAddress', 'Text']"
+AdministrativeArea.aggregateRating,AggregateRating
+AdministrativeArea.amenityFeature,LocationFeatureSpecification
+AdministrativeArea.branchCode,Text
+AdministrativeArea.containedInPlace,Place
+AdministrativeArea.containsPlace,Place
+AdministrativeArea.event,Event
+AdministrativeArea.faxNumber,Text
+AdministrativeArea.geo,"['GeoCoordinates', 'GeoShape']"
+AdministrativeArea.geoContains,"['GeospatialGeometry', 'Place']"
+AdministrativeArea.geoCoveredBy,"['GeospatialGeometry', 'Place']"
+AdministrativeArea.geoCovers,"['GeospatialGeometry', 'Place']"
+AdministrativeArea.geoCrosses,"['GeospatialGeometry', 'Place']"
+AdministrativeArea.geoDisjoint,"['GeospatialGeometry', 'Place']"
+AdministrativeArea.geoEquals,"['GeospatialGeometry', 'Place']"
+AdministrativeArea.geoIntersects,"['GeospatialGeometry', 'Place']"
+AdministrativeArea.geoOverlaps,"['GeospatialGeometry', 'Place']"
+AdministrativeArea.geoTouches,"['GeospatialGeometry', 'Place']"
+AdministrativeArea.geoWithin,"['GeospatialGeometry', 'Place']"
+AdministrativeArea.globalLocationNumber,Text
+AdministrativeArea.hasDriveThroughService,Boolean
+AdministrativeArea.hasMap,"['Map', 'URL']"
+AdministrativeArea.isAccessibleForFree,Boolean
+AdministrativeArea.isicV4,Text
+AdministrativeArea.latitude,"['Number', 'Text']"
+AdministrativeArea.logo,"['ImageObject', 'URL']"
+AdministrativeArea.longitude,"['Number', 'Text']"
+AdministrativeArea.maximumAttendeeCapacity,Integer
+AdministrativeArea.openingHoursSpecification,OpeningHoursSpecification
+AdministrativeArea.photo,"['ImageObject', 'Photograph']"
+AdministrativeArea.publicAccess,Boolean
+AdministrativeArea.review,Review
+AdministrativeArea.slogan,Text
+AdministrativeArea.smokingAllowed,Boolean
+AdministrativeArea.specialOpeningHoursSpecification,OpeningHoursSpecification
+AdministrativeArea.telephone,Text
+AdministrativeArea.tourBookingPage,URL
+AdministrativeArea.additionalType,URL
+AdministrativeArea.alternateName,Text
+AdministrativeArea.description,Text
+AdministrativeArea.disambiguatingDescription,Text
+AdministrativeArea.identifier,"['PropertyValue', 'Text', 'URL']"
+AdministrativeArea.image,"['ImageObject', 'URL']"
+AdministrativeArea.mainEntityOfPage,"['CreativeWork', 'URL']"
+AdministrativeArea.name,Text
+AdministrativeArea.potentialAction,Action
+AdministrativeArea.sameAs,URL
+AdministrativeArea.subjectOf,"['CreativeWork', 'Event']"
+AdministrativeArea.url,URL

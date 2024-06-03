@@ -1,0 +1,110 @@
+property,expected_types
+LocalBusiness.currenciesAccepted,Text
+LocalBusiness.openingHours,Text
+LocalBusiness.paymentAccepted,Text
+LocalBusiness.priceRange,Text
+LocalBusiness.actionableFeedbackPolicy,"['CreativeWork', 'URL']"
+LocalBusiness.address,"['PostalAddress', 'Text']"
+LocalBusiness.aggregateRating,AggregateRating
+LocalBusiness.alumni,Person
+LocalBusiness.areaServed,"['AdministrativeArea', 'GeoShape', 'Place', 'Text']"
+LocalBusiness.award,Text
+LocalBusiness.brand,"['Brand', 'Organization']"
+LocalBusiness.contactPoint,ContactPoint
+LocalBusiness.correctionsPolicy,"['CreativeWork', 'URL']"
+LocalBusiness.department,Organization
+LocalBusiness.dissolutionDate,Date
+LocalBusiness.diversityPolicy,"['CreativeWork', 'URL']"
+LocalBusiness.diversityStaffingReport,"['Article', 'URL']"
+LocalBusiness.duns,Text
+LocalBusiness.email,Text
+LocalBusiness.employee,Person
+LocalBusiness.ethicsPolicy,"['CreativeWork', 'URL']"
+LocalBusiness.event,Event
+LocalBusiness.faxNumber,Text
+LocalBusiness.founder,Person
+LocalBusiness.foundingDate,Date
+LocalBusiness.foundingLocation,Place
+LocalBusiness.funder,"['Organization', 'Person']"
+LocalBusiness.globalLocationNumber,Text
+LocalBusiness.hasCredential,EducationalOccupationalCredential
+LocalBusiness.hasMerchantReturnPolicy,MerchantReturnPolicy
+LocalBusiness.hasOfferCatalog,OfferCatalog
+LocalBusiness.hasPOS,Place
+LocalBusiness.interactionStatistic,InteractionCounter
+LocalBusiness.isicV4,Text
+LocalBusiness.knowsAbout,"['Text', 'Thing', 'URL']"
+LocalBusiness.knowsLanguage,"['Language', 'Text']"
+LocalBusiness.legalName,Text
+LocalBusiness.leiCode,Text
+LocalBusiness.location,"['Place', 'PostalAddress', 'Text', 'VirtualLocation']"
+LocalBusiness.logo,"['ImageObject', 'URL']"
+LocalBusiness.makesOffer,Offer
+LocalBusiness.member,"['Organization', 'Person']"
+LocalBusiness.memberOf,"['Organization', 'ProgramMembership']"
+LocalBusiness.naics,Text
+LocalBusiness.nonprofitStatus,NonprofitType
+LocalBusiness.numberOfEmployees,QuantitativeValue
+LocalBusiness.ownershipFundingInfo,"['AboutPage', 'CreativeWork', 'Text', 'URL']"
+LocalBusiness.owns,"['OwnershipInfo', 'Product']"
+LocalBusiness.parentOrganization,Organization
+LocalBusiness.publishingPrinciples,"['CreativeWork', 'URL']"
+LocalBusiness.review,Review
+LocalBusiness.seeks,Demand
+LocalBusiness.slogan,Text
+LocalBusiness.sponsor,"['Organization', 'Person']"
+LocalBusiness.subOrganization,Organization
+LocalBusiness.taxID,Text
+LocalBusiness.telephone,Text
+LocalBusiness.unnamedSourcesPolicy,"['CreativeWork', 'URL']"
+LocalBusiness.vatID,Text
+LocalBusiness.additionalProperty,PropertyValue
+LocalBusiness.address,"['PostalAddress', 'Text']"
+LocalBusiness.aggregateRating,AggregateRating
+LocalBusiness.amenityFeature,LocationFeatureSpecification
+LocalBusiness.branchCode,Text
+LocalBusiness.containedInPlace,Place
+LocalBusiness.containsPlace,Place
+LocalBusiness.event,Event
+LocalBusiness.faxNumber,Text
+LocalBusiness.geo,"['GeoCoordinates', 'GeoShape']"
+LocalBusiness.geoContains,"['GeospatialGeometry', 'Place']"
+LocalBusiness.geoCoveredBy,"['GeospatialGeometry', 'Place']"
+LocalBusiness.geoCovers,"['GeospatialGeometry', 'Place']"
+LocalBusiness.geoCrosses,"['GeospatialGeometry', 'Place']"
+LocalBusiness.geoDisjoint,"['GeospatialGeometry', 'Place']"
+LocalBusiness.geoEquals,"['GeospatialGeometry', 'Place']"
+LocalBusiness.geoIntersects,"['GeospatialGeometry', 'Place']"
+LocalBusiness.geoOverlaps,"['GeospatialGeometry', 'Place']"
+LocalBusiness.geoTouches,"['GeospatialGeometry', 'Place']"
+LocalBusiness.geoWithin,"['GeospatialGeometry', 'Place']"
+LocalBusiness.globalLocationNumber,Text
+LocalBusiness.hasDriveThroughService,Boolean
+LocalBusiness.hasMap,"['Map', 'URL']"
+LocalBusiness.isAccessibleForFree,Boolean
+LocalBusiness.isicV4,Text
+LocalBusiness.latitude,"['Number', 'Text']"
+LocalBusiness.logo,"['ImageObject', 'URL']"
+LocalBusiness.longitude,"['Number', 'Text']"
+LocalBusiness.maximumAttendeeCapacity,Integer
+LocalBusiness.openingHoursSpecification,OpeningHoursSpecification
+LocalBusiness.photo,"['ImageObject', 'Photograph']"
+LocalBusiness.publicAccess,Boolean
+LocalBusiness.review,Review
+LocalBusiness.slogan,Text
+LocalBusiness.smokingAllowed,Boolean
+LocalBusiness.specialOpeningHoursSpecification,OpeningHoursSpecification
+LocalBusiness.telephone,Text
+LocalBusiness.tourBookingPage,URL
+LocalBusiness.additionalType,URL
+LocalBusiness.alternateName,Text
+LocalBusiness.description,Text
+LocalBusiness.disambiguatingDescription,Text
+LocalBusiness.identifier,"['PropertyValue', 'Text', 'URL']"
+LocalBusiness.image,"['ImageObject', 'URL']"
+LocalBusiness.mainEntityOfPage,"['CreativeWork', 'URL']"
+LocalBusiness.name,Text
+LocalBusiness.potentialAction,Action
+LocalBusiness.sameAs,URL
+LocalBusiness.subjectOf,"['CreativeWork', 'Event']"
+LocalBusiness.url,URL

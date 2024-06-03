@@ -1,0 +1,17 @@
+property,expected_types
+CategoryCode.codeValue,Text
+CategoryCode.inCodeSet,"['CategoryCodeSet', 'URL']"
+CategoryCode.inDefinedTermSet,"['DefinedTermSet', 'URL']"
+CategoryCode.termCode,Text
+CategoryCode.additionalType,URL
+CategoryCode.alternateName,Text
+CategoryCode.description,Text
+CategoryCode.disambiguatingDescription,Text
+CategoryCode.identifier,"['PropertyValue', 'Text', 'URL']"
+CategoryCode.image,"['ImageObject', 'URL']"
+CategoryCode.mainEntityOfPage,"['CreativeWork', 'URL']"
+CategoryCode.name,Text
+CategoryCode.potentialAction,Action
+CategoryCode.sameAs,URL
+CategoryCode.subjectOf,"['CreativeWork', 'Event']"
+CategoryCode.url,URL

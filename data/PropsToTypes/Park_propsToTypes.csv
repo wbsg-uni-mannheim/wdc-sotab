@@ -1,0 +1,52 @@
+property,expected_types
+Park.openingHours,Text
+Park.additionalProperty,PropertyValue
+Park.address,"['PostalAddress', 'Text']"
+Park.aggregateRating,AggregateRating
+Park.amenityFeature,LocationFeatureSpecification
+Park.branchCode,Text
+Park.containedInPlace,Place
+Park.containsPlace,Place
+Park.event,Event
+Park.faxNumber,Text
+Park.geo,"['GeoCoordinates', 'GeoShape']"
+Park.geoContains,"['GeospatialGeometry', 'Place']"
+Park.geoCoveredBy,"['GeospatialGeometry', 'Place']"
+Park.geoCovers,"['GeospatialGeometry', 'Place']"
+Park.geoCrosses,"['GeospatialGeometry', 'Place']"
+Park.geoDisjoint,"['GeospatialGeometry', 'Place']"
+Park.geoEquals,"['GeospatialGeometry', 'Place']"
+Park.geoIntersects,"['GeospatialGeometry', 'Place']"
+Park.geoOverlaps,"['GeospatialGeometry', 'Place']"
+Park.geoTouches,"['GeospatialGeometry', 'Place']"
+Park.geoWithin,"['GeospatialGeometry', 'Place']"
+Park.globalLocationNumber,Text
+Park.hasDriveThroughService,Boolean
+Park.hasMap,"['Map', 'URL']"
+Park.isAccessibleForFree,Boolean
+Park.isicV4,Text
+Park.latitude,"['Number', 'Text']"
+Park.logo,"['ImageObject', 'URL']"
+Park.longitude,"['Number', 'Text']"
+Park.maximumAttendeeCapacity,Integer
+Park.openingHoursSpecification,OpeningHoursSpecification
+Park.photo,"['ImageObject', 'Photograph']"
+Park.publicAccess,Boolean
+Park.review,Review
+Park.slogan,Text
+Park.smokingAllowed,Boolean
+Park.specialOpeningHoursSpecification,OpeningHoursSpecification
+Park.telephone,Text
+Park.tourBookingPage,URL
+Park.additionalType,URL
+Park.alternateName,Text
+Park.description,Text
+Park.disambiguatingDescription,Text
+Park.identifier,"['PropertyValue', 'Text', 'URL']"
+Park.image,"['ImageObject', 'URL']"
+Park.mainEntityOfPage,"['CreativeWork', 'URL']"
+Park.name,Text
+Park.potentialAction,Action
+Park.sameAs,URL
+Park.subjectOf,"['CreativeWork', 'Event']"
+Park.url,URL

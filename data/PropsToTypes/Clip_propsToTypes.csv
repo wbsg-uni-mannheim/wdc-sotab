@@ -1,0 +1,129 @@
+property,expected_types
+Clip.actor,Person
+Clip.clipNumber,"['Integer', 'Text']"
+Clip.director,Person
+Clip.endOffset,"['HyperTocEntry', 'Number']"
+Clip.musicBy,"['MusicGroup', 'Person']"
+Clip.partOfEpisode,Episode
+Clip.partOfSeason,CreativeWorkSeason
+Clip.partOfSeries,CreativeWorkSeries
+Clip.startOffset,"['HyperTocEntry', 'Number']"
+Clip.about,Thing
+Clip.abstract,Text
+Clip.accessMode,Text
+Clip.accessModeSufficient,ItemList
+Clip.accessibilityAPI,Text
+Clip.accessibilityControl,Text
+Clip.accessibilityFeature,Text
+Clip.accessibilityHazard,Text
+Clip.accessibilitySummary,Text
+Clip.accountablePerson,Person
+Clip.acquireLicensePage,"['CreativeWork', 'URL']"
+Clip.aggregateRating,AggregateRating
+Clip.alternativeHeadline,Text
+Clip.archivedAt,"['URL', 'WebPage']"
+Clip.assesses,"['DefinedTerm', 'Text']"
+Clip.associatedMedia,MediaObject
+Clip.audience,Audience
+Clip.audio,"['AudioObject', 'Clip', 'MusicRecording']"
+Clip.author,"['Organization', 'Person']"
+Clip.award,Text
+Clip.character,Person
+Clip.citation,"['CreativeWork', 'Text']"
+Clip.comment,Comment
+Clip.commentCount,Integer
+Clip.conditionsOfAccess,Text
+Clip.contentLocation,Place
+Clip.contentRating,"['Rating', 'Text']"
+Clip.contentReferenceTime,DateTime
+Clip.contributor,"['Organization', 'Person']"
+Clip.copyrightHolder,"['Organization', 'Person']"
+Clip.copyrightNotice,Text
+Clip.copyrightYear,Number
+Clip.correction,"['CorrectionComment', 'Text', 'URL']"
+Clip.countryOfOrigin,Country
+Clip.creativeWorkStatus,"['DefinedTerm', 'Text']"
+Clip.creator,"['Organization', 'Person']"
+Clip.creditText,Text
+Clip.dateCreated,"['Date', 'DateTime']"
+Clip.dateModified,"['Date', 'DateTime']"
+Clip.datePublished,"['Date', 'DateTime']"
+Clip.discussionUrl,URL
+Clip.editEIDR,"['Text', 'URL']"
+Clip.editor,Person
+Clip.educationalAlignment,AlignmentObject
+Clip.educationalLevel,"['DefinedTerm', 'Text', 'URL']"
+Clip.educationalUse,"['DefinedTerm', 'Text']"
+Clip.encoding,MediaObject
+Clip.encodingFormat,"['Text', 'URL']"
+Clip.exampleOfWork,CreativeWork
+Clip.expires,Date
+Clip.funder,"['Organization', 'Person']"
+Clip.funding,Grant
+Clip.genre,"['Text', 'URL']"
+Clip.hasPart,CreativeWork
+Clip.headline,Text
+Clip.inLanguage,"['Language', 'Text']"
+Clip.interactionStatistic,InteractionCounter
+Clip.interactivityType,Text
+Clip.interpretedAsClaim,Claim
+Clip.isAccessibleForFree,Boolean
+Clip.isBasedOn,"['CreativeWork', 'Product', 'URL']"
+Clip.isFamilyFriendly,Boolean
+Clip.isPartOf,"['CreativeWork', 'URL']"
+Clip.keywords,"['DefinedTerm', 'Text', 'URL']"
+Clip.learningResourceType,"['DefinedTerm', 'Text']"
+Clip.license,"['CreativeWork', 'URL']"
+Clip.locationCreated,Place
+Clip.mainEntity,Thing
+Clip.maintainer,"['Organization', 'Person']"
+Clip.material,"['Product', 'Text', 'URL']"
+Clip.materialExtent,"['QuantitativeValue', 'Text']"
+Clip.mentions,Thing
+Clip.offers,"['Demand', 'Offer']"
+Clip.pattern,"['DefinedTerm', 'Text']"
+Clip.position,"['Integer', 'Text']"
+Clip.producer,"['Organization', 'Person']"
+Clip.provider,"['Organization', 'Person']"
+Clip.publication,PublicationEvent
+Clip.publisher,"['Organization', 'Person']"
+Clip.publisherImprint,Organization
+Clip.publishingPrinciples,"['CreativeWork', 'URL']"
+Clip.recordedAt,Event
+Clip.releasedEvent,PublicationEvent
+Clip.review,Review
+Clip.schemaVersion,"['Text', 'URL']"
+Clip.sdDatePublished,Date
+Clip.sdLicense,"['CreativeWork', 'URL']"
+Clip.sdPublisher,"['Organization', 'Person']"
+Clip.size,"['DefinedTerm', 'QuantitativeValue', 'SizeSpecification', 'Text']"
+Clip.sourceOrganization,Organization
+Clip.spatial,Place
+Clip.spatialCoverage,Place
+Clip.sponsor,"['Organization', 'Person']"
+Clip.teaches,"['DefinedTerm', 'Text']"
+Clip.temporal,"['DateTime', 'Text']"
+Clip.temporalCoverage,"['DateTime', 'Text', 'URL']"
+Clip.text,Text
+Clip.thumbnailUrl,URL
+Clip.timeRequired,Duration
+Clip.translationOfWork,CreativeWork
+Clip.translator,"['Organization', 'Person']"
+Clip.typicalAgeRange,Text
+Clip.usageInfo,"['CreativeWork', 'URL']"
+Clip.version,"['Number', 'Text']"
+Clip.video,"['Clip', 'VideoObject']"
+Clip.workExample,CreativeWork
+Clip.workTranslation,CreativeWork
+Clip.additionalType,URL
+Clip.alternateName,Text
+Clip.description,Text
+Clip.disambiguatingDescription,Text
+Clip.identifier,"['PropertyValue', 'Text', 'URL']"
+Clip.image,"['ImageObject', 'URL']"
+Clip.mainEntityOfPage,"['CreativeWork', 'URL']"
+Clip.name,Text
+Clip.potentialAction,Action
+Clip.sameAs,URL
+Clip.subjectOf,"['CreativeWork', 'Event']"
+Clip.url,URL

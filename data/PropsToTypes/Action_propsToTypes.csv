@@ -1,0 +1,25 @@
+property,expected_types
+Action.actionStatus,ActionStatusType
+Action.agent,"['Organization', 'Person']"
+Action.endTime,"['DateTime', 'Time']"
+Action.error,Thing
+Action.instrument,Thing
+Action.location,"['Place', 'PostalAddress', 'Text', 'VirtualLocation']"
+Action.object,Thing
+Action.participant,"['Organization', 'Person']"
+Action.provider,"['Organization', 'Person']"
+Action.result,Thing
+Action.startTime,"['DateTime', 'Time']"
+Action.target,EntryPoint
+Action.additionalType,URL
+Action.alternateName,Text
+Action.description,Text
+Action.disambiguatingDescription,Text
+Action.identifier,"['PropertyValue', 'Text', 'URL']"
+Action.image,"['ImageObject', 'URL']"
+Action.mainEntityOfPage,"['CreativeWork', 'URL']"
+Action.name,Text
+Action.potentialAction,Action
+Action.sameAs,URL
+Action.subjectOf,"['CreativeWork', 'Event']"
+Action.url,URL

@@ -1,0 +1,128 @@
+property,expected_types
+Movie.actor,Person
+Movie.countryOfOrigin,Country
+Movie.director,Person
+Movie.duration,Duration
+Movie.musicBy,"['MusicGroup', 'Person']"
+Movie.productionCompany,Organization
+Movie.subtitleLanguage,"['Language', 'Text']"
+Movie.titleEIDR,"['Text', 'URL']"
+Movie.trailer,VideoObject
+Movie.about,Thing
+Movie.abstract,Text
+Movie.accessMode,Text
+Movie.accessModeSufficient,ItemList
+Movie.accessibilityAPI,Text
+Movie.accessibilityControl,Text
+Movie.accessibilityFeature,Text
+Movie.accessibilityHazard,Text
+Movie.accessibilitySummary,Text
+Movie.accountablePerson,Person
+Movie.acquireLicensePage,"['CreativeWork', 'URL']"
+Movie.aggregateRating,AggregateRating
+Movie.alternativeHeadline,Text
+Movie.archivedAt,"['URL', 'WebPage']"
+Movie.assesses,"['DefinedTerm', 'Text']"
+Movie.associatedMedia,MediaObject
+Movie.audience,Audience
+Movie.audio,"['AudioObject', 'Clip', 'MusicRecording']"
+Movie.author,"['Organization', 'Person']"
+Movie.award,Text
+Movie.character,Person
+Movie.citation,"['CreativeWork', 'Text']"
+Movie.comment,Comment
+Movie.commentCount,Integer
+Movie.conditionsOfAccess,Text
+Movie.contentLocation,Place
+Movie.contentRating,"['Rating', 'Text']"
+Movie.contentReferenceTime,DateTime
+Movie.contributor,"['Organization', 'Person']"
+Movie.copyrightHolder,"['Organization', 'Person']"
+Movie.copyrightNotice,Text
+Movie.copyrightYear,Number
+Movie.correction,"['CorrectionComment', 'Text', 'URL']"
+Movie.countryOfOrigin,Country
+Movie.creativeWorkStatus,"['DefinedTerm', 'Text']"
+Movie.creator,"['Organization', 'Person']"
+Movie.creditText,Text
+Movie.dateCreated,"['Date', 'DateTime']"
+Movie.dateModified,"['Date', 'DateTime']"
+Movie.datePublished,"['Date', 'DateTime']"
+Movie.discussionUrl,URL
+Movie.editEIDR,"['Text', 'URL']"
+Movie.editor,Person
+Movie.educationalAlignment,AlignmentObject
+Movie.educationalLevel,"['DefinedTerm', 'Text', 'URL']"
+Movie.educationalUse,"['DefinedTerm', 'Text']"
+Movie.encoding,MediaObject
+Movie.encodingFormat,"['Text', 'URL']"
+Movie.exampleOfWork,CreativeWork
+Movie.expires,Date
+Movie.funder,"['Organization', 'Person']"
+Movie.genre,"['Text', 'URL']"
+Movie.hasPart,CreativeWork
+Movie.headline,Text
+Movie.inLanguage,"['Language', 'Text']"
+Movie.interactionStatistic,InteractionCounter
+Movie.interactivityType,Text
+Movie.interpretedAsClaim,Claim
+Movie.isAccessibleForFree,Boolean
+Movie.isBasedOn,"['CreativeWork', 'Product', 'URL']"
+Movie.isFamilyFriendly,Boolean
+Movie.isPartOf,"['CreativeWork', 'URL']"
+Movie.keywords,"['DefinedTerm', 'Text', 'URL']"
+Movie.learningResourceType,"['DefinedTerm', 'Text']"
+Movie.license,"['CreativeWork', 'URL']"
+Movie.locationCreated,Place
+Movie.mainEntity,Thing
+Movie.maintainer,"['Organization', 'Person']"
+Movie.material,"['Product', 'Text', 'URL']"
+Movie.materialExtent,"['QuantitativeValue', 'Text']"
+Movie.mentions,Thing
+Movie.offers,"['Demand', 'Offer']"
+Movie.pattern,"['DefinedTerm', 'Text']"
+Movie.position,"['Integer', 'Text']"
+Movie.producer,"['Organization', 'Person']"
+Movie.provider,"['Organization', 'Person']"
+Movie.publication,PublicationEvent
+Movie.publisher,"['Organization', 'Person']"
+Movie.publisherImprint,Organization
+Movie.publishingPrinciples,"['CreativeWork', 'URL']"
+Movie.recordedAt,Event
+Movie.releasedEvent,PublicationEvent
+Movie.review,Review
+Movie.schemaVersion,"['Text', 'URL']"
+Movie.sdDatePublished,Date
+Movie.sdLicense,"['CreativeWork', 'URL']"
+Movie.sdPublisher,"['Organization', 'Person']"
+Movie.size,"['DefinedTerm', 'QuantitativeValue', 'SizeSpecification', 'Text']"
+Movie.sourceOrganization,Organization
+Movie.spatial,Place
+Movie.spatialCoverage,Place
+Movie.sponsor,"['Organization', 'Person']"
+Movie.teaches,"['DefinedTerm', 'Text']"
+Movie.temporal,"['DateTime', 'Text']"
+Movie.temporalCoverage,"['DateTime', 'Text', 'URL']"
+Movie.text,Text
+Movie.thumbnailUrl,URL
+Movie.timeRequired,Duration
+Movie.translationOfWork,CreativeWork
+Movie.translator,"['Organization', 'Person']"
+Movie.typicalAgeRange,Text
+Movie.usageInfo,"['CreativeWork', 'URL']"
+Movie.version,"['Number', 'Text']"
+Movie.video,"['Clip', 'VideoObject']"
+Movie.workExample,CreativeWork
+Movie.workTranslation,CreativeWork
+Movie.additionalType,URL
+Movie.alternateName,Text
+Movie.description,Text
+Movie.disambiguatingDescription,Text
+Movie.identifier,"['PropertyValue', 'Text', 'URL']"
+Movie.image,"['ImageObject', 'URL']"
+Movie.mainEntityOfPage,"['CreativeWork', 'URL']"
+Movie.name,Text
+Movie.potentialAction,Action
+Movie.sameAs,URL
+Movie.subjectOf,"['CreativeWork', 'Event']"
+Movie.url,URL

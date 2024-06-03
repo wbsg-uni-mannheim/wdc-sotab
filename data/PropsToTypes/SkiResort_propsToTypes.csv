@@ -1,0 +1,118 @@
+property,expected_types
+SkiResort.amenityFeature,LocationFeatureSpecification
+SkiResort.audience,Audience
+SkiResort.availableLanguage,"['Language', 'Text']"
+SkiResort.checkinTime,"['DateTime', 'Time']"
+SkiResort.checkoutTime,"['DateTime', 'Time']"
+SkiResort.numberOfRooms,"['Number', 'QuantitativeValue']"
+SkiResort.petsAllowed,"['Boolean', 'Text']"
+SkiResort.starRating,Rating
+SkiResort.currenciesAccepted,Text
+SkiResort.openingHours,Text
+SkiResort.paymentAccepted,Text
+SkiResort.priceRange,Text
+SkiResort.actionableFeedbackPolicy,"['CreativeWork', 'URL']"
+SkiResort.address,"['PostalAddress', 'Text']"
+SkiResort.aggregateRating,AggregateRating
+SkiResort.alumni,Person
+SkiResort.areaServed,"['AdministrativeArea', 'GeoShape', 'Place', 'Text']"
+SkiResort.award,Text
+SkiResort.brand,"['Brand', 'Organization']"
+SkiResort.contactPoint,ContactPoint
+SkiResort.correctionsPolicy,"['CreativeWork', 'URL']"
+SkiResort.department,Organization
+SkiResort.dissolutionDate,Date
+SkiResort.diversityPolicy,"['CreativeWork', 'URL']"
+SkiResort.diversityStaffingReport,"['Article', 'URL']"
+SkiResort.duns,Text
+SkiResort.email,Text
+SkiResort.employee,Person
+SkiResort.ethicsPolicy,"['CreativeWork', 'URL']"
+SkiResort.event,Event
+SkiResort.faxNumber,Text
+SkiResort.founder,Person
+SkiResort.foundingDate,Date
+SkiResort.foundingLocation,Place
+SkiResort.funder,"['Organization', 'Person']"
+SkiResort.globalLocationNumber,Text
+SkiResort.hasCredential,EducationalOccupationalCredential
+SkiResort.hasMerchantReturnPolicy,MerchantReturnPolicy
+SkiResort.hasOfferCatalog,OfferCatalog
+SkiResort.hasPOS,Place
+SkiResort.interactionStatistic,InteractionCounter
+SkiResort.isicV4,Text
+SkiResort.knowsAbout,"['Text', 'Thing', 'URL']"
+SkiResort.knowsLanguage,"['Language', 'Text']"
+SkiResort.legalName,Text
+SkiResort.leiCode,Text
+SkiResort.location,"['Place', 'PostalAddress', 'Text', 'VirtualLocation']"
+SkiResort.logo,"['ImageObject', 'URL']"
+SkiResort.makesOffer,Offer
+SkiResort.member,"['Organization', 'Person']"
+SkiResort.memberOf,"['Organization', 'ProgramMembership']"
+SkiResort.naics,Text
+SkiResort.nonprofitStatus,NonprofitType
+SkiResort.numberOfEmployees,QuantitativeValue
+SkiResort.ownershipFundingInfo,"['AboutPage', 'CreativeWork', 'Text', 'URL']"
+SkiResort.owns,"['OwnershipInfo', 'Product']"
+SkiResort.parentOrganization,Organization
+SkiResort.publishingPrinciples,"['CreativeWork', 'URL']"
+SkiResort.review,Review
+SkiResort.seeks,Demand
+SkiResort.slogan,Text
+SkiResort.sponsor,"['Organization', 'Person']"
+SkiResort.subOrganization,Organization
+SkiResort.taxID,Text
+SkiResort.telephone,Text
+SkiResort.unnamedSourcesPolicy,"['CreativeWork', 'URL']"
+SkiResort.vatID,Text
+SkiResort.additionalProperty,PropertyValue
+SkiResort.address,"['PostalAddress', 'Text']"
+SkiResort.aggregateRating,AggregateRating
+SkiResort.amenityFeature,LocationFeatureSpecification
+SkiResort.branchCode,Text
+SkiResort.containedInPlace,Place
+SkiResort.containsPlace,Place
+SkiResort.event,Event
+SkiResort.faxNumber,Text
+SkiResort.geo,"['GeoCoordinates', 'GeoShape']"
+SkiResort.geoContains,"['GeospatialGeometry', 'Place']"
+SkiResort.geoCoveredBy,"['GeospatialGeometry', 'Place']"
+SkiResort.geoCovers,"['GeospatialGeometry', 'Place']"
+SkiResort.geoCrosses,"['GeospatialGeometry', 'Place']"
+SkiResort.geoDisjoint,"['GeospatialGeometry', 'Place']"
+SkiResort.geoEquals,"['GeospatialGeometry', 'Place']"
+SkiResort.geoIntersects,"['GeospatialGeometry', 'Place']"
+SkiResort.geoOverlaps,"['GeospatialGeometry', 'Place']"
+SkiResort.geoTouches,"['GeospatialGeometry', 'Place']"
+SkiResort.geoWithin,"['GeospatialGeometry', 'Place']"
+SkiResort.globalLocationNumber,Text
+SkiResort.hasDriveThroughService,Boolean
+SkiResort.hasMap,"['Map', 'URL']"
+SkiResort.isAccessibleForFree,Boolean
+SkiResort.isicV4,Text
+SkiResort.latitude,"['Number', 'Text']"
+SkiResort.logo,"['ImageObject', 'URL']"
+SkiResort.longitude,"['Number', 'Text']"
+SkiResort.maximumAttendeeCapacity,Integer
+SkiResort.openingHoursSpecification,OpeningHoursSpecification
+SkiResort.photo,"['ImageObject', 'Photograph']"
+SkiResort.publicAccess,Boolean
+SkiResort.review,Review
+SkiResort.slogan,Text
+SkiResort.smokingAllowed,Boolean
+SkiResort.specialOpeningHoursSpecification,OpeningHoursSpecification
+SkiResort.telephone,Text
+SkiResort.tourBookingPage,URL
+SkiResort.additionalType,URL
+SkiResort.alternateName,Text
+SkiResort.description,Text
+SkiResort.disambiguatingDescription,Text
+SkiResort.identifier,"['PropertyValue', 'Text', 'URL']"
+SkiResort.image,"['ImageObject', 'URL']"
+SkiResort.mainEntityOfPage,"['CreativeWork', 'URL']"
+SkiResort.name,Text
+SkiResort.potentialAction,Action
+SkiResort.sameAs,URL
+SkiResort.subjectOf,"['CreativeWork', 'Event']"
+SkiResort.url,URL

@@ -1,0 +1,20 @@
+property,expected_types
+MonetaryAmountDistribution.currency,Text
+MonetaryAmountDistribution.duration,Duration
+MonetaryAmountDistribution.median,Number
+MonetaryAmountDistribution.percentile10,Number
+MonetaryAmountDistribution.percentile25,Number
+MonetaryAmountDistribution.percentile75,Number
+MonetaryAmountDistribution.percentile90,Number
+MonetaryAmountDistribution.additionalType,URL
+MonetaryAmountDistribution.alternateName,Text
+MonetaryAmountDistribution.description,Text
+MonetaryAmountDistribution.disambiguatingDescription,Text
+MonetaryAmountDistribution.identifier,"['PropertyValue', 'Text', 'URL']"
+MonetaryAmountDistribution.image,"['ImageObject', 'URL']"
+MonetaryAmountDistribution.mainEntityOfPage,"['CreativeWork', 'URL']"
+MonetaryAmountDistribution.name,Text
+MonetaryAmountDistribution.potentialAction,Action
+MonetaryAmountDistribution.sameAs,URL
+MonetaryAmountDistribution.subjectOf,"['CreativeWork', 'Event']"
+MonetaryAmountDistribution.url,URL

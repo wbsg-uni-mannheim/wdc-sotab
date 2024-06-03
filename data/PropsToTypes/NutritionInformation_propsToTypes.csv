@@ -1,0 +1,25 @@
+property,expected_types
+NutritionInformation.calories,Energy
+NutritionInformation.carbohydrateContent,Mass
+NutritionInformation.cholesterolContent,Mass
+NutritionInformation.fatContent,Mass
+NutritionInformation.fiberContent,Mass
+NutritionInformation.proteinContent,Mass
+NutritionInformation.saturatedFatContent,Mass
+NutritionInformation.servingSize,Text
+NutritionInformation.sodiumContent,Mass
+NutritionInformation.sugarContent,Mass
+NutritionInformation.transFatContent,Mass
+NutritionInformation.unsaturatedFatContent,Mass
+NutritionInformation.additionalType,URL
+NutritionInformation.alternateName,Text
+NutritionInformation.description,Text
+NutritionInformation.disambiguatingDescription,Text
+NutritionInformation.identifier,"['PropertyValue', 'Text', 'URL']"
+NutritionInformation.image,"['ImageObject', 'URL']"
+NutritionInformation.mainEntityOfPage,"['CreativeWork', 'URL']"
+NutritionInformation.name,Text
+NutritionInformation.potentialAction,Action
+NutritionInformation.sameAs,URL
+NutritionInformation.subjectOf,"['CreativeWork', 'Event']"
+NutritionInformation.url,URL

@@ -1,0 +1,127 @@
+property,expected_types
+HowToSection.about,Thing
+HowToSection.abstract,Text
+HowToSection.accessMode,Text
+HowToSection.accessModeSufficient,ItemList
+HowToSection.accessibilityAPI,Text
+HowToSection.accessibilityControl,Text
+HowToSection.accessibilityFeature,Text
+HowToSection.accessibilityHazard,Text
+HowToSection.accessibilitySummary,Text
+HowToSection.accountablePerson,Person
+HowToSection.acquireLicensePage,"['CreativeWork', 'URL']"
+HowToSection.aggregateRating,AggregateRating
+HowToSection.alternativeHeadline,Text
+HowToSection.archivedAt,"['URL', 'WebPage']"
+HowToSection.assesses,"['DefinedTerm', 'Text']"
+HowToSection.associatedMedia,MediaObject
+HowToSection.audience,Audience
+HowToSection.audio,"['AudioObject', 'Clip', 'MusicRecording']"
+HowToSection.author,"['Organization', 'Person']"
+HowToSection.award,Text
+HowToSection.character,Person
+HowToSection.citation,"['CreativeWork', 'Text']"
+HowToSection.comment,Comment
+HowToSection.commentCount,Integer
+HowToSection.conditionsOfAccess,Text
+HowToSection.contentLocation,Place
+HowToSection.contentRating,"['Rating', 'Text']"
+HowToSection.contentReferenceTime,DateTime
+HowToSection.contributor,"['Organization', 'Person']"
+HowToSection.copyrightHolder,"['Organization', 'Person']"
+HowToSection.copyrightNotice,Text
+HowToSection.copyrightYear,Number
+HowToSection.correction,"['CorrectionComment', 'Text', 'URL']"
+HowToSection.countryOfOrigin,Country
+HowToSection.creativeWorkStatus,"['DefinedTerm', 'Text']"
+HowToSection.creator,"['Organization', 'Person']"
+HowToSection.creditText,Text
+HowToSection.dateCreated,"['Date', 'DateTime']"
+HowToSection.dateModified,"['Date', 'DateTime']"
+HowToSection.datePublished,"['Date', 'DateTime']"
+HowToSection.discussionUrl,URL
+HowToSection.editEIDR,"['Text', 'URL']"
+HowToSection.editor,Person
+HowToSection.educationalAlignment,AlignmentObject
+HowToSection.educationalLevel,"['DefinedTerm', 'Text', 'URL']"
+HowToSection.educationalUse,"['DefinedTerm', 'Text']"
+HowToSection.encoding,MediaObject
+HowToSection.encodingFormat,"['Text', 'URL']"
+HowToSection.exampleOfWork,CreativeWork
+HowToSection.expires,Date
+HowToSection.funder,"['Organization', 'Person']"
+HowToSection.funding,Grant
+HowToSection.genre,"['Text', 'URL']"
+HowToSection.hasPart,CreativeWork
+HowToSection.headline,Text
+HowToSection.inLanguage,"['Language', 'Text']"
+HowToSection.interactionStatistic,InteractionCounter
+HowToSection.interactivityType,Text
+HowToSection.interpretedAsClaim,Claim
+HowToSection.isAccessibleForFree,Boolean
+HowToSection.isBasedOn,"['CreativeWork', 'Product', 'URL']"
+HowToSection.isFamilyFriendly,Boolean
+HowToSection.isPartOf,"['CreativeWork', 'URL']"
+HowToSection.keywords,"['DefinedTerm', 'Text', 'URL']"
+HowToSection.learningResourceType,"['DefinedTerm', 'Text']"
+HowToSection.license,"['CreativeWork', 'URL']"
+HowToSection.locationCreated,Place
+HowToSection.mainEntity,Thing
+HowToSection.maintainer,"['Organization', 'Person']"
+HowToSection.material,"['Product', 'Text', 'URL']"
+HowToSection.materialExtent,"['QuantitativeValue', 'Text']"
+HowToSection.mentions,Thing
+HowToSection.offers,"['Demand', 'Offer']"
+HowToSection.pattern,"['DefinedTerm', 'Text']"
+HowToSection.position,"['Integer', 'Text']"
+HowToSection.producer,"['Organization', 'Person']"
+HowToSection.provider,"['Organization', 'Person']"
+HowToSection.publication,PublicationEvent
+HowToSection.publisher,"['Organization', 'Person']"
+HowToSection.publisherImprint,Organization
+HowToSection.publishingPrinciples,"['CreativeWork', 'URL']"
+HowToSection.recordedAt,Event
+HowToSection.releasedEvent,PublicationEvent
+HowToSection.review,Review
+HowToSection.schemaVersion,"['Text', 'URL']"
+HowToSection.sdDatePublished,Date
+HowToSection.sdLicense,"['CreativeWork', 'URL']"
+HowToSection.sdPublisher,"['Organization', 'Person']"
+HowToSection.size,"['DefinedTerm', 'QuantitativeValue', 'SizeSpecification', 'Text']"
+HowToSection.sourceOrganization,Organization
+HowToSection.spatial,Place
+HowToSection.spatialCoverage,Place
+HowToSection.sponsor,"['Organization', 'Person']"
+HowToSection.teaches,"['DefinedTerm', 'Text']"
+HowToSection.temporal,"['DateTime', 'Text']"
+HowToSection.temporalCoverage,"['DateTime', 'Text', 'URL']"
+HowToSection.text,Text
+HowToSection.thumbnailUrl,URL
+HowToSection.timeRequired,Duration
+HowToSection.translationOfWork,CreativeWork
+HowToSection.translator,"['Organization', 'Person']"
+HowToSection.typicalAgeRange,Text
+HowToSection.usageInfo,"['CreativeWork', 'URL']"
+HowToSection.version,"['Number', 'Text']"
+HowToSection.video,"['Clip', 'VideoObject']"
+HowToSection.workExample,CreativeWork
+HowToSection.workTranslation,CreativeWork
+HowToSection.itemListElement,"['ListItem', 'Text', 'Thing']"
+HowToSection.itemListOrder,"['ItemListOrderType', 'Text']"
+HowToSection.numberOfItems,Integer
+HowToSection.item,Thing
+HowToSection.nextItem,ListItem
+HowToSection.position,"['Integer', 'Text']"
+HowToSection.previousItem,ListItem
+HowToSection.additionalType,URL
+HowToSection.alternateName,Text
+HowToSection.description,Text
+HowToSection.disambiguatingDescription,Text
+HowToSection.identifier,"['PropertyValue', 'Text', 'URL']"
+HowToSection.image,"['ImageObject', 'URL']"
+HowToSection.mainEntityOfPage,"['CreativeWork', 'URL']"
+HowToSection.name,Text
+HowToSection.potentialAction,Action
+HowToSection.sameAs,URL
+HowToSection.subjectOf,"['CreativeWork', 'Event']"
+HowToSection.url,URL

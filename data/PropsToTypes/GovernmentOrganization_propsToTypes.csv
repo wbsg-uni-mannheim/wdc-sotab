@@ -1,0 +1,68 @@
+property,expected_types
+GovernmentOrganization.actionableFeedbackPolicy,"['CreativeWork', 'URL']"
+GovernmentOrganization.address,"['PostalAddress', 'Text']"
+GovernmentOrganization.aggregateRating,AggregateRating
+GovernmentOrganization.alumni,Person
+GovernmentOrganization.areaServed,"['AdministrativeArea', 'GeoShape', 'Place', 'Text']"
+GovernmentOrganization.award,Text
+GovernmentOrganization.brand,"['Brand', 'Organization']"
+GovernmentOrganization.contactPoint,ContactPoint
+GovernmentOrganization.correctionsPolicy,"['CreativeWork', 'URL']"
+GovernmentOrganization.department,Organization
+GovernmentOrganization.dissolutionDate,Date
+GovernmentOrganization.diversityPolicy,"['CreativeWork', 'URL']"
+GovernmentOrganization.diversityStaffingReport,"['Article', 'URL']"
+GovernmentOrganization.duns,Text
+GovernmentOrganization.email,Text
+GovernmentOrganization.employee,Person
+GovernmentOrganization.ethicsPolicy,"['CreativeWork', 'URL']"
+GovernmentOrganization.event,Event
+GovernmentOrganization.faxNumber,Text
+GovernmentOrganization.founder,Person
+GovernmentOrganization.foundingDate,Date
+GovernmentOrganization.foundingLocation,Place
+GovernmentOrganization.funder,"['Organization', 'Person']"
+GovernmentOrganization.globalLocationNumber,Text
+GovernmentOrganization.hasCredential,EducationalOccupationalCredential
+GovernmentOrganization.hasMerchantReturnPolicy,MerchantReturnPolicy
+GovernmentOrganization.hasOfferCatalog,OfferCatalog
+GovernmentOrganization.hasPOS,Place
+GovernmentOrganization.interactionStatistic,InteractionCounter
+GovernmentOrganization.isicV4,Text
+GovernmentOrganization.knowsAbout,"['Text', 'Thing', 'URL']"
+GovernmentOrganization.knowsLanguage,"['Language', 'Text']"
+GovernmentOrganization.legalName,Text
+GovernmentOrganization.leiCode,Text
+GovernmentOrganization.location,"['Place', 'PostalAddress', 'Text', 'VirtualLocation']"
+GovernmentOrganization.logo,"['ImageObject', 'URL']"
+GovernmentOrganization.makesOffer,Offer
+GovernmentOrganization.member,"['Organization', 'Person']"
+GovernmentOrganization.memberOf,"['Organization', 'ProgramMembership']"
+GovernmentOrganization.naics,Text
+GovernmentOrganization.nonprofitStatus,NonprofitType
+GovernmentOrganization.numberOfEmployees,QuantitativeValue
+GovernmentOrganization.ownershipFundingInfo,"['AboutPage', 'CreativeWork', 'Text', 'URL']"
+GovernmentOrganization.owns,"['OwnershipInfo', 'Product']"
+GovernmentOrganization.parentOrganization,Organization
+GovernmentOrganization.publishingPrinciples,"['CreativeWork', 'URL']"
+GovernmentOrganization.review,Review
+GovernmentOrganization.seeks,Demand
+GovernmentOrganization.slogan,Text
+GovernmentOrganization.sponsor,"['Organization', 'Person']"
+GovernmentOrganization.subOrganization,Organization
+GovernmentOrganization.taxID,Text
+GovernmentOrganization.telephone,Text
+GovernmentOrganization.unnamedSourcesPolicy,"['CreativeWork', 'URL']"
+GovernmentOrganization.vatID,Text
+GovernmentOrganization.additionalType,URL
+GovernmentOrganization.alternateName,Text
+GovernmentOrganization.description,Text
+GovernmentOrganization.disambiguatingDescription,Text
+GovernmentOrganization.identifier,"['PropertyValue', 'Text', 'URL']"
+GovernmentOrganization.image,"['ImageObject', 'URL']"
+GovernmentOrganization.mainEntityOfPage,"['CreativeWork', 'URL']"
+GovernmentOrganization.name,Text
+GovernmentOrganization.potentialAction,Action
+GovernmentOrganization.sameAs,URL
+GovernmentOrganization.subjectOf,"['CreativeWork', 'Event']"
+GovernmentOrganization.url,URL

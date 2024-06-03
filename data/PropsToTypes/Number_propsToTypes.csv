@@ -1,0 +1,92 @@
+property,expected_types
+Number.additionalNumberOfGuests,RsvpAction
+Number.amount,"['DatedMoneySpecification', 'InvestmentOrDeposit', 'LoanOrCredit', 'MonetaryGrant', 'MoneyTransfer']"
+Number.amountOfThisGood,TypeAndQuantityNode
+Number.annualPercentageRate,FinancialProduct
+Number.baseSalary,"['EmployeeRole', 'JobPosting']"
+Number.bestRating,Rating
+Number.billingDuration,UnitPriceSpecification
+Number.billingIncrement,UnitPriceSpecification
+Number.billingStart,UnitPriceSpecification
+Number.broadcastFrequencyValue,BroadcastFrequencySpecification
+Number.cashBack,PaymentCard
+Number.childMaxAge,ParentAudience
+Number.childMinAge,ParentAudience
+Number.copyrightYear,CreativeWork
+Number.costPerUnit,DrugCost
+Number.cvdNumBeds,CDCPMDRecord
+Number.cvdNumBedsOcc,CDCPMDRecord
+Number.cvdNumC19Died,CDCPMDRecord
+Number.cvdNumC19HOPats,CDCPMDRecord
+Number.cvdNumC19HospPats,CDCPMDRecord
+Number.cvdNumC19MechVentPats,CDCPMDRecord
+Number.cvdNumC19OFMechVentPats,CDCPMDRecord
+Number.cvdNumC19OverflowPats,CDCPMDRecord
+Number.cvdNumICUBeds,CDCPMDRecord
+Number.cvdNumICUBedsOcc,CDCPMDRecord
+Number.cvdNumTotBeds,CDCPMDRecord
+Number.cvdNumVent,CDCPMDRecord
+Number.cvdNumVentUse,CDCPMDRecord
+Number.discount,Order
+Number.doseValue,DoseSchedule
+Number.downPayment,RepaymentSpecification
+Number.elevation,"['GeoCoordinates', 'GeoShape']"
+Number.emissionsCO2,Vehicle
+Number.endOffset,Clip
+Number.estimatedSalary,"['JobPosting', 'Occupation']"
+Number.exchangeRateSpread,ExchangeRateSpecification
+Number.geoRadius,GeoCircle
+Number.healthPlanCoinsuranceRate,HealthPlanCostSharingSpecification
+Number.highPrice,AggregateOffer
+Number.interestRate,FinancialProduct
+Number.latitude,"['GeoCoordinates', 'Place']"
+Number.loanPaymentFrequency,RepaymentSpecification
+Number.longitude,"['GeoCoordinates', 'Place']"
+Number.lowPrice,AggregateOffer
+Number.maxPrice,PriceSpecification
+Number.maxValue,"['MonetaryAmount', 'PropertyValue', 'PropertyValueSpecification', 'QuantitativeValue']"
+Number.median,QuantitativeValueDistribution
+Number.membershipPointsEarned,ProgramMembership
+Number.minPrice,PriceSpecification
+Number.minValue,"['MonetaryAmount', 'PropertyValue', 'PropertyValueSpecification', 'QuantitativeValue']"
+Number.monthlyMinimumRepaymentAmount,PaymentCard
+Number.monthsOfExperience,OccupationalExperienceRequirements
+Number.numberOfAirbags,Vehicle
+Number.numberOfAxles,Vehicle
+Number.numberOfBedrooms,"['Accommodation', 'ApartmentComplex', 'FloorPlan']"
+Number.numberOfBeds,BedDetails
+Number.numberOfDoors,Vehicle
+Number.numberOfForwardGears,Vehicle
+Number.numberOfFullBathrooms,"['Accommodation', 'FloorPlan']"
+Number.numberOfLoanPayments,RepaymentSpecification
+Number.numberOfPartialBathrooms,"['Accommodation', 'FloorPlan']"
+Number.numberOfPreviousOwners,Vehicle
+Number.numberOfRooms,"['Accommodation', 'Apartment', 'FloorPlan', 'House', 'LodgingBusiness', 'SingleFamilyResidence', 'Suite']"
+Number.numberedPosition,OrganizationRole
+Number.orderQuantity,OrderItem
+Number.percentile10,QuantitativeValueDistribution
+Number.percentile25,QuantitativeValueDistribution
+Number.percentile75,QuantitativeValueDistribution
+Number.percentile90,QuantitativeValueDistribution
+Number.price,"['Offer', 'PriceSpecification', 'TradeAction']"
+Number.ratingValue,Rating
+Number.repetitions,ExercisePlan
+Number.requiredQuantity,HowToItem
+Number.restockingFee,MerchantReturnPolicy
+Number.screenCount,MovieTheater
+Number.seatingCapacity,Vehicle
+Number.stageAsNumber,MedicalConditionStage
+Number.startOffset,"['Clip', 'SeekToAction']"
+Number.stepValue,PropertyValueSpecification
+Number.strengthValue,DrugStrength
+Number.suggestedMaxAge,PeopleAudience
+Number.suggestedMinAge,PeopleAudience
+Number.termsPerYear,EducationalOccupationalProgram
+Number.totalPrice,"['Reservation', 'Ticket']"
+Number.value,"['MonetaryAmount', 'PropertyValue', 'QuantitativeValue']"
+Number.valueMaxLength,PropertyValueSpecification
+Number.valueMinLength,PropertyValueSpecification
+Number.vehicleSeatingCapacity,Vehicle
+Number.version,CreativeWork
+Number.worstRating,Rating
+Number.yearBuilt,Accommodation

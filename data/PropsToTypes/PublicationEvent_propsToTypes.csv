@@ -1,0 +1,53 @@
+property,expected_types
+PublicationEvent.publishedBy,"['Organization', 'Person']"
+PublicationEvent.publishedOn,BroadcastService
+PublicationEvent.about,Thing
+PublicationEvent.actor,Person
+PublicationEvent.aggregateRating,AggregateRating
+PublicationEvent.attendee,"['Organization', 'Person']"
+PublicationEvent.audience,Audience
+PublicationEvent.composer,"['Organization', 'Person']"
+PublicationEvent.contributor,"['Organization', 'Person']"
+PublicationEvent.director,Person
+PublicationEvent.doorTime,"['DateTime', 'Time']"
+PublicationEvent.duration,Duration
+PublicationEvent.endDate,"['Date', 'DateTime']"
+PublicationEvent.eventAttendanceMode,EventAttendanceModeEnumeration
+PublicationEvent.eventSchedule,Schedule
+PublicationEvent.eventStatus,EventStatusType
+PublicationEvent.funder,"['Organization', 'Person']"
+PublicationEvent.funding,Grant
+PublicationEvent.inLanguage,"['Language', 'Text']"
+PublicationEvent.isAccessibleForFree,Boolean
+PublicationEvent.keywords,"['DefinedTerm', 'Text', 'URL']"
+PublicationEvent.location,"['Place', 'PostalAddress', 'Text', 'VirtualLocation']"
+PublicationEvent.maximumAttendeeCapacity,Integer
+PublicationEvent.maximumPhysicalAttendeeCapacity,Integer
+PublicationEvent.maximumVirtualAttendeeCapacity,Integer
+PublicationEvent.offers,"['Demand', 'Offer']"
+PublicationEvent.organizer,"['Organization', 'Person']"
+PublicationEvent.performer,"['Organization', 'Person']"
+PublicationEvent.previousStartDate,Date
+PublicationEvent.recordedIn,CreativeWork
+PublicationEvent.remainingAttendeeCapacity,Integer
+PublicationEvent.review,Review
+PublicationEvent.sponsor,"['Organization', 'Person']"
+PublicationEvent.startDate,"['Date', 'DateTime']"
+PublicationEvent.subEvent,Event
+PublicationEvent.superEvent,Event
+PublicationEvent.translator,"['Organization', 'Person']"
+PublicationEvent.typicalAgeRange,Text
+PublicationEvent.workFeatured,CreativeWork
+PublicationEvent.workPerformed,CreativeWork
+PublicationEvent.additionalType,URL
+PublicationEvent.alternateName,Text
+PublicationEvent.description,Text
+PublicationEvent.disambiguatingDescription,Text
+PublicationEvent.identifier,"['PropertyValue', 'Text', 'URL']"
+PublicationEvent.image,"['ImageObject', 'URL']"
+PublicationEvent.mainEntityOfPage,"['CreativeWork', 'URL']"
+PublicationEvent.name,Text
+PublicationEvent.potentialAction,Action
+PublicationEvent.sameAs,URL
+PublicationEvent.subjectOf,"['CreativeWork', 'Event']"
+PublicationEvent.url,URL

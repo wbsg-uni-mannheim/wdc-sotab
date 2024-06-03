@@ -1,0 +1,70 @@
+property,expected_types
+Person.additionalName,Text
+Person.address,"['PostalAddress', 'Text']"
+Person.affiliation,Organization
+Person.alumniOf,"['EducationalOrganization', 'Organization']"
+Person.award,Text
+Person.birthDate,Date
+Person.birthPlace,Place
+Person.brand,"['Brand', 'Organization']"
+Person.callSign,Text
+Person.children,Person
+Person.colleague,"['Person', 'URL']"
+Person.contactPoint,ContactPoint
+Person.deathDate,Date
+Person.deathPlace,Place
+Person.duns,Text
+Person.email,Text
+Person.familyName,Text
+Person.faxNumber,Text
+Person.follows,Person
+Person.funder,"['Organization', 'Person']"
+Person.gender,"['GenderType', 'Text']"
+Person.givenName,Text
+Person.globalLocationNumber,Text
+Person.hasCredential,EducationalOccupationalCredential
+Person.hasOccupation,Occupation
+Person.hasOfferCatalog,OfferCatalog
+Person.hasPOS,Place
+Person.height,"['Distance', 'QuantitativeValue']"
+Person.homeLocation,"['ContactPoint', 'Place']"
+Person.honorificPrefix,Text
+Person.honorificSuffix,Text
+Person.interactionStatistic,InteractionCounter
+Person.isicV4,Text
+Person.jobTitle,"['DefinedTerm', 'Text']"
+Person.knows,Person
+Person.knowsAbout,"['Text', 'Thing', 'URL']"
+Person.knowsLanguage,"['Language', 'Text']"
+Person.makesOffer,Offer
+Person.memberOf,"['Organization', 'ProgramMembership']"
+Person.naics,Text
+Person.nationality,Country
+Person.netWorth,"['MonetaryAmount', 'PriceSpecification']"
+Person.owns,"['OwnershipInfo', 'Product']"
+Person.parent,Person
+Person.performerIn,Event
+Person.publishingPrinciples,"['CreativeWork', 'URL']"
+Person.relatedTo,Person
+Person.seeks,Demand
+Person.sibling,Person
+Person.sponsor,"['Organization', 'Person']"
+Person.spouse,Person
+Person.taxID,Text
+Person.telephone,Text
+Person.vatID,Text
+Person.weight,QuantitativeValue
+Person.workLocation,"['ContactPoint', 'Place']"
+Person.worksFor,Organization
+Person.additionalType,URL
+Person.alternateName,Text
+Person.description,Text
+Person.disambiguatingDescription,Text
+Person.identifier,"['PropertyValue', 'Text', 'URL']"
+Person.image,"['ImageObject', 'URL']"
+Person.mainEntityOfPage,"['CreativeWork', 'URL']"
+Person.name,Text
+Person.potentialAction,Action
+Person.sameAs,URL
+Person.subjectOf,"['CreativeWork', 'Event']"
+Person.url,URL

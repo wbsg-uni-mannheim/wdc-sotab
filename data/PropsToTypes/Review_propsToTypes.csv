@@ -1,0 +1,129 @@
+property,expected_types
+Review.associatedClaimReview,Review
+Review.associatedMediaReview,Review
+Review.associatedReview,Review
+Review.itemReviewed,Thing
+Review.negativeNotes,"['ItemList', 'ListItem', 'Text', 'WebContent']"
+Review.positiveNotes,"['ItemList', 'ListItem', 'Text', 'WebContent']"
+Review.reviewAspect,Text
+Review.reviewBody,Text
+Review.reviewRating,Rating
+Review.about,Thing
+Review.abstract,Text
+Review.accessMode,Text
+Review.accessModeSufficient,ItemList
+Review.accessibilityAPI,Text
+Review.accessibilityControl,Text
+Review.accessibilityFeature,Text
+Review.accessibilityHazard,Text
+Review.accessibilitySummary,Text
+Review.accountablePerson,Person
+Review.acquireLicensePage,"['CreativeWork', 'URL']"
+Review.aggregateRating,AggregateRating
+Review.alternativeHeadline,Text
+Review.archivedAt,"['URL', 'WebPage']"
+Review.assesses,"['DefinedTerm', 'Text']"
+Review.associatedMedia,MediaObject
+Review.audience,Audience
+Review.audio,"['AudioObject', 'Clip', 'MusicRecording']"
+Review.author,"['Organization', 'Person']"
+Review.award,Text
+Review.character,Person
+Review.citation,"['CreativeWork', 'Text']"
+Review.comment,Comment
+Review.commentCount,Integer
+Review.conditionsOfAccess,Text
+Review.contentLocation,Place
+Review.contentRating,"['Rating', 'Text']"
+Review.contentReferenceTime,DateTime
+Review.contributor,"['Organization', 'Person']"
+Review.copyrightHolder,"['Organization', 'Person']"
+Review.copyrightNotice,Text
+Review.copyrightYear,Number
+Review.correction,"['CorrectionComment', 'Text', 'URL']"
+Review.countryOfOrigin,Country
+Review.creativeWorkStatus,"['DefinedTerm', 'Text']"
+Review.creator,"['Organization', 'Person']"
+Review.creditText,Text
+Review.dateCreated,"['Date', 'DateTime']"
+Review.dateModified,"['Date', 'DateTime']"
+Review.datePublished,"['Date', 'DateTime']"
+Review.discussionUrl,URL
+Review.editEIDR,"['Text', 'URL']"
+Review.editor,Person
+Review.educationalAlignment,AlignmentObject
+Review.educationalLevel,"['DefinedTerm', 'Text', 'URL']"
+Review.educationalUse,"['DefinedTerm', 'Text']"
+Review.encoding,MediaObject
+Review.encodingFormat,"['Text', 'URL']"
+Review.exampleOfWork,CreativeWork
+Review.expires,Date
+Review.funder,"['Organization', 'Person']"
+Review.funding,Grant
+Review.genre,"['Text', 'URL']"
+Review.hasPart,CreativeWork
+Review.headline,Text
+Review.inLanguage,"['Language', 'Text']"
+Review.interactionStatistic,InteractionCounter
+Review.interactivityType,Text
+Review.interpretedAsClaim,Claim
+Review.isAccessibleForFree,Boolean
+Review.isBasedOn,"['CreativeWork', 'Product', 'URL']"
+Review.isFamilyFriendly,Boolean
+Review.isPartOf,"['CreativeWork', 'URL']"
+Review.keywords,"['DefinedTerm', 'Text', 'URL']"
+Review.learningResourceType,"['DefinedTerm', 'Text']"
+Review.license,"['CreativeWork', 'URL']"
+Review.locationCreated,Place
+Review.mainEntity,Thing
+Review.maintainer,"['Organization', 'Person']"
+Review.material,"['Product', 'Text', 'URL']"
+Review.materialExtent,"['QuantitativeValue', 'Text']"
+Review.mentions,Thing
+Review.offers,"['Demand', 'Offer']"
+Review.pattern,"['DefinedTerm', 'Text']"
+Review.position,"['Integer', 'Text']"
+Review.producer,"['Organization', 'Person']"
+Review.provider,"['Organization', 'Person']"
+Review.publication,PublicationEvent
+Review.publisher,"['Organization', 'Person']"
+Review.publisherImprint,Organization
+Review.publishingPrinciples,"['CreativeWork', 'URL']"
+Review.recordedAt,Event
+Review.releasedEvent,PublicationEvent
+Review.review,Review
+Review.schemaVersion,"['Text', 'URL']"
+Review.sdDatePublished,Date
+Review.sdLicense,"['CreativeWork', 'URL']"
+Review.sdPublisher,"['Organization', 'Person']"
+Review.size,"['DefinedTerm', 'QuantitativeValue', 'SizeSpecification', 'Text']"
+Review.sourceOrganization,Organization
+Review.spatial,Place
+Review.spatialCoverage,Place
+Review.sponsor,"['Organization', 'Person']"
+Review.teaches,"['DefinedTerm', 'Text']"
+Review.temporal,"['DateTime', 'Text']"
+Review.temporalCoverage,"['DateTime', 'Text', 'URL']"
+Review.text,Text
+Review.thumbnailUrl,URL
+Review.timeRequired,Duration
+Review.translationOfWork,CreativeWork
+Review.translator,"['Organization', 'Person']"
+Review.typicalAgeRange,Text
+Review.usageInfo,"['CreativeWork', 'URL']"
+Review.version,"['Number', 'Text']"
+Review.video,"['Clip', 'VideoObject']"
+Review.workExample,CreativeWork
+Review.workTranslation,CreativeWork
+Review.additionalType,URL
+Review.alternateName,Text
+Review.description,Text
+Review.disambiguatingDescription,Text
+Review.identifier,"['PropertyValue', 'Text', 'URL']"
+Review.image,"['ImageObject', 'URL']"
+Review.mainEntityOfPage,"['CreativeWork', 'URL']"
+Review.name,Text
+Review.potentialAction,Action
+Review.sameAs,URL
+Review.subjectOf,"['CreativeWork', 'Event']"
+Review.url,URL

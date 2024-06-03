@@ -1,0 +1,51 @@
+property,expected_types
+RiverBodyOfWater.additionalProperty,PropertyValue
+RiverBodyOfWater.address,"['PostalAddress', 'Text']"
+RiverBodyOfWater.aggregateRating,AggregateRating
+RiverBodyOfWater.amenityFeature,LocationFeatureSpecification
+RiverBodyOfWater.branchCode,Text
+RiverBodyOfWater.containedInPlace,Place
+RiverBodyOfWater.containsPlace,Place
+RiverBodyOfWater.event,Event
+RiverBodyOfWater.faxNumber,Text
+RiverBodyOfWater.geo,"['GeoCoordinates', 'GeoShape']"
+RiverBodyOfWater.geoContains,"['GeospatialGeometry', 'Place']"
+RiverBodyOfWater.geoCoveredBy,"['GeospatialGeometry', 'Place']"
+RiverBodyOfWater.geoCovers,"['GeospatialGeometry', 'Place']"
+RiverBodyOfWater.geoCrosses,"['GeospatialGeometry', 'Place']"
+RiverBodyOfWater.geoDisjoint,"['GeospatialGeometry', 'Place']"
+RiverBodyOfWater.geoEquals,"['GeospatialGeometry', 'Place']"
+RiverBodyOfWater.geoIntersects,"['GeospatialGeometry', 'Place']"
+RiverBodyOfWater.geoOverlaps,"['GeospatialGeometry', 'Place']"
+RiverBodyOfWater.geoTouches,"['GeospatialGeometry', 'Place']"
+RiverBodyOfWater.geoWithin,"['GeospatialGeometry', 'Place']"
+RiverBodyOfWater.globalLocationNumber,Text
+RiverBodyOfWater.hasDriveThroughService,Boolean
+RiverBodyOfWater.hasMap,"['Map', 'URL']"
+RiverBodyOfWater.isAccessibleForFree,Boolean
+RiverBodyOfWater.isicV4,Text
+RiverBodyOfWater.latitude,"['Number', 'Text']"
+RiverBodyOfWater.logo,"['ImageObject', 'URL']"
+RiverBodyOfWater.longitude,"['Number', 'Text']"
+RiverBodyOfWater.maximumAttendeeCapacity,Integer
+RiverBodyOfWater.openingHoursSpecification,OpeningHoursSpecification
+RiverBodyOfWater.photo,"['ImageObject', 'Photograph']"
+RiverBodyOfWater.publicAccess,Boolean
+RiverBodyOfWater.review,Review
+RiverBodyOfWater.slogan,Text
+RiverBodyOfWater.smokingAllowed,Boolean
+RiverBodyOfWater.specialOpeningHoursSpecification,OpeningHoursSpecification
+RiverBodyOfWater.telephone,Text
+RiverBodyOfWater.tourBookingPage,URL
+RiverBodyOfWater.additionalType,URL
+RiverBodyOfWater.alternateName,Text
+RiverBodyOfWater.description,Text
+RiverBodyOfWater.disambiguatingDescription,Text
+RiverBodyOfWater.identifier,"['PropertyValue', 'Text', 'URL']"
+RiverBodyOfWater.image,"['ImageObject', 'URL']"
+RiverBodyOfWater.mainEntityOfPage,"['CreativeWork', 'URL']"
+RiverBodyOfWater.name,Text
+RiverBodyOfWater.potentialAction,Action
+RiverBodyOfWater.sameAs,URL
+RiverBodyOfWater.subjectOf,"['CreativeWork', 'Event']"
+RiverBodyOfWater.url,URL

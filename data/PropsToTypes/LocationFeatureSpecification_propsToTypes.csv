@@ -1,0 +1,24 @@
+property,expected_types
+LocationFeatureSpecification.hoursAvailable,OpeningHoursSpecification
+LocationFeatureSpecification.validFrom,"['Date', 'DateTime']"
+LocationFeatureSpecification.validThrough,"['Date', 'DateTime']"
+LocationFeatureSpecification.maxValue,Number
+LocationFeatureSpecification.measurementTechnique,"['Text', 'URL']"
+LocationFeatureSpecification.minValue,Number
+LocationFeatureSpecification.propertyID,"['Text', 'URL']"
+LocationFeatureSpecification.unitCode,"['Text', 'URL']"
+LocationFeatureSpecification.unitText,Text
+LocationFeatureSpecification.value,"['Boolean', 'Number', 'StructuredValue', 'Text']"
+LocationFeatureSpecification.valueReference,"['DefinedTerm', 'Enumeration', 'MeasurementTypeEnumeration', 'PropertyValue', 'QualitativeValue', 'QuantitativeValue', 'StructuredValue', 'Text']"
+LocationFeatureSpecification.additionalType,URL
+LocationFeatureSpecification.alternateName,Text
+LocationFeatureSpecification.description,Text
+LocationFeatureSpecification.disambiguatingDescription,Text
+LocationFeatureSpecification.identifier,"['PropertyValue', 'Text', 'URL']"
+LocationFeatureSpecification.image,"['ImageObject', 'URL']"
+LocationFeatureSpecification.mainEntityOfPage,"['CreativeWork', 'URL']"
+LocationFeatureSpecification.name,Text
+LocationFeatureSpecification.potentialAction,Action
+LocationFeatureSpecification.sameAs,URL
+LocationFeatureSpecification.subjectOf,"['CreativeWork', 'Event']"
+LocationFeatureSpecification.url,URL

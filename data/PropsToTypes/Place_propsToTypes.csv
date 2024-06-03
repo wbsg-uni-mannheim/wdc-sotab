@@ -1,0 +1,51 @@
+property,expected_types
+Place.additionalProperty,PropertyValue
+Place.address,"['PostalAddress', 'Text']"
+Place.aggregateRating,AggregateRating
+Place.amenityFeature,LocationFeatureSpecification
+Place.branchCode,Text
+Place.containedInPlace,Place
+Place.containsPlace,Place
+Place.event,Event
+Place.faxNumber,Text
+Place.geo,"['GeoCoordinates', 'GeoShape']"
+Place.geoContains,"['GeospatialGeometry', 'Place']"
+Place.geoCoveredBy,"['GeospatialGeometry', 'Place']"
+Place.geoCovers,"['GeospatialGeometry', 'Place']"
+Place.geoCrosses,"['GeospatialGeometry', 'Place']"
+Place.geoDisjoint,"['GeospatialGeometry', 'Place']"
+Place.geoEquals,"['GeospatialGeometry', 'Place']"
+Place.geoIntersects,"['GeospatialGeometry', 'Place']"
+Place.geoOverlaps,"['GeospatialGeometry', 'Place']"
+Place.geoTouches,"['GeospatialGeometry', 'Place']"
+Place.geoWithin,"['GeospatialGeometry', 'Place']"
+Place.globalLocationNumber,Text
+Place.hasDriveThroughService,Boolean
+Place.hasMap,"['Map', 'URL']"
+Place.isAccessibleForFree,Boolean
+Place.isicV4,Text
+Place.latitude,"['Number', 'Text']"
+Place.logo,"['ImageObject', 'URL']"
+Place.longitude,"['Number', 'Text']"
+Place.maximumAttendeeCapacity,Integer
+Place.openingHoursSpecification,OpeningHoursSpecification
+Place.photo,"['ImageObject', 'Photograph']"
+Place.publicAccess,Boolean
+Place.review,Review
+Place.slogan,Text
+Place.smokingAllowed,Boolean
+Place.specialOpeningHoursSpecification,OpeningHoursSpecification
+Place.telephone,Text
+Place.tourBookingPage,URL
+Place.additionalType,URL
+Place.alternateName,Text
+Place.description,Text
+Place.disambiguatingDescription,Text
+Place.identifier,"['PropertyValue', 'Text', 'URL']"
+Place.image,"['ImageObject', 'URL']"
+Place.mainEntityOfPage,"['CreativeWork', 'URL']"
+Place.name,Text
+Place.potentialAction,Action
+Place.sameAs,URL
+Place.subjectOf,"['CreativeWork', 'Event']"
+Place.url,URL

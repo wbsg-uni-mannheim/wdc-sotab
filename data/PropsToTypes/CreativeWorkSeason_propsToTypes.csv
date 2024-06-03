@@ -1,0 +1,130 @@
+property,expected_types
+CreativeWorkSeason.actor,Person
+CreativeWorkSeason.director,Person
+CreativeWorkSeason.endDate,"['Date', 'DateTime']"
+CreativeWorkSeason.episode,Episode
+CreativeWorkSeason.numberOfEpisodes,Integer
+CreativeWorkSeason.partOfSeries,CreativeWorkSeries
+CreativeWorkSeason.productionCompany,Organization
+CreativeWorkSeason.seasonNumber,"['Integer', 'Text']"
+CreativeWorkSeason.startDate,"['Date', 'DateTime']"
+CreativeWorkSeason.trailer,VideoObject
+CreativeWorkSeason.about,Thing
+CreativeWorkSeason.abstract,Text
+CreativeWorkSeason.accessMode,Text
+CreativeWorkSeason.accessModeSufficient,ItemList
+CreativeWorkSeason.accessibilityAPI,Text
+CreativeWorkSeason.accessibilityControl,Text
+CreativeWorkSeason.accessibilityFeature,Text
+CreativeWorkSeason.accessibilityHazard,Text
+CreativeWorkSeason.accessibilitySummary,Text
+CreativeWorkSeason.accountablePerson,Person
+CreativeWorkSeason.acquireLicensePage,"['CreativeWork', 'URL']"
+CreativeWorkSeason.aggregateRating,AggregateRating
+CreativeWorkSeason.alternativeHeadline,Text
+CreativeWorkSeason.archivedAt,"['URL', 'WebPage']"
+CreativeWorkSeason.assesses,"['DefinedTerm', 'Text']"
+CreativeWorkSeason.associatedMedia,MediaObject
+CreativeWorkSeason.audience,Audience
+CreativeWorkSeason.audio,"['AudioObject', 'Clip', 'MusicRecording']"
+CreativeWorkSeason.author,"['Organization', 'Person']"
+CreativeWorkSeason.award,Text
+CreativeWorkSeason.character,Person
+CreativeWorkSeason.citation,"['CreativeWork', 'Text']"
+CreativeWorkSeason.comment,Comment
+CreativeWorkSeason.commentCount,Integer
+CreativeWorkSeason.conditionsOfAccess,Text
+CreativeWorkSeason.contentLocation,Place
+CreativeWorkSeason.contentRating,"['Rating', 'Text']"
+CreativeWorkSeason.contentReferenceTime,DateTime
+CreativeWorkSeason.contributor,"['Organization', 'Person']"
+CreativeWorkSeason.copyrightHolder,"['Organization', 'Person']"
+CreativeWorkSeason.copyrightNotice,Text
+CreativeWorkSeason.copyrightYear,Number
+CreativeWorkSeason.correction,"['CorrectionComment', 'Text', 'URL']"
+CreativeWorkSeason.countryOfOrigin,Country
+CreativeWorkSeason.creativeWorkStatus,"['DefinedTerm', 'Text']"
+CreativeWorkSeason.creator,"['Organization', 'Person']"
+CreativeWorkSeason.creditText,Text
+CreativeWorkSeason.dateCreated,"['Date', 'DateTime']"
+CreativeWorkSeason.dateModified,"['Date', 'DateTime']"
+CreativeWorkSeason.datePublished,"['Date', 'DateTime']"
+CreativeWorkSeason.discussionUrl,URL
+CreativeWorkSeason.editEIDR,"['Text', 'URL']"
+CreativeWorkSeason.editor,Person
+CreativeWorkSeason.educationalAlignment,AlignmentObject
+CreativeWorkSeason.educationalLevel,"['DefinedTerm', 'Text', 'URL']"
+CreativeWorkSeason.educationalUse,"['DefinedTerm', 'Text']"
+CreativeWorkSeason.encoding,MediaObject
+CreativeWorkSeason.encodingFormat,"['Text', 'URL']"
+CreativeWorkSeason.exampleOfWork,CreativeWork
+CreativeWorkSeason.expires,Date
+CreativeWorkSeason.funder,"['Organization', 'Person']"
+CreativeWorkSeason.funding,Grant
+CreativeWorkSeason.genre,"['Text', 'URL']"
+CreativeWorkSeason.hasPart,CreativeWork
+CreativeWorkSeason.headline,Text
+CreativeWorkSeason.inLanguage,"['Language', 'Text']"
+CreativeWorkSeason.interactionStatistic,InteractionCounter
+CreativeWorkSeason.interactivityType,Text
+CreativeWorkSeason.interpretedAsClaim,Claim
+CreativeWorkSeason.isAccessibleForFree,Boolean
+CreativeWorkSeason.isBasedOn,"['CreativeWork', 'Product', 'URL']"
+CreativeWorkSeason.isFamilyFriendly,Boolean
+CreativeWorkSeason.isPartOf,"['CreativeWork', 'URL']"
+CreativeWorkSeason.keywords,"['DefinedTerm', 'Text', 'URL']"
+CreativeWorkSeason.learningResourceType,"['DefinedTerm', 'Text']"
+CreativeWorkSeason.license,"['CreativeWork', 'URL']"
+CreativeWorkSeason.locationCreated,Place
+CreativeWorkSeason.mainEntity,Thing
+CreativeWorkSeason.maintainer,"['Organization', 'Person']"
+CreativeWorkSeason.material,"['Product', 'Text', 'URL']"
+CreativeWorkSeason.materialExtent,"['QuantitativeValue', 'Text']"
+CreativeWorkSeason.mentions,Thing
+CreativeWorkSeason.offers,"['Demand', 'Offer']"
+CreativeWorkSeason.pattern,"['DefinedTerm', 'Text']"
+CreativeWorkSeason.position,"['Integer', 'Text']"
+CreativeWorkSeason.producer,"['Organization', 'Person']"
+CreativeWorkSeason.provider,"['Organization', 'Person']"
+CreativeWorkSeason.publication,PublicationEvent
+CreativeWorkSeason.publisher,"['Organization', 'Person']"
+CreativeWorkSeason.publisherImprint,Organization
+CreativeWorkSeason.publishingPrinciples,"['CreativeWork', 'URL']"
+CreativeWorkSeason.recordedAt,Event
+CreativeWorkSeason.releasedEvent,PublicationEvent
+CreativeWorkSeason.review,Review
+CreativeWorkSeason.schemaVersion,"['Text', 'URL']"
+CreativeWorkSeason.sdDatePublished,Date
+CreativeWorkSeason.sdLicense,"['CreativeWork', 'URL']"
+CreativeWorkSeason.sdPublisher,"['Organization', 'Person']"
+CreativeWorkSeason.size,"['DefinedTerm', 'QuantitativeValue', 'SizeSpecification', 'Text']"
+CreativeWorkSeason.sourceOrganization,Organization
+CreativeWorkSeason.spatial,Place
+CreativeWorkSeason.spatialCoverage,Place
+CreativeWorkSeason.sponsor,"['Organization', 'Person']"
+CreativeWorkSeason.teaches,"['DefinedTerm', 'Text']"
+CreativeWorkSeason.temporal,"['DateTime', 'Text']"
+CreativeWorkSeason.temporalCoverage,"['DateTime', 'Text', 'URL']"
+CreativeWorkSeason.text,Text
+CreativeWorkSeason.thumbnailUrl,URL
+CreativeWorkSeason.timeRequired,Duration
+CreativeWorkSeason.translationOfWork,CreativeWork
+CreativeWorkSeason.translator,"['Organization', 'Person']"
+CreativeWorkSeason.typicalAgeRange,Text
+CreativeWorkSeason.usageInfo,"['CreativeWork', 'URL']"
+CreativeWorkSeason.version,"['Number', 'Text']"
+CreativeWorkSeason.video,"['Clip', 'VideoObject']"
+CreativeWorkSeason.workExample,CreativeWork
+CreativeWorkSeason.workTranslation,CreativeWork
+CreativeWorkSeason.additionalType,URL
+CreativeWorkSeason.alternateName,Text
+CreativeWorkSeason.description,Text
+CreativeWorkSeason.disambiguatingDescription,Text
+CreativeWorkSeason.identifier,"['PropertyValue', 'Text', 'URL']"
+CreativeWorkSeason.image,"['ImageObject', 'URL']"
+CreativeWorkSeason.mainEntityOfPage,"['CreativeWork', 'URL']"
+CreativeWorkSeason.name,Text
+CreativeWorkSeason.potentialAction,Action
+CreativeWorkSeason.sameAs,URL
+CreativeWorkSeason.subjectOf,"['CreativeWork', 'Event']"
+CreativeWorkSeason.url,URL

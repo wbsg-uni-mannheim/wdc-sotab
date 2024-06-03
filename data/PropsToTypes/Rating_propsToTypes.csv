@@ -1,0 +1,19 @@
+property,expected_types
+Rating.author,"['Organization', 'Person']"
+Rating.bestRating,"['Number', 'Text']"
+Rating.ratingExplanation,Text
+Rating.ratingValue,"['Number', 'Text']"
+Rating.reviewAspect,Text
+Rating.worstRating,"['Number', 'Text']"
+Rating.additionalType,URL
+Rating.alternateName,Text
+Rating.description,Text
+Rating.disambiguatingDescription,Text
+Rating.identifier,"['PropertyValue', 'Text', 'URL']"
+Rating.image,"['ImageObject', 'URL']"
+Rating.mainEntityOfPage,"['CreativeWork', 'URL']"
+Rating.name,Text
+Rating.potentialAction,Action
+Rating.sameAs,URL
+Rating.subjectOf,"['CreativeWork', 'Event']"
+Rating.url,URL

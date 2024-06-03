@@ -1,0 +1,120 @@
+property,expected_types
+Photograph.about,Thing
+Photograph.abstract,Text
+Photograph.accessMode,Text
+Photograph.accessModeSufficient,ItemList
+Photograph.accessibilityAPI,Text
+Photograph.accessibilityControl,Text
+Photograph.accessibilityFeature,Text
+Photograph.accessibilityHazard,Text
+Photograph.accessibilitySummary,Text
+Photograph.accountablePerson,Person
+Photograph.acquireLicensePage,"['CreativeWork', 'URL']"
+Photograph.aggregateRating,AggregateRating
+Photograph.alternativeHeadline,Text
+Photograph.archivedAt,"['URL', 'WebPage']"
+Photograph.assesses,"['DefinedTerm', 'Text']"
+Photograph.associatedMedia,MediaObject
+Photograph.audience,Audience
+Photograph.audio,"['AudioObject', 'Clip', 'MusicRecording']"
+Photograph.author,"['Organization', 'Person']"
+Photograph.award,Text
+Photograph.character,Person
+Photograph.citation,"['CreativeWork', 'Text']"
+Photograph.comment,Comment
+Photograph.commentCount,Integer
+Photograph.conditionsOfAccess,Text
+Photograph.contentLocation,Place
+Photograph.contentRating,"['Rating', 'Text']"
+Photograph.contentReferenceTime,DateTime
+Photograph.contributor,"['Organization', 'Person']"
+Photograph.copyrightHolder,"['Organization', 'Person']"
+Photograph.copyrightNotice,Text
+Photograph.copyrightYear,Number
+Photograph.correction,"['CorrectionComment', 'Text', 'URL']"
+Photograph.countryOfOrigin,Country
+Photograph.creativeWorkStatus,"['DefinedTerm', 'Text']"
+Photograph.creator,"['Organization', 'Person']"
+Photograph.creditText,Text
+Photograph.dateCreated,"['Date', 'DateTime']"
+Photograph.dateModified,"['Date', 'DateTime']"
+Photograph.datePublished,"['Date', 'DateTime']"
+Photograph.discussionUrl,URL
+Photograph.editEIDR,"['Text', 'URL']"
+Photograph.editor,Person
+Photograph.educationalAlignment,AlignmentObject
+Photograph.educationalLevel,"['DefinedTerm', 'Text', 'URL']"
+Photograph.educationalUse,"['DefinedTerm', 'Text']"
+Photograph.encoding,MediaObject
+Photograph.encodingFormat,"['Text', 'URL']"
+Photograph.exampleOfWork,CreativeWork
+Photograph.expires,Date
+Photograph.funder,"['Organization', 'Person']"
+Photograph.funding,Grant
+Photograph.genre,"['Text', 'URL']"
+Photograph.hasPart,CreativeWork
+Photograph.headline,Text
+Photograph.inLanguage,"['Language', 'Text']"
+Photograph.interactionStatistic,InteractionCounter
+Photograph.interactivityType,Text
+Photograph.interpretedAsClaim,Claim
+Photograph.isAccessibleForFree,Boolean
+Photograph.isBasedOn,"['CreativeWork', 'Product', 'URL']"
+Photograph.isFamilyFriendly,Boolean
+Photograph.isPartOf,"['CreativeWork', 'URL']"
+Photograph.keywords,"['DefinedTerm', 'Text', 'URL']"
+Photograph.learningResourceType,"['DefinedTerm', 'Text']"
+Photograph.license,"['CreativeWork', 'URL']"
+Photograph.locationCreated,Place
+Photograph.mainEntity,Thing
+Photograph.maintainer,"['Organization', 'Person']"
+Photograph.material,"['Product', 'Text', 'URL']"
+Photograph.materialExtent,"['QuantitativeValue', 'Text']"
+Photograph.mentions,Thing
+Photograph.offers,"['Demand', 'Offer']"
+Photograph.pattern,"['DefinedTerm', 'Text']"
+Photograph.position,"['Integer', 'Text']"
+Photograph.producer,"['Organization', 'Person']"
+Photograph.provider,"['Organization', 'Person']"
+Photograph.publication,PublicationEvent
+Photograph.publisher,"['Organization', 'Person']"
+Photograph.publisherImprint,Organization
+Photograph.publishingPrinciples,"['CreativeWork', 'URL']"
+Photograph.recordedAt,Event
+Photograph.releasedEvent,PublicationEvent
+Photograph.review,Review
+Photograph.schemaVersion,"['Text', 'URL']"
+Photograph.sdDatePublished,Date
+Photograph.sdLicense,"['CreativeWork', 'URL']"
+Photograph.sdPublisher,"['Organization', 'Person']"
+Photograph.size,"['DefinedTerm', 'QuantitativeValue', 'SizeSpecification', 'Text']"
+Photograph.sourceOrganization,Organization
+Photograph.spatial,Place
+Photograph.spatialCoverage,Place
+Photograph.sponsor,"['Organization', 'Person']"
+Photograph.teaches,"['DefinedTerm', 'Text']"
+Photograph.temporal,"['DateTime', 'Text']"
+Photograph.temporalCoverage,"['DateTime', 'Text', 'URL']"
+Photograph.text,Text
+Photograph.thumbnailUrl,URL
+Photograph.timeRequired,Duration
+Photograph.translationOfWork,CreativeWork
+Photograph.translator,"['Organization', 'Person']"
+Photograph.typicalAgeRange,Text
+Photograph.usageInfo,"['CreativeWork', 'URL']"
+Photograph.version,"['Number', 'Text']"
+Photograph.video,"['Clip', 'VideoObject']"
+Photograph.workExample,CreativeWork
+Photograph.workTranslation,CreativeWork
+Photograph.additionalType,URL
+Photograph.alternateName,Text
+Photograph.description,Text
+Photograph.disambiguatingDescription,Text
+Photograph.identifier,"['PropertyValue', 'Text', 'URL']"
+Photograph.image,"['ImageObject', 'URL']"
+Photograph.mainEntityOfPage,"['CreativeWork', 'URL']"
+Photograph.name,Text
+Photograph.potentialAction,Action
+Photograph.sameAs,URL
+Photograph.subjectOf,"['CreativeWork', 'Event']"
+Photograph.url,URL

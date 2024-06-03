@@ -1,0 +1,2 @@
+property,expected_types
+OfferItemCondition.itemCondition,"['Demand', 'MerchantReturnPolicy', 'Offer', 'Product']"

@@ -1,0 +1,51 @@
+property,expected_types
+Country.additionalProperty,PropertyValue
+Country.address,"['PostalAddress', 'Text']"
+Country.aggregateRating,AggregateRating
+Country.amenityFeature,LocationFeatureSpecification
+Country.branchCode,Text
+Country.containedInPlace,Place
+Country.containsPlace,Place
+Country.event,Event
+Country.faxNumber,Text
+Country.geo,"['GeoCoordinates', 'GeoShape']"
+Country.geoContains,"['GeospatialGeometry', 'Place']"
+Country.geoCoveredBy,"['GeospatialGeometry', 'Place']"
+Country.geoCovers,"['GeospatialGeometry', 'Place']"
+Country.geoCrosses,"['GeospatialGeometry', 'Place']"
+Country.geoDisjoint,"['GeospatialGeometry', 'Place']"
+Country.geoEquals,"['GeospatialGeometry', 'Place']"
+Country.geoIntersects,"['GeospatialGeometry', 'Place']"
+Country.geoOverlaps,"['GeospatialGeometry', 'Place']"
+Country.geoTouches,"['GeospatialGeometry', 'Place']"
+Country.geoWithin,"['GeospatialGeometry', 'Place']"
+Country.globalLocationNumber,Text
+Country.hasDriveThroughService,Boolean
+Country.hasMap,"['Map', 'URL']"
+Country.isAccessibleForFree,Boolean
+Country.isicV4,Text
+Country.latitude,"['Number', 'Text']"
+Country.logo,"['ImageObject', 'URL']"
+Country.longitude,"['Number', 'Text']"
+Country.maximumAttendeeCapacity,Integer
+Country.openingHoursSpecification,OpeningHoursSpecification
+Country.photo,"['ImageObject', 'Photograph']"
+Country.publicAccess,Boolean
+Country.review,Review
+Country.slogan,Text
+Country.smokingAllowed,Boolean
+Country.specialOpeningHoursSpecification,OpeningHoursSpecification
+Country.telephone,Text
+Country.tourBookingPage,URL
+Country.additionalType,URL
+Country.alternateName,Text
+Country.description,Text
+Country.disambiguatingDescription,Text
+Country.identifier,"['PropertyValue', 'Text', 'URL']"
+Country.image,"['ImageObject', 'URL']"
+Country.mainEntityOfPage,"['CreativeWork', 'URL']"
+Country.name,Text
+Country.potentialAction,Action
+Country.sameAs,URL
+Country.subjectOf,"['CreativeWork', 'Event']"
+Country.url,URL

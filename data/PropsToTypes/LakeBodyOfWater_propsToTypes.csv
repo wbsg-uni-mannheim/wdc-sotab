@@ -1,0 +1,51 @@
+property,expected_types
+LakeBodyOfWater.additionalProperty,PropertyValue
+LakeBodyOfWater.address,"['PostalAddress', 'Text']"
+LakeBodyOfWater.aggregateRating,AggregateRating
+LakeBodyOfWater.amenityFeature,LocationFeatureSpecification
+LakeBodyOfWater.branchCode,Text
+LakeBodyOfWater.containedInPlace,Place
+LakeBodyOfWater.containsPlace,Place
+LakeBodyOfWater.event,Event
+LakeBodyOfWater.faxNumber,Text
+LakeBodyOfWater.geo,"['GeoCoordinates', 'GeoShape']"
+LakeBodyOfWater.geoContains,"['GeospatialGeometry', 'Place']"
+LakeBodyOfWater.geoCoveredBy,"['GeospatialGeometry', 'Place']"
+LakeBodyOfWater.geoCovers,"['GeospatialGeometry', 'Place']"
+LakeBodyOfWater.geoCrosses,"['GeospatialGeometry', 'Place']"
+LakeBodyOfWater.geoDisjoint,"['GeospatialGeometry', 'Place']"
+LakeBodyOfWater.geoEquals,"['GeospatialGeometry', 'Place']"
+LakeBodyOfWater.geoIntersects,"['GeospatialGeometry', 'Place']"
+LakeBodyOfWater.geoOverlaps,"['GeospatialGeometry', 'Place']"
+LakeBodyOfWater.geoTouches,"['GeospatialGeometry', 'Place']"
+LakeBodyOfWater.geoWithin,"['GeospatialGeometry', 'Place']"
+LakeBodyOfWater.globalLocationNumber,Text
+LakeBodyOfWater.hasDriveThroughService,Boolean
+LakeBodyOfWater.hasMap,"['Map', 'URL']"
+LakeBodyOfWater.isAccessibleForFree,Boolean
+LakeBodyOfWater.isicV4,Text
+LakeBodyOfWater.latitude,"['Number', 'Text']"
+LakeBodyOfWater.logo,"['ImageObject', 'URL']"
+LakeBodyOfWater.longitude,"['Number', 'Text']"
+LakeBodyOfWater.maximumAttendeeCapacity,Integer
+LakeBodyOfWater.openingHoursSpecification,OpeningHoursSpecification
+LakeBodyOfWater.photo,"['ImageObject', 'Photograph']"
+LakeBodyOfWater.publicAccess,Boolean
+LakeBodyOfWater.review,Review
+LakeBodyOfWater.slogan,Text
+LakeBodyOfWater.smokingAllowed,Boolean
+LakeBodyOfWater.specialOpeningHoursSpecification,OpeningHoursSpecification
+LakeBodyOfWater.telephone,Text
+LakeBodyOfWater.tourBookingPage,URL
+LakeBodyOfWater.additionalType,URL
+LakeBodyOfWater.alternateName,Text
+LakeBodyOfWater.description,Text
+LakeBodyOfWater.disambiguatingDescription,Text
+LakeBodyOfWater.identifier,"['PropertyValue', 'Text', 'URL']"
+LakeBodyOfWater.image,"['ImageObject', 'URL']"
+LakeBodyOfWater.mainEntityOfPage,"['CreativeWork', 'URL']"
+LakeBodyOfWater.name,Text
+LakeBodyOfWater.potentialAction,Action
+LakeBodyOfWater.sameAs,URL
+LakeBodyOfWater.subjectOf,"['CreativeWork', 'Event']"
+LakeBodyOfWater.url,URL

@@ -1,0 +1,49 @@
+property,expected_types
+Event.about,Thing
+Event.actor,Person
+Event.aggregateRating,AggregateRating
+Event.attendee,"['Organization', 'Person']"
+Event.audience,Audience
+Event.composer,"['Organization', 'Person']"
+Event.contributor,"['Organization', 'Person']"
+Event.director,Person
+Event.doorTime,"['DateTime', 'Time']"
+Event.duration,Duration
+Event.endDate,"['Date', 'DateTime']"
+Event.eventAttendanceMode,EventAttendanceModeEnumeration
+Event.eventSchedule,Schedule
+Event.eventStatus,EventStatusType
+Event.funder,"['Organization', 'Person']"
+Event.inLanguage,"['Language', 'Text']"
+Event.isAccessibleForFree,Boolean
+Event.location,"['Place', 'PostalAddress', 'Text', 'VirtualLocation']"
+Event.maximumAttendeeCapacity,Integer
+Event.maximumPhysicalAttendeeCapacity,Integer
+Event.maximumVirtualAttendeeCapacity,Integer
+Event.offers,"['Demand', 'Offer']"
+Event.organizer,"['Organization', 'Person']"
+Event.performer,"['Organization', 'Person']"
+Event.previousStartDate,Date
+Event.recordedIn,CreativeWork
+Event.remainingAttendeeCapacity,Integer
+Event.review,Review
+Event.sponsor,"['Organization', 'Person']"
+Event.startDate,"['Date', 'DateTime']"
+Event.subEvent,Event
+Event.superEvent,Event
+Event.translator,"['Organization', 'Person']"
+Event.typicalAgeRange,Text
+Event.workFeatured,CreativeWork
+Event.workPerformed,CreativeWork
+Event.additionalType,URL
+Event.alternateName,Text
+Event.description,Text
+Event.disambiguatingDescription,Text
+Event.identifier,"['PropertyValue', 'Text', 'URL']"
+Event.image,"['ImageObject', 'URL']"
+Event.mainEntityOfPage,"['CreativeWork', 'URL']"
+Event.name,Text
+Event.potentialAction,Action
+Event.sameAs,URL
+Event.subjectOf,"['CreativeWork', 'Event']"
+Event.url,URL

@@ -1,0 +1,121 @@
+property,expected_types
+Map.mapType,MapCategoryType
+Map.about,Thing
+Map.abstract,Text
+Map.accessMode,Text
+Map.accessModeSufficient,ItemList
+Map.accessibilityAPI,Text
+Map.accessibilityControl,Text
+Map.accessibilityFeature,Text
+Map.accessibilityHazard,Text
+Map.accessibilitySummary,Text
+Map.accountablePerson,Person
+Map.acquireLicensePage,"['CreativeWork', 'URL']"
+Map.aggregateRating,AggregateRating
+Map.alternativeHeadline,Text
+Map.archivedAt,"['URL', 'WebPage']"
+Map.assesses,"['DefinedTerm', 'Text']"
+Map.associatedMedia,MediaObject
+Map.audience,Audience
+Map.audio,"['AudioObject', 'Clip', 'MusicRecording']"
+Map.author,"['Organization', 'Person']"
+Map.award,Text
+Map.character,Person
+Map.citation,"['CreativeWork', 'Text']"
+Map.comment,Comment
+Map.commentCount,Integer
+Map.conditionsOfAccess,Text
+Map.contentLocation,Place
+Map.contentRating,"['Rating', 'Text']"
+Map.contentReferenceTime,DateTime
+Map.contributor,"['Organization', 'Person']"
+Map.copyrightHolder,"['Organization', 'Person']"
+Map.copyrightNotice,Text
+Map.copyrightYear,Number
+Map.correction,"['CorrectionComment', 'Text', 'URL']"
+Map.countryOfOrigin,Country
+Map.creativeWorkStatus,"['DefinedTerm', 'Text']"
+Map.creator,"['Organization', 'Person']"
+Map.creditText,Text
+Map.dateCreated,"['Date', 'DateTime']"
+Map.dateModified,"['Date', 'DateTime']"
+Map.datePublished,"['Date', 'DateTime']"
+Map.discussionUrl,URL
+Map.editEIDR,"['Text', 'URL']"
+Map.editor,Person
+Map.educationalAlignment,AlignmentObject
+Map.educationalLevel,"['DefinedTerm', 'Text', 'URL']"
+Map.educationalUse,"['DefinedTerm', 'Text']"
+Map.encoding,MediaObject
+Map.encodingFormat,"['Text', 'URL']"
+Map.exampleOfWork,CreativeWork
+Map.expires,Date
+Map.funder,"['Organization', 'Person']"
+Map.funding,Grant
+Map.genre,"['Text', 'URL']"
+Map.hasPart,CreativeWork
+Map.headline,Text
+Map.inLanguage,"['Language', 'Text']"
+Map.interactionStatistic,InteractionCounter
+Map.interactivityType,Text
+Map.interpretedAsClaim,Claim
+Map.isAccessibleForFree,Boolean
+Map.isBasedOn,"['CreativeWork', 'Product', 'URL']"
+Map.isFamilyFriendly,Boolean
+Map.isPartOf,"['CreativeWork', 'URL']"
+Map.keywords,"['DefinedTerm', 'Text', 'URL']"
+Map.learningResourceType,"['DefinedTerm', 'Text']"
+Map.license,"['CreativeWork', 'URL']"
+Map.locationCreated,Place
+Map.mainEntity,Thing
+Map.maintainer,"['Organization', 'Person']"
+Map.material,"['Product', 'Text', 'URL']"
+Map.materialExtent,"['QuantitativeValue', 'Text']"
+Map.mentions,Thing
+Map.offers,"['Demand', 'Offer']"
+Map.pattern,"['DefinedTerm', 'Text']"
+Map.position,"['Integer', 'Text']"
+Map.producer,"['Organization', 'Person']"
+Map.provider,"['Organization', 'Person']"
+Map.publication,PublicationEvent
+Map.publisher,"['Organization', 'Person']"
+Map.publisherImprint,Organization
+Map.publishingPrinciples,"['CreativeWork', 'URL']"
+Map.recordedAt,Event
+Map.releasedEvent,PublicationEvent
+Map.review,Review
+Map.schemaVersion,"['Text', 'URL']"
+Map.sdDatePublished,Date
+Map.sdLicense,"['CreativeWork', 'URL']"
+Map.sdPublisher,"['Organization', 'Person']"
+Map.size,"['DefinedTerm', 'QuantitativeValue', 'SizeSpecification', 'Text']"
+Map.sourceOrganization,Organization
+Map.spatial,Place
+Map.spatialCoverage,Place
+Map.sponsor,"['Organization', 'Person']"
+Map.teaches,"['DefinedTerm', 'Text']"
+Map.temporal,"['DateTime', 'Text']"
+Map.temporalCoverage,"['DateTime', 'Text', 'URL']"
+Map.text,Text
+Map.thumbnailUrl,URL
+Map.timeRequired,Duration
+Map.translationOfWork,CreativeWork
+Map.translator,"['Organization', 'Person']"
+Map.typicalAgeRange,Text
+Map.usageInfo,"['CreativeWork', 'URL']"
+Map.version,"['Number', 'Text']"
+Map.video,"['Clip', 'VideoObject']"
+Map.workExample,CreativeWork
+Map.workTranslation,CreativeWork
+Map.additionalType,URL
+Map.alternateName,Text
+Map.description,Text
+Map.disambiguatingDescription,Text
+Map.identifier,"['PropertyValue', 'Text', 'URL']"
+Map.image,"['ImageObject', 'URL']"
+Map.mainEntityOfPage,"['CreativeWork', 'URL']"
+Map.name,Text
+Map.potentialAction,Action
+Map.sameAs,URL
+Map.subjectOf,"['CreativeWork', 'Event']"
+Map.url,URL

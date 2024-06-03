@@ -1,0 +1,17 @@
+property,expected_types
+Brand.aggregateRating,AggregateRating
+Brand.logo,"['ImageObject', 'URL']"
+Brand.review,Review
+Brand.slogan,Text
+Brand.additionalType,URL
+Brand.alternateName,Text
+Brand.description,Text
+Brand.disambiguatingDescription,Text
+Brand.identifier,"['PropertyValue', 'Text', 'URL']"
+Brand.image,"['ImageObject', 'URL']"
+Brand.mainEntityOfPage,"['CreativeWork', 'URL']"
+Brand.name,Text
+Brand.potentialAction,Action
+Brand.sameAs,URL
+Brand.subjectOf,"['CreativeWork', 'Event']"
+Brand.url,URL

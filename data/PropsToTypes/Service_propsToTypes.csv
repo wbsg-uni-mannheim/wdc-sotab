@@ -1,0 +1,34 @@
+property,expected_types
+Service.aggregateRating,AggregateRating
+Service.areaServed,"['AdministrativeArea', 'GeoShape', 'Place', 'Text']"
+Service.audience,Audience
+Service.availableChannel,ServiceChannel
+Service.award,Text
+Service.brand,"['Brand', 'Organization']"
+Service.broker,"['Organization', 'Person']"
+Service.category,"['CategoryCode', 'PhysicalActivityCategory', 'Text', 'Thing', 'URL']"
+Service.hasOfferCatalog,OfferCatalog
+Service.hoursAvailable,OpeningHoursSpecification
+Service.isRelatedTo,"['Product', 'Service']"
+Service.isSimilarTo,"['Product', 'Service']"
+Service.logo,"['ImageObject', 'URL']"
+Service.offers,"['Demand', 'Offer']"
+Service.provider,"['Organization', 'Person']"
+Service.providerMobility,Text
+Service.review,Review
+Service.serviceOutput,Thing
+Service.serviceType,"['GovernmentBenefitsType', 'Text']"
+Service.slogan,Text
+Service.termsOfService,"['Text', 'URL']"
+Service.additionalType,URL
+Service.alternateName,Text
+Service.description,Text
+Service.disambiguatingDescription,Text
+Service.identifier,"['PropertyValue', 'Text', 'URL']"
+Service.image,"['ImageObject', 'URL']"
+Service.mainEntityOfPage,"['CreativeWork', 'URL']"
+Service.name,Text
+Service.potentialAction,Action
+Service.sameAs,URL
+Service.subjectOf,"['CreativeWork', 'Event']"
+Service.url,URL

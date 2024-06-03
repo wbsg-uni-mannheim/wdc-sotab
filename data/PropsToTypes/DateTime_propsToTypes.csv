@@ -1,0 +1,49 @@
+property,expected_types
+DateTime.arrivalTime,Trip
+DateTime.availabilityEnds,"['ActionAccessSpecification', 'Demand', 'Offer']"
+DateTime.availabilityStarts,"['ActionAccessSpecification', 'Demand', 'Offer']"
+DateTime.availableFrom,DeliveryEvent
+DateTime.availableThrough,DeliveryEvent
+DateTime.bookingTime,Reservation
+DateTime.checkinTime,"['LodgingBusiness', 'LodgingReservation']"
+DateTime.checkoutTime,"['LodgingBusiness', 'LodgingReservation']"
+DateTime.commentTime,UserComments
+DateTime.contentReferenceTime,CreativeWork
+DateTime.coverageEndTime,LiveBlogPosting
+DateTime.coverageStartTime,LiveBlogPosting
+DateTime.cvdCollectionDate,CDCPMDRecord
+DateTime.datasetTimeInterval,Dataset
+DateTime.dateCreated,"['CreativeWork', 'DataFeedItem']"
+DateTime.dateDeleted,DataFeedItem
+DateTime.dateIssued,Ticket
+DateTime.dateModified,"['CreativeWork', 'DataFeedItem']"
+DateTime.datePosted,"['CDCPMDRecord', 'JobPosting', 'RealEstateListing', 'SpecialAnnouncement']"
+DateTime.datePublished,CreativeWork
+DateTime.dateRead,Message
+DateTime.dateReceived,Message
+DateTime.dateSent,Message
+DateTime.departureTime,Trip
+DateTime.doorTime,Event
+DateTime.dropoffTime,RentalCarReservation
+DateTime.endDate,"['CreativeWorkSeason', 'CreativeWorkSeries', 'DatedMoneySpecification', 'EducationalOccupationalProgram', 'Event', 'MerchantReturnPolicySeasonalOverride', 'Role', 'Schedule']"
+DateTime.endTime,"['Action', 'FoodEstablishmentReservation', 'InteractionCounter', 'MediaObject', 'Schedule']"
+DateTime.exceptDate,Schedule
+DateTime.expectedArrivalFrom,ParcelDelivery
+DateTime.expectedArrivalUntil,ParcelDelivery
+DateTime.merchantReturnDays,"['MerchantReturnPolicy', 'MerchantReturnPolicySeasonalOverride']"
+DateTime.modifiedTime,Reservation
+DateTime.observationDate,Observation
+DateTime.orderDate,Order
+DateTime.ownedFrom,OwnershipInfo
+DateTime.ownedThrough,OwnershipInfo
+DateTime.paymentDue,"['Invoice', 'Order']"
+DateTime.paymentDueDate,"['Invoice', 'Order']"
+DateTime.pickupTime,"['RentalCarReservation', 'TaxiReservation']"
+DateTime.scheduledTime,PlanAction
+DateTime.startDate,"['CreativeWorkSeason', 'CreativeWorkSeries', 'DatedMoneySpecification', 'EducationalOccupationalProgram', 'Event', 'MerchantReturnPolicySeasonalOverride', 'Role', 'Schedule']"
+DateTime.startTime,"['Action', 'FoodEstablishmentReservation', 'InteractionCounter', 'MediaObject', 'Schedule']"
+DateTime.temporal,CreativeWork
+DateTime.temporalCoverage,CreativeWork
+DateTime.validFrom,"['Demand', 'LocationFeatureSpecification', 'MonetaryAmount', 'Offer', 'OpeningHoursSpecification', 'Permit', 'PriceSpecification']"
+DateTime.validThrough,"['Demand', 'JobPosting', 'LocationFeatureSpecification', 'MonetaryAmount', 'Offer', 'OpeningHoursSpecification', 'PriceSpecification']"
+DateTime.webCheckinTime,Flight

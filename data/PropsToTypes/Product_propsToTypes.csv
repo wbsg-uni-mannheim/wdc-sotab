@@ -1,0 +1,58 @@
+property,expected_types
+Product.additionalProperty,PropertyValue
+Product.aggregateRating,AggregateRating
+Product.audience,Audience
+Product.award,Text
+Product.brand,"['Brand', 'Organization']"
+Product.category,"['PhysicalActivityCategory', 'Text', 'Thing', 'URL']"
+Product.color,Text
+Product.countryOfAssembly,Text
+Product.countryOfLastProcessing,Text
+Product.countryOfOrigin,Country
+Product.depth,"['Distance', 'QuantitativeValue']"
+Product.gtin,Text
+Product.gtin12,Text
+Product.gtin13,Text
+Product.gtin14,Text
+Product.gtin8,Text
+Product.hasEnergyConsumptionDetails,EnergyConsumptionDetails
+Product.hasMeasurement,QuantitativeValue
+Product.hasMerchantReturnPolicy,MerchantReturnPolicy
+Product.height,"['Distance', 'QuantitativeValue']"
+Product.inProductGroupWithID,Text
+Product.isAccessoryOrSparePartFor,Product
+Product.isConsumableFor,Product
+Product.isRelatedTo,"['Product', 'Service']"
+Product.isSimilarTo,"['Product', 'Service']"
+Product.isVariantOf,"['ProductGroup', 'ProductModel']"
+Product.itemCondition,OfferItemCondition
+Product.logo,"['ImageObject', 'URL']"
+Product.manufacturer,Organization
+Product.material,"['Product', 'Text', 'URL']"
+Product.model,"['ProductModel', 'Text']"
+Product.mpn,Text
+Product.nsn,Text
+Product.offers,"['Demand', 'Offer']"
+Product.pattern,"['DefinedTerm', 'Text']"
+Product.productID,Text
+Product.productionDate,Date
+Product.purchaseDate,Date
+Product.releaseDate,Date
+Product.review,Review
+Product.size,"['DefinedTerm', 'QuantitativeValue', 'SizeSpecification', 'Text']"
+Product.sku,Text
+Product.slogan,Text
+Product.weight,QuantitativeValue
+Product.width,"['Distance', 'QuantitativeValue']"
+Product.additionalType,URL
+Product.alternateName,Text
+Product.description,Text
+Product.disambiguatingDescription,Text
+Product.identifier,"['PropertyValue', 'Text', 'URL']"
+Product.image,"['ImageObject', 'URL']"
+Product.mainEntityOfPage,"['CreativeWork', 'URL']"
+Product.name,Text
+Product.potentialAction,Action
+Product.sameAs,URL
+Product.subjectOf,"['CreativeWork', 'Event']"
+Product.url,URL

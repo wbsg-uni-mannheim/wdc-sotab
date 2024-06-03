@@ -1,0 +1,33 @@
+property,expected_types
+MedicalTherapy.contraindication,"['MedicalContraindication', 'Text']"
+MedicalTherapy.duplicateTherapy,MedicalTherapy
+MedicalTherapy.seriousAdverseOutcome,MedicalEntity
+MedicalTherapy.adverseOutcome,MedicalEntity
+MedicalTherapy.doseSchedule,DoseSchedule
+MedicalTherapy.drug,Drug
+MedicalTherapy.bodyLocation,Text
+MedicalTherapy.followup,Text
+MedicalTherapy.howPerformed,Text
+MedicalTherapy.preparation,"['MedicalEntity', 'Text']"
+MedicalTherapy.procedureType,MedicalProcedureType
+MedicalTherapy.status,"['EventStatusType', 'MedicalStudyStatus', 'Text']"
+MedicalTherapy.code,MedicalCode
+MedicalTherapy.funding,Grant
+MedicalTherapy.guideline,MedicalGuideline
+MedicalTherapy.legalStatus,"['DrugLegalStatus', 'MedicalEnumeration', 'Text']"
+MedicalTherapy.medicineSystem,MedicineSystem
+MedicalTherapy.recognizingAuthority,Organization
+MedicalTherapy.relevantSpecialty,MedicalSpecialty
+MedicalTherapy.study,MedicalStudy
+MedicalTherapy.additionalType,URL
+MedicalTherapy.alternateName,Text
+MedicalTherapy.description,Text
+MedicalTherapy.disambiguatingDescription,Text
+MedicalTherapy.identifier,"['PropertyValue', 'Text', 'URL']"
+MedicalTherapy.image,"['ImageObject', 'URL']"
+MedicalTherapy.mainEntityOfPage,"['CreativeWork', 'URL']"
+MedicalTherapy.name,Text
+MedicalTherapy.potentialAction,Action
+MedicalTherapy.sameAs,URL
+MedicalTherapy.subjectOf,"['CreativeWork', 'Event']"
+MedicalTherapy.url,URL

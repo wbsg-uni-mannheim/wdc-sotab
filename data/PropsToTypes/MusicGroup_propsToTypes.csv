@@ -1,0 +1,74 @@
+property,expected_types
+MusicGroup.album,MusicAlbum
+MusicGroup.genre,"['Text', 'URL']"
+MusicGroup.track,"['ItemList', 'MusicRecording']"
+MusicGroup.actionableFeedbackPolicy,"['CreativeWork', 'URL']"
+MusicGroup.address,"['PostalAddress', 'Text']"
+MusicGroup.aggregateRating,AggregateRating
+MusicGroup.alumni,Person
+MusicGroup.areaServed,"['AdministrativeArea', 'GeoShape', 'Place', 'Text']"
+MusicGroup.award,Text
+MusicGroup.brand,"['Brand', 'Organization']"
+MusicGroup.contactPoint,ContactPoint
+MusicGroup.correctionsPolicy,"['CreativeWork', 'URL']"
+MusicGroup.department,Organization
+MusicGroup.dissolutionDate,Date
+MusicGroup.diversityPolicy,"['CreativeWork', 'URL']"
+MusicGroup.diversityStaffingReport,"['Article', 'URL']"
+MusicGroup.duns,Text
+MusicGroup.email,Text
+MusicGroup.employee,Person
+MusicGroup.ethicsPolicy,"['CreativeWork', 'URL']"
+MusicGroup.event,Event
+MusicGroup.faxNumber,Text
+MusicGroup.founder,Person
+MusicGroup.foundingDate,Date
+MusicGroup.foundingLocation,Place
+MusicGroup.funder,"['Organization', 'Person']"
+MusicGroup.funding,Grant
+MusicGroup.globalLocationNumber,Text
+MusicGroup.hasCredential,EducationalOccupationalCredential
+MusicGroup.hasMerchantReturnPolicy,MerchantReturnPolicy
+MusicGroup.hasOfferCatalog,OfferCatalog
+MusicGroup.hasPOS,Place
+MusicGroup.interactionStatistic,InteractionCounter
+MusicGroup.isicV4,Text
+MusicGroup.iso6523Code,Text
+MusicGroup.keywords,"['DefinedTerm', 'Text', 'URL']"
+MusicGroup.knowsAbout,"['Text', 'Thing', 'URL']"
+MusicGroup.knowsLanguage,"['Language', 'Text']"
+MusicGroup.legalName,Text
+MusicGroup.leiCode,Text
+MusicGroup.location,"['Place', 'PostalAddress', 'Text', 'VirtualLocation']"
+MusicGroup.logo,"['ImageObject', 'URL']"
+MusicGroup.makesOffer,Offer
+MusicGroup.member,"['Organization', 'Person']"
+MusicGroup.memberOf,"['Organization', 'ProgramMembership']"
+MusicGroup.naics,Text
+MusicGroup.nonprofitStatus,NonprofitType
+MusicGroup.numberOfEmployees,QuantitativeValue
+MusicGroup.ownershipFundingInfo,"['AboutPage', 'CreativeWork', 'Text', 'URL']"
+MusicGroup.owns,"['OwnershipInfo', 'Product']"
+MusicGroup.parentOrganization,Organization
+MusicGroup.publishingPrinciples,"['CreativeWork', 'URL']"
+MusicGroup.review,Review
+MusicGroup.seeks,Demand
+MusicGroup.slogan,Text
+MusicGroup.sponsor,"['Organization', 'Person']"
+MusicGroup.subOrganization,Organization
+MusicGroup.taxID,Text
+MusicGroup.telephone,Text
+MusicGroup.unnamedSourcesPolicy,"['CreativeWork', 'URL']"
+MusicGroup.vatID,Text
+MusicGroup.additionalType,URL
+MusicGroup.alternateName,Text
+MusicGroup.description,Text
+MusicGroup.disambiguatingDescription,Text
+MusicGroup.identifier,"['PropertyValue', 'Text', 'URL']"
+MusicGroup.image,"['ImageObject', 'URL']"
+MusicGroup.mainEntityOfPage,"['CreativeWork', 'URL']"
+MusicGroup.name,Text
+MusicGroup.potentialAction,Action
+MusicGroup.sameAs,URL
+MusicGroup.subjectOf,"['CreativeWork', 'Event']"
+MusicGroup.url,URL

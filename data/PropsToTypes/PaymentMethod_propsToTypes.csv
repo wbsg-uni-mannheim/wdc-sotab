@@ -1,0 +1,4 @@
+property,expected_types
+PaymentMethod.acceptedPaymentMethod,"['Demand', 'Offer']"
+PaymentMethod.appliesToPaymentMethod,PaymentChargeSpecification
+PaymentMethod.paymentMethod,"['Invoice', 'Order']"

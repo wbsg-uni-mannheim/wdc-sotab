@@ -1,0 +1,18 @@
+property,expected_types
+OpeningHoursSpecification.closes,Time
+OpeningHoursSpecification.dayOfWeek,DayOfWeek
+OpeningHoursSpecification.opens,Time
+OpeningHoursSpecification.validFrom,"['Date', 'DateTime']"
+OpeningHoursSpecification.validThrough,"['Date', 'DateTime']"
+OpeningHoursSpecification.additionalType,URL
+OpeningHoursSpecification.alternateName,Text
+OpeningHoursSpecification.description,Text
+OpeningHoursSpecification.disambiguatingDescription,Text
+OpeningHoursSpecification.identifier,"['PropertyValue', 'Text', 'URL']"
+OpeningHoursSpecification.image,"['ImageObject', 'URL']"
+OpeningHoursSpecification.mainEntityOfPage,"['CreativeWork', 'URL']"
+OpeningHoursSpecification.name,Text
+OpeningHoursSpecification.potentialAction,Action
+OpeningHoursSpecification.sameAs,URL
+OpeningHoursSpecification.subjectOf,"['CreativeWork', 'Event']"
+OpeningHoursSpecification.url,URL

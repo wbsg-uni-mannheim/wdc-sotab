@@ -1,0 +1,15 @@
+property,expected_types
+Audience.audienceType,Text
+Audience.geographicArea,AdministrativeArea
+Audience.additionalType,URL
+Audience.alternateName,Text
+Audience.description,Text
+Audience.disambiguatingDescription,Text
+Audience.identifier,"['PropertyValue', 'Text', 'URL']"
+Audience.image,"['ImageObject', 'URL']"
+Audience.mainEntityOfPage,"['CreativeWork', 'URL']"
+Audience.name,Text
+Audience.potentialAction,Action
+Audience.sameAs,URL
+Audience.subjectOf,"['CreativeWork', 'Event']"
+Audience.url,URL

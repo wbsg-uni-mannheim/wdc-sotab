@@ -1,0 +1,2 @@
+property,expected_types
+RestrictedDiet.suitableForDiet,"['MenuItem', 'Recipe']"

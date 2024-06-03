@@ -1,0 +1,16 @@
+property,expected_types
+OfferCatalog.itemListElement,"['ListItem', 'Text', 'Thing']"
+OfferCatalog.itemListOrder,"['ItemListOrderType', 'Text']"
+OfferCatalog.numberOfItems,Integer
+OfferCatalog.additionalType,URL
+OfferCatalog.alternateName,Text
+OfferCatalog.description,Text
+OfferCatalog.disambiguatingDescription,Text
+OfferCatalog.identifier,"['PropertyValue', 'Text', 'URL']"
+OfferCatalog.image,"['ImageObject', 'URL']"
+OfferCatalog.mainEntityOfPage,"['CreativeWork', 'URL']"
+OfferCatalog.name,Text
+OfferCatalog.potentialAction,Action
+OfferCatalog.sameAs,URL
+OfferCatalog.subjectOf,"['CreativeWork', 'Event']"
+OfferCatalog.url,URL

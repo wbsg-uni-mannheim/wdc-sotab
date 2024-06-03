@@ -1,0 +1,13 @@
+property,expected_types
+Time.arrivalTime,Trip
+Time.availabilityEnds,"['ActionAccessSpecification', 'Demand', 'Offer']"
+Time.availabilityStarts,"['ActionAccessSpecification', 'Demand', 'Offer']"
+Time.checkinTime,"['LodgingBusiness', 'LodgingReservation']"
+Time.checkoutTime,"['LodgingBusiness', 'LodgingReservation']"
+Time.closes,OpeningHoursSpecification
+Time.cutoffTime,ShippingDeliveryTime
+Time.departureTime,Trip
+Time.doorTime,Event
+Time.endTime,"['Action', 'FoodEstablishmentReservation', 'InteractionCounter', 'MediaObject', 'Schedule']"
+Time.opens,OpeningHoursSpecification
+Time.startTime,"['Action', 'FoodEstablishmentReservation', 'InteractionCounter', 'MediaObject', 'Schedule']"

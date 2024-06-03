@@ -1,0 +1,48 @@
+property,expected_types
+Integer.answerCount,Question
+Integer.artEdition,VisualArtwork
+Integer.byMonth,Schedule
+Integer.byMonthDay,Schedule
+Integer.byMonthWeek,Schedule
+Integer.clipNumber,Clip
+Integer.collectionSize,Collection
+Integer.commentCount,CreativeWork
+Integer.constrainingProperty,StatisticalPopulation
+Integer.downvoteCount,Comment
+Integer.episodeNumber,Episode
+Integer.issueNumber,PublicationIssue
+Integer.maximumAttendeeCapacity,"['Event', 'Place']"
+Integer.maximumEnrollment,EducationalOccupationalProgram
+Integer.maximumPhysicalAttendeeCapacity,Event
+Integer.maximumVirtualAttendeeCapacity,Event
+Integer.merchantReturnDays,"['MerchantReturnPolicy', 'MerchantReturnPolicySeasonalOverride']"
+Integer.numAdults,LodgingReservation
+Integer.numChildren,LodgingReservation
+Integer.numConstraints,StatisticalPopulation
+Integer.numTracks,MusicPlaylist
+Integer.numberOfBathroomsTotal,"['Accommodation', 'FloorPlan']"
+Integer.numberOfCredits,"['Course', 'EducationalOccupationalProgram']"
+Integer.numberOfEpisodes,"['CreativeWorkSeason', 'RadioSeries', 'TVSeries', 'VideoGameSeries']"
+Integer.numberOfItems,ItemList
+Integer.numberOfPages,Book
+Integer.numberOfSeasons,"['RadioSeries', 'TVSeries', 'VideoGameSeries']"
+Integer.offerCount,AggregateOffer
+Integer.pageEnd,"['Article', 'Chapter', 'PublicationIssue', 'PublicationVolume']"
+Integer.pageStart,"['Article', 'Chapter', 'PublicationIssue', 'PublicationVolume']"
+Integer.partySize,"['FoodEstablishmentReservation', 'TaxiReservation']"
+Integer.playersOnline,GameServer
+Integer.position,"['CreativeWork', 'ListItem']"
+Integer.productReturnDays,ProductReturnPolicy
+Integer.ratingCount,AggregateRating
+Integer.remainingAttendeeCapacity,Event
+Integer.repeatCount,Schedule
+Integer.requiredMaxAge,PeopleAudience
+Integer.requiredMinAge,PeopleAudience
+Integer.reviewCount,AggregateRating
+Integer.seasonNumber,CreativeWorkSeason
+Integer.totalJobOpenings,JobPosting
+Integer.typicalCreditsPerTerm,EducationalOccupationalProgram
+Integer.upvoteCount,Comment
+Integer.userInteractionCount,InteractionCounter
+Integer.volumeNumber,PublicationVolume
+Integer.wordCount,Article

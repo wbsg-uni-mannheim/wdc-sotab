@@ -1,0 +1,19 @@
+property,expected_types
+InteractionCounter.endTime,"['DateTime', 'Time']"
+InteractionCounter.interactionService,"['SoftwareApplication', 'WebSite']"
+InteractionCounter.interactionType,Action
+InteractionCounter.location,"['Place', 'PostalAddress', 'Text', 'VirtualLocation']"
+InteractionCounter.startTime,"['DateTime', 'Time']"
+InteractionCounter.userInteractionCount,Integer
+InteractionCounter.additionalType,URL
+InteractionCounter.alternateName,Text
+InteractionCounter.description,Text
+InteractionCounter.disambiguatingDescription,Text
+InteractionCounter.identifier,"['PropertyValue', 'Text', 'URL']"
+InteractionCounter.image,"['ImageObject', 'URL']"
+InteractionCounter.mainEntityOfPage,"['CreativeWork', 'URL']"
+InteractionCounter.name,Text
+InteractionCounter.potentialAction,Action
+InteractionCounter.sameAs,URL
+InteractionCounter.subjectOf,"['CreativeWork', 'Event']"
+InteractionCounter.url,URL
